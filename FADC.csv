@@ -1,0 +1,933 @@
+﻿iso_code,location,date,total_cases_per_million,new_cases_per_million,total_deaths_per_million,new_deaths_per_million,Common_Symtoms,fever,dry cough,fatigue,loss of taste,loss of or smell,difficulty breathing,sore throat,headache,muscle aches,chills,diarrhea,runny nose,nausea
+AFG,Afghanistan,31/12/2019,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+AFG,Afghanistan,01/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+AFG,Afghanistan,02/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+AFG,Afghanistan,03/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+AFG,Afghanistan,04/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+AFG,Afghanistan,05/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+AFG,Afghanistan,06/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+AFG,Afghanistan,07/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+AFG,Afghanistan,08/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+AFG,Afghanistan,09/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+AFG,Afghanistan,10/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+AFG,Afghanistan,11/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+AFG,Afghanistan,12/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+AFG,Afghanistan,13/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+AFG,Afghanistan,14/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+AFG,Afghanistan,15/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+AFG,Afghanistan,16/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+AFG,Afghanistan,17/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+AFG,Afghanistan,18/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+AFG,Afghanistan,19/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+AFG,Afghanistan,20/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+AFG,Afghanistan,21/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+AFG,Afghanistan,22/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+AFG,Afghanistan,23/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+AFG,Afghanistan,24/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+AFG,Afghanistan,25/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+AFG,Afghanistan,26/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+AFG,Afghanistan,27/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+AFG,Afghanistan,28/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+AFG,Afghanistan,29/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+AFG,Afghanistan,30/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+AFG,Afghanistan,31/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+AFG,Afghanistan,01/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+AFG,Afghanistan,02/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+AFG,Afghanistan,03/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+AFG,Afghanistan,04/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+AFG,Afghanistan,05/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+AFG,Afghanistan,06/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+AFG,Afghanistan,07/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+AFG,Afghanistan,08/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+AFG,Afghanistan,09/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+AFG,Afghanistan,10/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+AFG,Afghanistan,11/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+AFG,Afghanistan,12/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+AFG,Afghanistan,13/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+AFG,Afghanistan,14/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+AFG,Afghanistan,15/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+AFG,Afghanistan,16/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+AFG,Afghanistan,17/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+AFG,Afghanistan,18/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+AFG,Afghanistan,19/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+AFG,Afghanistan,20/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+AFG,Afghanistan,21/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+AFG,Afghanistan,22/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+AFG,Afghanistan,23/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+AFG,Afghanistan,24/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+AFG,Afghanistan,25/02/2020,0.026,0.026,0,0,"['headache', 'dry cough', 'runny nose', 'fever', 'nausea', 'loss of or smell', 'sore throat']",1,1,0,0,1,0,1,1,0,0,0,1,1
+AFG,Afghanistan,26/02/2020,0.026,0,0,0,"['chills', 'loss of taste', 'diarrhea', 'runny nose', 'nausea', 'muscle aches']",0,0,0,1,0,0,0,0,1,1,1,1,1
+AFG,Afghanistan,27/02/2020,0.026,0,0,0,"['loss of or smell', 'headache', 'sore throat', 'difficulty breathing', 'nausea', 'chills', 'loss of taste']",0,0,0,1,1,1,1,1,0,1,0,0,1
+AFG,Afghanistan,28/02/2020,0.026,0,0,0,"['fever', 'fatigue', 'headache', 'muscle aches', 'chills', 'nausea', 'difficulty breathing']",1,0,1,0,0,1,0,1,1,1,0,0,1
+AFG,Afghanistan,29/02/2020,0.026,0,0,0,"['dry cough', 'diarrhea', 'fever', 'sore throat', 'fatigue', 'muscle aches', 'loss of or smell']",1,1,1,0,1,0,1,0,1,0,1,0,0
+AFG,Afghanistan,01/03/2020,0.026,0,0,0,"['loss of or smell', 'dry cough', 'difficulty breathing', 'loss of taste', 'fatigue', 'sore throat']",0,1,1,1,1,1,1,0,0,0,0,0,0
+AFG,Afghanistan,02/03/2020,0.026,0,0,0,"['fever', 'muscle aches', 'headache', 'runny nose', 'fatigue', 'loss of taste']",1,0,1,1,0,0,0,1,1,0,0,1,0
+AFG,Afghanistan,03/03/2020,0.026,0,0,0,"['fever', 'chills', 'fatigue', 'sore throat', 'loss of taste', 'loss of or smell']",1,0,1,1,1,0,1,0,0,1,0,0,0
+AFG,Afghanistan,04/03/2020,0.026,0,0,0,"['loss of or smell', 'diarrhea', 'sore throat', 'difficulty breathing', 'muscle aches', 'headache']",0,0,0,0,1,1,1,1,1,0,1,0,0
+AFG,Afghanistan,05/03/2020,0.026,0,0,0,"['dry cough', 'diarrhea', 'chills', 'loss of taste', 'loss of or smell', 'runny nose']",0,1,0,1,1,0,0,0,0,1,1,1,0
+AFG,Afghanistan,06/03/2020,0.026,0,0,0,"['sore throat', 'headache', 'dry cough', 'loss of or smell', 'muscle aches', 'nausea', 'fatigue']",0,1,1,0,1,0,1,1,1,0,0,0,1
+AFG,Afghanistan,07/03/2020,0.026,0,0,0,"['dry cough', 'nausea', 'fatigue', 'loss of or smell', 'difficulty breathing', 'runny nose', 'muscle aches']",0,1,1,0,1,1,0,0,1,0,0,1,1
+AFG,Afghanistan,08/03/2020,0.103,0.077,0,0,"['difficulty breathing', 'loss of or smell', 'diarrhea', 'loss of taste', 'muscle aches', 'headache', 'nausea']",0,0,0,1,1,1,0,1,1,0,1,0,1
+AFG,Afghanistan,09/03/2020,0.103,0,0,0,"['sore throat', 'headache', 'chills', 'nausea', 'muscle aches', 'runny nose', 'loss of taste']",0,0,0,1,0,0,1,1,1,1,0,1,1
+AFG,Afghanistan,10/03/2020,0.103,0,0,0,"['loss of taste', 'fatigue', 'headache', 'runny nose', 'muscle aches', 'sore throat']",0,0,1,1,0,0,1,1,1,0,0,1,0
+AFG,Afghanistan,11/03/2020,0.18,0.077,0,0,"['fatigue', 'dry cough', 'sore throat', 'muscle aches', 'fever', 'headache', 'loss of or smell']",1,1,1,0,1,0,1,1,1,0,0,0,0
+AFG,Afghanistan,12/03/2020,0.18,0,0,0,"['loss of or smell', 'fatigue', 'diarrhea', 'runny nose', 'fever', 'chills', 'loss of taste']",1,0,1,1,1,0,0,0,0,1,1,1,0
+AFG,Afghanistan,13/03/2020,0.18,0,0,0,"['dry cough', 'chills', 'loss of taste', 'fever', 'difficulty breathing', 'runny nose']",1,1,0,1,0,1,0,0,0,1,0,1,0
+AFG,Afghanistan,14/03/2020,0.18,0,0,0,"['difficulty breathing', 'runny nose', 'loss of or smell', 'muscle aches', 'fever', 'dry cough', 'loss of taste']",1,1,0,1,1,1,0,0,1,0,0,1,0
+AFG,Afghanistan,15/03/2020,0.257,0.077,0,0,"['loss of or smell', 'muscle aches', 'runny nose', 'headache', 'loss of taste', 'sore throat']",0,0,0,1,1,0,1,1,1,0,0,1,0
+AFG,Afghanistan,16/03/2020,0.411,0.154,0,0,"['difficulty breathing', 'nausea', 'fever', 'chills', 'headache', 'dry cough']",1,1,0,0,0,1,0,1,0,1,0,0,1
+AFG,Afghanistan,17/03/2020,0.539,0.128,0,0,"['muscle aches', 'nausea', 'diarrhea', 'fever', 'fatigue', 'difficulty breathing', 'sore throat']",1,0,1,0,0,1,1,0,1,0,1,0,1
+AFG,Afghanistan,18/03/2020,0.565,0.026,0,0,"['chills', 'fever', 'headache', 'difficulty breathing', 'sore throat', 'runny nose', 'loss of or smell']",1,0,0,0,1,1,1,1,0,1,0,1,0
+AFG,Afghanistan,19/03/2020,0.565,0,0,0,"['diarrhea', 'loss of taste', 'loss of or smell', 'fatigue', 'difficulty breathing', 'chills', 'dry cough']",0,1,1,1,1,1,0,0,0,1,1,0,0
+AFG,Afghanistan,20/03/2020,0.565,0,0,0,"['chills', 'fever', 'runny nose', 'diarrhea', 'sore throat', 'fatigue']",1,0,1,0,0,0,1,0,0,1,1,1,0
+AFG,Afghanistan,21/03/2020,0.617,0.051,0,0,"['loss of or smell', 'headache', 'fever', 'dry cough', 'sore throat', 'nausea', 'loss of taste']",1,1,0,1,1,0,1,1,0,0,0,0,1
+AFG,Afghanistan,22/03/2020,0.617,0,0,0,"['chills', 'loss of or smell', 'nausea', 'dry cough', 'sore throat', 'fatigue', 'headache']",0,1,1,0,1,0,1,1,0,1,0,0,1
+AFG,Afghanistan,23/03/2020,0.873,0.257,0,0,"['diarrhea', 'fever', 'runny nose', 'fatigue', 'muscle aches', 'difficulty breathing']",1,0,1,0,0,1,0,0,1,0,1,1,0
+AFG,Afghanistan,24/03/2020,1.028,0.154,0.026,0.026,"['sore throat', 'loss of taste', 'dry cough', 'loss of or smell', 'diarrhea', 'headache', 'nausea']",0,1,0,1,1,0,1,1,0,0,1,0,1
+AFG,Afghanistan,25/03/2020,1.079,0.051,0.026,0,"['runny nose', 'sore throat', 'fatigue', 'fever', 'muscle aches', 'loss of taste']",1,0,1,1,0,0,1,0,1,0,0,1,0
+AFG,Afghanistan,26/03/2020,1.927,0.848,0.026,0,"['chills', 'loss of or smell', 'loss of taste', 'difficulty breathing', 'diarrhea', 'muscle aches']",0,0,0,1,1,1,0,0,1,1,1,0,0
+AFG,Afghanistan,27/03/2020,1.927,0,0.026,0,"['fatigue', 'nausea', 'dry cough', 'runny nose', 'diarrhea', 'chills', 'difficulty breathing']",0,1,1,0,0,1,0,0,0,1,1,1,1
+AFG,Afghanistan,28/03/2020,2.338,0.411,0.051,0.026,"['chills', 'difficulty breathing', 'loss of or smell', 'runny nose', 'muscle aches', 'sore throat']",0,0,0,0,1,1,1,0,1,1,0,1,0
+AFG,Afghanistan,29/03/2020,2.723,0.385,0.077,0.026,"['fatigue', 'headache', 'fever', 'dry cough', 'difficulty breathing', 'loss of taste']",1,1,1,1,0,1,0,1,0,0,0,0,0
+AFG,Afghanistan,30/03/2020,2.928,0.206,0.103,0.026,"['sore throat', 'loss of or smell', 'loss of taste', 'difficulty breathing', 'muscle aches', 'dry cough', 'chills']",0,1,0,1,1,1,1,0,1,1,0,0,0
+AFG,Afghanistan,31/03/2020,3.622,0.694,0.103,0,"['loss of or smell', 'dry cough', 'diarrhea', 'chills', 'runny nose', 'sore throat', 'difficulty breathing']",0,1,0,0,1,1,1,0,0,1,1,1,0
+AFG,Afghanistan,01/04/2020,4.264,0.642,0.103,0,"['loss of taste', 'runny nose', 'fatigue', 'loss of or smell', 'chills', 'muscle aches', 'nausea']",0,0,1,1,1,0,0,0,1,1,0,1,1
+AFG,Afghanistan,02/04/2020,4.932,0.668,0.103,0,"['sore throat', 'headache', 'muscle aches', 'fatigue', 'loss of taste', 'loss of or smell']",0,0,1,1,1,0,1,1,1,0,0,0,0
+AFG,Afghanistan,03/04/2020,6.037,1.105,0.103,0,"['chills', 'sore throat', 'nausea', 'fever', 'loss of or smell', 'loss of taste', 'dry cough']",1,1,0,1,1,0,1,0,0,1,0,0,1
+AFG,Afghanistan,04/04/2020,6.037,0,0.103,0,"['loss of or smell', 'loss of taste', 'headache', 'fatigue', 'sore throat', 'muscle aches']",0,0,1,1,1,0,1,1,1,0,0,0,0
+AFG,Afghanistan,05/04/2020,6.936,0.899,0.128,0.026,"['fever', 'loss of taste', 'dry cough', 'diarrhea', 'fatigue', 'runny nose']",1,1,1,1,0,0,0,0,0,0,1,1,0
+AFG,Afghanistan,06/04/2020,7.681,0.745,0.18,0.051,"['fever', 'runny nose', 'headache', 'dry cough', 'muscle aches', 'loss of taste', 'diarrhea']",1,1,0,1,0,0,0,1,1,0,1,1,0
+AFG,Afghanistan,07/04/2020,8.657,0.976,0.18,0,"['diarrhea', 'nausea', 'fatigue', 'sore throat', 'fever', 'loss of taste']",1,0,1,1,0,0,1,0,0,0,1,0,1
+AFG,Afghanistan,08/04/2020,9.428,0.771,0.283,0.103,"['runny nose', 'muscle aches', 'fatigue', 'loss of or smell', 'dry cough', 'chills']",0,1,1,0,1,0,0,0,1,1,0,1,0
+AFG,Afghanistan,09/04/2020,10.866,1.439,0.36,0.077,"['headache', 'loss of taste', 'muscle aches', 'fatigue', 'difficulty breathing', 'nausea', 'chills']",0,0,1,1,0,1,0,1,1,1,0,0,1
+AFG,Afghanistan,10/04/2020,12.433,1.567,0.385,0.026,"['fever', 'sore throat', 'fatigue', 'nausea', 'chills', 'dry cough', 'runny nose']",1,1,1,0,0,0,1,0,0,1,0,1,1
+AFG,Afghanistan,11/04/2020,13.384,0.95,0.385,0,"['loss of taste', 'nausea', 'loss of or smell', 'runny nose', 'dry cough', 'muscle aches', 'diarrhea']",0,1,0,1,1,0,0,0,1,0,1,1,1
+AFG,Afghanistan,12/04/2020,14.257,0.873,0.462,0.077,"['diarrhea', 'fatigue', 'fever', 'loss of taste', 'sore throat', 'difficulty breathing']",1,0,1,1,0,1,1,0,0,0,1,0,0
+AFG,Afghanistan,13/04/2020,15.593,1.336,0.462,0,"['nausea', 'loss of or smell', 'fever', 'sore throat', 'runny nose', 'dry cough', 'muscle aches']",1,1,0,0,1,0,1,0,1,0,0,1,1
+AFG,Afghanistan,14/04/2020,17.083,1.49,0.539,0.077,"['muscle aches', 'sore throat', 'fatigue', 'difficulty breathing', 'headache', 'loss of or smell', 'diarrhea']",0,0,1,0,1,1,1,1,1,0,1,0,0
+AFG,Afghanistan,15/04/2020,18.341,1.259,0.591,0.051,"['headache', 'muscle aches', 'loss of taste', 'sore throat', 'diarrhea', 'fever', 'runny nose']",1,0,0,1,0,0,1,1,1,0,1,1,0
+AFG,Afghanistan,16/04/2020,20.14,1.798,0.642,0.051,"['loss of or smell', 'chills', 'loss of taste', 'fever', 'nausea', 'muscle aches', 'fatigue']",1,0,1,1,1,0,0,0,1,1,0,0,1
+AFG,Afghanistan,17/04/2020,20.396,0.257,0.745,0.103,"['chills', 'difficulty breathing', 'loss of taste', 'fatigue', 'dry cough', 'runny nose']",0,1,1,1,0,1,0,0,0,1,0,1,0
+AFG,Afghanistan,18/04/2020,21.707,1.31,0.771,0.026,"['fatigue', 'loss of taste', 'chills', 'sore throat', 'loss of or smell', 'dry cough']",0,1,1,1,1,0,1,0,0,1,0,0,0
+AFG,Afghanistan,19/04/2020,23.325,1.618,0.771,0,"['dry cough', 'diarrhea', 'loss of or smell', 'fatigue', 'runny nose', 'muscle aches', 'chills']",0,1,1,0,1,0,0,0,1,1,1,1,0
+AFG,Afghanistan,20/04/2020,25.585,2.261,0.848,0.077,"['loss of taste', 'runny nose', 'dry cough', 'difficulty breathing', 'sore throat', 'loss of or smell', 'diarrhea']",0,1,0,1,1,1,1,0,0,0,1,1,0
+AFG,Afghanistan,21/04/2020,26.485,0.899,0.899,0.051,"['runny nose', 'fever', 'sore throat', 'difficulty breathing', 'muscle aches', 'dry cough']",1,1,0,0,0,1,1,0,1,0,0,1,0
+AFG,Afghanistan,22/04/2020,28.052,1.567,0.925,0.026,"['muscle aches', 'loss of taste', 'fatigue', 'diarrhea', 'dry cough', 'sore throat']",0,1,1,1,0,0,1,0,1,0,1,0,0
+AFG,Afghanistan,23/04/2020,30.209,2.158,1.028,0.103,"['muscle aches', 'fever', 'runny nose', 'nausea', 'dry cough', 'loss of or smell']",1,1,0,0,1,0,0,0,1,0,0,1,1
+AFG,Afghanistan,24/04/2020,32.907,2.697,1.079,0.051,"['runny nose', 'sore throat', 'nausea', 'fatigue', 'chills', 'headache', 'fever']",1,0,1,0,0,0,1,1,0,1,0,1,1
+AFG,Afghanistan,25/04/2020,34.705,1.798,1.105,0.026,"['difficulty breathing', 'chills', 'headache', 'muscle aches', 'loss of taste', 'loss of or smell']",0,0,0,1,1,1,0,1,1,1,0,0,0
+AFG,Afghanistan,26/04/2020,37.582,2.877,1.207,0.103,"['loss of taste', 'headache', 'muscle aches', 'runny nose', 'fatigue', 'fever', 'difficulty breathing']",1,0,1,1,0,1,0,1,1,0,0,1,0
+AFG,Afghanistan,27/04/2020,39.329,1.747,1.464,0.257,"['loss of taste', 'fever', 'fatigue', 'diarrhea', 'sore throat', 'difficulty breathing', 'loss of or smell']",1,0,1,1,1,1,1,0,0,0,1,0,0
+AFG,Afghanistan,28/04/2020,43.747,4.418,1.464,0,"['diarrhea', 'sore throat', 'runny nose', 'loss of or smell', 'fever', 'nausea']",1,0,0,0,1,0,1,0,0,0,1,1,1
+AFG,Afghanistan,29/04/2020,46.932,3.185,1.541,0.077,"['difficulty breathing', 'loss of taste', 'fever', 'runny nose', 'headache', 'chills', 'diarrhea']",1,0,0,1,0,1,0,1,0,1,1,1,0
+AFG,Afghanistan,30/04/2020,50.066,3.134,1.541,0,"['difficulty breathing', 'loss of or smell', 'chills', 'dry cough', 'nausea', 'runny nose']",0,1,0,0,1,1,0,0,0,1,0,1,1
+AFG,Afghanistan,01/05/2020,55.769,5.703,1.644,0.103,"['diarrhea', 'fatigue', 'muscle aches', 'headache', 'nausea', 'loss of taste']",0,0,1,1,0,0,0,1,1,0,1,0,1
+AFG,Afghanistan,02/05/2020,59.982,4.213,1.747,0.103,"['diarrhea', 'dry cough', 'sore throat', 'headache', 'runny nose', 'fatigue']",0,1,1,0,0,0,1,1,0,0,1,1,0
+AFG,Afghanistan,03/05/2020,63.424,3.442,1.85,0.103,"['difficulty breathing', 'chills', 'fever', 'dry cough', 'runny nose', 'fatigue', 'loss of or smell']",1,1,1,0,1,1,0,0,0,1,0,1,0
+AFG,Afghanistan,04/05/2020,69.461,6.037,2.183,0.334,"['difficulty breathing', 'loss of taste', 'muscle aches', 'runny nose', 'fatigue', 'loss of or smell', 'diarrhea']",0,0,1,1,1,1,0,0,1,0,1,1,0
+AFG,Afghanistan,05/05/2020,74.342,4.881,2.312,0.128,"['sore throat', 'headache', 'dry cough', 'difficulty breathing', 'muscle aches', 'fever']",1,1,0,0,0,1,1,1,1,0,0,0,0
+AFG,Afghanistan,06/05/2020,82.819,8.477,2.44,0.128,"['chills', 'runny nose', 'difficulty breathing', 'muscle aches', 'fatigue', 'loss of or smell', 'fever']",1,0,1,0,1,1,0,0,1,1,0,1,0
+AFG,Afghanistan,07/05/2020,87.134,4.316,2.672,0.231,"['fatigue', 'sore throat', 'runny nose', 'nausea', 'loss of or smell', 'loss of taste']",0,0,1,1,1,0,1,0,0,0,0,1,1
+AFG,Afghanistan,08/05/2020,91.527,4.393,2.723,0.051,"['fatigue', 'muscle aches', 'sore throat', 'loss of or smell', 'diarrhea', 'nausea']",0,0,1,0,1,0,1,0,1,0,1,0,1
+AFG,Afghanistan,09/05/2020,97.05,5.523,2.8,0.077,"['diarrhea', 'sore throat', 'loss of or smell', 'fatigue', 'dry cough', 'difficulty breathing']",0,1,1,0,1,1,1,0,0,0,1,0,0
+AFG,Afghanistan,10/05/2020,103.601,6.55,2.954,0.154,"['diarrhea', 'runny nose', 'sore throat', 'difficulty breathing', 'loss of or smell', 'dry cough', 'fever']",1,1,0,0,1,1,1,0,0,0,1,1,0
+AFG,Afghanistan,11/05/2020,113.08,9.479,3.083,0.128,"['chills', 'diarrhea', 'loss of or smell', 'headache', 'nausea', 'fatigue']",0,0,1,0,1,0,0,1,0,1,1,0,1
+AFG,Afghanistan,12/05/2020,120.401,7.321,3.134,0.051,"['fever', 'sore throat', 'nausea', 'loss of taste', 'runny nose', 'chills']",1,0,0,1,0,0,1,0,0,1,0,1,1
+AFG,Afghanistan,13/05/2020,127.593,7.193,3.262,0.128,"['runny nose', 'loss of or smell', 'fatigue', 'dry cough', 'headache', 'diarrhea', 'loss of taste']",0,1,1,1,1,0,0,1,0,0,1,1,0
+AFG,Afghanistan,14/05/2020,134.247,6.653,3.339,0.077,"['fatigue', 'runny nose', 'diarrhea', 'chills', 'headache', 'loss of taste', 'muscle aches']",0,0,1,1,0,0,0,1,1,1,1,1,0
+AFG,Afghanistan,15/05/2020,137.149,2.903,3.494,0.154,"['muscle aches', 'diarrhea', 'sore throat', 'loss of or smell', 'nausea', 'fatigue']",0,0,1,0,1,0,1,0,1,0,1,0,1
+AFG,Afghanistan,16/05/2020,164.456,27.307,4.316,0.822,"['dry cough', 'diarrhea', 'loss of or smell', 'nausea', 'sore throat', 'headache']",0,1,0,0,1,0,1,1,0,0,1,0,1
+AFG,Afghanistan,17/05/2020,164.456,0,4.316,0,"['muscle aches', 'difficulty breathing', 'dry cough', 'fever', 'loss of taste', 'nausea']",1,1,0,1,0,1,0,0,1,0,0,0,1
+AFG,Afghanistan,18/05/2020,171.186,6.73,4.341,0.026,"['loss of or smell', 'nausea', 'fatigue', 'runny nose', 'headache', 'fever']",1,0,1,0,1,0,0,1,0,0,0,1,1
+AFG,Afghanistan,19/05/2020,181.667,10.481,4.444,0.103,"['nausea', 'loss of taste', 'dry cough', 'fatigue', 'diarrhea', 'difficulty breathing']",0,1,1,1,0,1,0,0,0,0,1,0,1
+AFG,Afghanistan,20/05/2020,196.592,14.925,4.573,0.128,"['chills', 'headache', 'loss of or smell', 'runny nose', 'fatigue', 'diarrhea']",0,0,1,0,1,0,0,1,0,1,1,1,0
+AFG,Afghanistan,21/05/2020,209.231,12.639,4.804,0.231,"['dry cough', 'difficulty breathing', 'chills', 'loss of taste', 'headache', 'sore throat', 'fever']",1,1,0,1,0,1,1,1,0,1,0,0,0
+AFG,Afghanistan,22/05/2020,222.871,13.64,4.958,0.154,"['headache', 'nausea', 'muscle aches', 'chills', 'runny nose', 'difficulty breathing']",0,0,0,0,0,1,0,1,1,1,0,1,1
+AFG,Afghanistan,23/05/2020,236.743,13.872,5.266,0.308,"['fever', 'loss of taste', 'muscle aches', 'chills', 'diarrhea', 'fatigue']",1,0,1,1,0,0,0,0,1,1,1,0,0
+AFG,Afghanistan,24/05/2020,256.831,20.088,5.549,0.283,"['diarrhea', 'muscle aches', 'loss of or smell', 'dry cough', 'fever', 'headache']",1,1,0,0,1,0,0,1,1,0,1,0,0
+AFG,Afghanistan,25/05/2020,271.833,15.002,5.6,0.051,"['muscle aches', 'chills', 'nausea', 'fatigue', 'dry cough', 'loss of taste']",0,1,1,1,0,0,0,0,1,1,0,0,1
+AFG,Afghanistan,26/05/2020,287.015,15.182,5.626,0.026,"['diarrhea', 'sore throat', 'dry cough', 'headache', 'muscle aches', 'fever', 'nausea']",1,1,0,0,0,0,1,1,1,0,1,0,1
+AFG,Afghanistan,27/05/2020,303.917,16.903,5.651,0.026,"['fever', 'loss of or smell', 'loss of taste', 'difficulty breathing', 'nausea', 'muscle aches', 'runny nose']",1,0,0,1,1,1,0,0,1,0,0,1,1
+AFG,Afghanistan,28/05/2020,319.973,16.055,5.831,0.18,"['runny nose', 'difficulty breathing', 'sore throat', 'dry cough', 'nausea', 'loss of taste', 'chills']",0,1,0,1,0,1,1,0,0,1,0,1,1
+AFG,Afghanistan,29/05/2020,334.872,14.899,6.037,0.206,"['runny nose', 'muscle aches', 'difficulty breathing', 'fever', 'loss of or smell', 'sore throat']",1,0,0,0,1,1,1,0,1,0,0,1,0
+AFG,Afghanistan,30/05/2020,350.875,16.004,6.319,0.283,"['dry cough', 'muscle aches', 'fever', 'nausea', 'chills', 'runny nose', 'sore throat']",1,1,0,0,0,0,1,0,1,1,0,1,1
+AFG,Afghanistan,31/05/2020,373.121,22.246,6.396,0.077,"['loss of taste', 'headache', 'runny nose', 'loss of or smell', 'muscle aches', 'dry cough']",0,1,0,1,1,0,0,1,1,0,0,1,0
+AFG,Afghanistan,01/06/2020,390.589,17.468,6.602,0.206,"['loss of taste', 'fever', 'nausea', 'chills', 'runny nose', 'dry cough', 'headache']",1,1,0,1,0,0,0,1,0,1,0,1,1
+AFG,Afghanistan,02/06/2020,404.59,14,6.807,0.206,"['diarrhea', 'muscle aches', 'runny nose', 'fatigue', 'chills', 'nausea']",0,0,1,0,0,0,0,0,1,1,1,1,1
+AFG,Afghanistan,03/06/2020,424.087,19.497,6.936,0.128,"['loss of or smell', 'runny nose', 'headache', 'muscle aches', 'chills', 'nausea']",0,0,0,0,1,0,0,1,1,1,0,1,1
+AFG,Afghanistan,04/06/2020,443.559,19.472,7.552,0.617,"['sore throat', 'loss of or smell', 'chills', 'fatigue', 'fever', 'headache', 'diarrhea']",1,0,1,0,1,0,1,1,0,1,1,0,0
+AFG,Afghanistan,05/06/2020,463.775,20.217,7.706,0.154,"['fatigue', 'loss of or smell', 'muscle aches', 'loss of taste', 'dry cough', 'sore throat', 'chills']",0,1,1,1,1,0,1,0,1,1,0,0,0
+AFG,Afghanistan,06/06/2020,487.28,23.505,7.938,0.231,"['loss of taste', 'fatigue', 'muscle aches', 'headache', 'diarrhea', 'difficulty breathing']",0,0,1,1,0,1,0,1,1,0,1,0,0
+AFG,Afghanistan,07/06/2020,502.23,14.951,8.4,0.462,"['runny nose', 'difficulty breathing', 'chills', 'headache', 'muscle aches', 'dry cough', 'fever']",1,1,0,0,0,1,0,1,1,1,0,1,0
+AFG,Afghanistan,08/06/2020,522.55,20.319,9.171,0.771,"['fatigue', 'headache', 'difficulty breathing', 'fever', 'chills', 'runny nose', 'muscle aches']",1,0,1,0,0,1,0,1,1,1,0,1,0
+AFG,Afghanistan,09/06/2020,537.321,14.771,9.479,0.308,"['nausea', 'loss of or smell', 'fatigue', 'diarrhea', 'fever', 'loss of taste']",1,0,1,1,1,0,0,0,0,0,1,0,1
+AFG,Afghanistan,10/06/2020,551.244,13.923,9.864,0.385,"['runny nose', 'headache', 'difficulty breathing', 'fatigue', 'loss of taste', 'fever']",1,0,1,1,0,1,0,1,0,0,0,1,0
+AFG,Afghanistan,11/06/2020,568.814,17.571,10.404,0.539,"['chills', 'difficulty breathing', 'dry cough', 'diarrhea', 'headache', 'fever']",1,1,0,0,0,1,0,1,0,1,1,0,0
+AFG,Afghanistan,12/06/2020,588.003,19.189,10.943,0.539,"['nausea', 'headache', 'sore throat', 'muscle aches', 'loss of taste', 'fatigue']",0,0,1,1,0,0,1,1,1,0,0,0,1
+AFG,Afghanistan,13/06/2020,604.855,16.851,11.457,0.514,"['difficulty breathing', 'loss of or smell', 'headache', 'fatigue', 'runny nose', 'muscle aches', 'diarrhea']",0,0,1,0,1,1,0,1,1,0,1,1,0
+AFG,Afghanistan,14/06/2020,619.138,14.283,11.585,0.128,"['chills', 'fatigue', 'muscle aches', 'loss of taste', 'headache', 'difficulty breathing']",0,0,1,1,0,1,0,1,1,1,0,0,0
+AFG,Afghanistan,15/06/2020,636.195,17.057,12.099,0.514,"['diarrhea', 'sore throat', 'chills', 'loss of or smell', 'runny nose', 'difficulty breathing']",0,0,0,0,1,1,1,0,0,1,1,1,0
+AFG,Afghanistan,16/06/2020,655.743,19.549,12.279,0.18,"['headache', 'muscle aches', 'nausea', 'fever', 'dry cough', 'difficulty breathing', 'runny nose']",1,1,0,0,0,1,0,1,1,0,0,1,1
+AFG,Afghanistan,17/06/2020,675.857,20.114,12.613,0.334,"['fever', 'headache', 'difficulty breathing', 'loss of taste', 'chills', 'muscle aches', 'runny nose']",1,0,0,1,0,1,0,1,1,1,0,1,0
+AFG,Afghanistan,18/06/2020,690.345,14.488,12.947,0.334,"['runny nose', 'fatigue', 'nausea', 'chills', 'diarrhea', 'loss of taste']",0,0,1,1,0,0,0,0,0,1,1,1,1
+AFG,Afghanistan,19/06/2020,707.248,16.903,14.026,1.079,"['fatigue', 'chills', 'fever', 'difficulty breathing', 'headache', 'nausea', 'muscle aches']",1,0,1,0,0,1,0,1,1,1,0,0,1
+AFG,Afghanistan,20/06/2020,716.136,8.888,14.077,0.051,"['diarrhea', 'muscle aches', 'chills', 'dry cough', 'nausea', 'headache', 'runny nose']",0,1,0,0,0,0,0,1,1,1,1,1,1
+AFG,Afghanistan,21/06/2020,730.162,14.026,14.617,0.539,"['loss of taste', 'runny nose', 'nausea', 'muscle aches', 'dry cough', 'fatigue', 'sore throat']",0,1,1,1,0,0,1,0,1,0,0,1,1
+AFG,Afghanistan,22/06/2020,740.669,10.506,14.925,0.308,"['sore throat', 'fever', 'nausea', 'difficulty breathing', 'chills', 'muscle aches']",1,0,0,0,0,1,1,0,1,1,0,0,1
+AFG,Afghanistan,23/06/2020,748.632,7.963,15.362,0.437,"['difficulty breathing', 'muscle aches', 'fatigue', 'nausea', 'chills', 'loss of or smell', 'loss of taste']",0,0,1,1,1,1,0,0,1,1,0,0,1
+AFG,Afghanistan,24/06/2020,757.315,8.683,15.875,0.514,"['fever', 'chills', 'diarrhea', 'loss of or smell', 'headache', 'nausea']",1,0,0,0,1,0,0,1,0,1,1,0,1
+AFG,Afghanistan,25/06/2020,763.326,6.011,16.415,0.539,"['nausea', 'sore throat', 'runny nose', 'fatigue', 'loss of taste', 'loss of or smell']",0,0,1,1,1,0,1,0,0,0,0,1,1
+AFG,Afghanistan,26/06/2020,775.142,11.817,17.34,0.925,"['fatigue', 'chills', 'fever', 'difficulty breathing', 'diarrhea', 'runny nose']",1,0,1,0,0,1,0,0,0,1,1,1,0
+AFG,Afghanistan,27/06/2020,782.232,7.09,17.545,0.206,"['runny nose', 'difficulty breathing', 'fatigue', 'loss of or smell', 'nausea', 'chills']",0,0,1,0,1,1,0,0,0,1,0,1,1
+AFG,Afghanistan,28/06/2020,786.471,4.239,18.059,0.514,"['muscle aches', 'fever', 'runny nose', 'sore throat', 'fatigue', 'chills', 'headache']",1,0,1,0,0,0,1,1,1,1,0,1,0
+AFG,Afghanistan,29/06/2020,795.487,9.017,18.521,0.462,"['nausea', 'difficulty breathing', 'fatigue', 'runny nose', 'loss of taste', 'diarrhea']",0,0,1,1,0,1,0,0,0,0,1,1,1
+AFG,Afghanistan,30/06/2020,802.449,6.962,18.829,0.308,"['headache', 'difficulty breathing', 'sore throat', 'fever', 'nausea', 'fatigue', 'diarrhea']",1,0,1,0,0,1,1,1,0,0,1,0,1
+AFG,Afghanistan,01/07/2020,809.616,7.167,19.163,0.334,"['headache', 'diarrhea', 'loss of taste', 'sore throat', 'runny nose', 'muscle aches', 'loss of or smell']",0,0,0,1,1,0,1,1,1,0,1,1,0
+AFG,Afghanistan,02/07/2020,817.81,8.195,19.883,0.719,"['runny nose', 'chills', 'loss of taste', 'sore throat', 'muscle aches', 'dry cough', 'fever']",1,1,0,1,0,0,1,0,1,1,0,1,0
+AFG,Afghanistan,03/07/2020,822.588,4.778,20.73,0.848,"['sore throat', 'fatigue', 'loss of taste', 'loss of or smell', 'dry cough', 'runny nose']",0,1,1,1,1,0,1,0,0,0,0,1,0
+AFG,Afghanistan,04/07/2020,830.346,7.758,21.039,0.308,"['loss of or smell', 'nausea', 'loss of taste', 'fever', 'diarrhea', 'fatigue', 'sore throat']",1,0,1,1,1,0,1,0,0,0,1,0,1
+AFG,Afghanistan,05/07/2020,839.286,8.94,21.218,0.18,"['muscle aches', 'loss of or smell', 'runny nose', 'loss of taste', 'sore throat', 'difficulty breathing']",0,0,0,1,1,1,1,0,1,0,0,1,0
+AFG,Afghanistan,06/07/2020,846.453,7.167,22.195,0.976,"['headache', 'dry cough', 'runny nose', 'diarrhea', 'loss of taste', 'chills', 'fatigue']",0,1,1,1,0,0,0,1,0,1,1,1,0
+AFG,Afghanistan,07/07/2020,857.576,11.123,23.633,1.439,"['sore throat', 'runny nose', 'chills', 'fever', 'headache', 'dry cough', 'nausea']",1,1,0,0,0,0,1,1,0,1,0,1,1
+AFG,Afghanistan,08/07/2020,862.97,5.395,24.044,0.411,"['difficulty breathing', 'loss of taste', 'sore throat', 'fever', 'chills', 'diarrhea']",1,0,0,1,0,1,1,0,0,1,1,0,0
+AFG,Afghanistan,09/07/2020,864.486,1.516,24.07,0.026,"['diarrhea', 'difficulty breathing', 'loss of taste', 'muscle aches', 'dry cough', 'fatigue']",0,1,1,1,0,1,0,0,1,0,1,0,0
+AFG,Afghanistan,10/07/2020,871.036,6.55,24.584,0.514,"['sore throat', 'fatigue', 'difficulty breathing', 'dry cough', 'runny nose', 'loss of or smell', 'fever']",1,1,1,0,1,1,1,0,0,0,0,1,0
+AFG,Afghanistan,11/07/2020,882.802,11.765,25.534,0.95,"['fatigue', 'sore throat', 'difficulty breathing', 'diarrhea', 'chills', 'dry cough', 'runny nose']",0,1,1,0,0,1,1,0,0,1,1,1,0
+AFG,Afghanistan,12/07/2020,884.985,2.183,25.945,0.411,"['loss of or smell', 'difficulty breathing', 'chills', 'sore throat', 'loss of taste', 'nausea', 'runny nose']",0,0,0,1,1,1,1,0,0,1,0,1,1
+AFG,Afghanistan,13/07/2020,884.985,0,25.945,0,"['nausea', 'difficulty breathing', 'sore throat', 'fatigue', 'fever', 'diarrhea']",1,0,1,0,0,1,1,0,0,0,1,0,1
+AFG,Afghanistan,14/07/2020,885.088,0.103,25.996,0.051,"['loss of or smell', 'nausea', 'fever', 'chills', 'sore throat', 'diarrhea']",1,0,0,0,1,0,1,0,0,1,1,0,1
+AFG,Afghanistan,15/07/2020,892.409,7.321,26.844,0.848,"['loss of taste', 'chills', 'difficulty breathing', 'nausea', 'sore throat', 'fatigue', 'dry cough']",0,1,1,1,0,1,1,0,0,1,0,0,1
+AFG,Afghanistan,16/07/2020,898.934,6.525,28.103,1.259,"['runny nose', 'loss of or smell', 'headache', 'muscle aches', 'fever', 'nausea']",1,0,0,0,1,0,0,1,1,0,0,1,1
+AFG,Afghanistan,17/07/2020,900.886,1.952,28.642,0.539,"['loss of or smell', 'nausea', 'chills', 'fever', 'difficulty breathing', 'headache']",1,0,0,0,1,1,0,1,0,1,0,0,1
+AFG,Afghanistan,18/07/2020,906.512,5.626,29.464,0.822,"['loss of or smell', 'runny nose', 'dry cough', 'headache', 'fever', 'diarrhea']",1,1,0,0,1,0,0,1,0,0,1,1,0
+AFG,Afghanistan,19/07/2020,906.82,0.308,29.901,0.437,"['dry cough', 'difficulty breathing', 'loss of or smell', 'runny nose', 'nausea', 'muscle aches']",0,1,0,0,1,1,0,0,1,0,0,1,1
+AFG,Afghanistan,20/07/2020,911.29,4.47,30.338,0.437,"['difficulty breathing', 'sore throat', 'nausea', 'runny nose', 'chills', 'headache']",0,0,0,0,0,1,1,1,0,1,0,1,1
+AFG,Afghanistan,21/07/2020,914.886,3.596,30.466,0.128,"['loss of or smell', 'headache', 'chills', 'nausea', 'loss of taste', 'difficulty breathing', 'diarrhea']",0,0,0,1,1,1,0,1,0,1,1,0,1
+AFG,Afghanistan,22/07/2020,917.763,2.877,30.569,0.103,"['muscle aches', 'chills', 'loss of or smell', 'difficulty breathing', 'sore throat', 'loss of taste', 'dry cough']",0,1,0,1,1,1,1,0,1,1,0,0,0
+AFG,Afghanistan,23/07/2020,922.593,4.829,31.108,0.539,"['loss of taste', 'headache', 'chills', 'difficulty breathing', 'runny nose', 'muscle aches']",0,0,0,1,0,1,0,1,1,1,0,1,0
+AFG,Afghanistan,24/07/2020,922.927,0.334,31.108,0,"['runny nose', 'fever', 'sore throat', 'difficulty breathing', 'dry cough', 'loss of or smell']",1,1,0,0,1,1,1,0,0,0,0,1,0
+AFG,Afghanistan,25/07/2020,925.701,2.774,32.008,0.899,"['fever', 'fatigue', 'headache', 'muscle aches', 'nausea', 'difficulty breathing']",1,0,1,0,0,1,0,1,1,0,0,0,1
+AFG,Afghanistan,26/07/2020,928.809,3.108,32.341,0.334,"['nausea', 'dry cough', 'chills', 'loss of or smell', 'sore throat', 'difficulty breathing', 'muscle aches']",0,1,0,0,1,1,1,0,1,1,0,0,1
+AFG,Afghanistan,27/07/2020,931.532,2.723,32.598,0.257,"['diarrhea', 'headache', 'runny nose', 'nausea', 'muscle aches', 'dry cough']",0,1,0,0,0,0,0,1,1,0,1,1,1
+AFG,Afghanistan,28/07/2020,934.229,2.697,32.624,0.026,"['diarrhea', 'fatigue', 'loss of taste', 'runny nose', 'fever', 'sore throat']",1,0,1,1,0,0,1,0,0,0,1,1,0
+AFG,Afghanistan,29/07/2020,936.875,2.646,32.65,0.026,"['sore throat', 'loss of taste', 'dry cough', 'loss of or smell', 'muscle aches', 'diarrhea', 'runny nose']",0,1,0,1,1,0,1,0,1,0,1,1,0
+AFG,Afghanistan,30/07/2020,936.875,0,32.65,0,"['diarrhea', 'loss of or smell', 'fatigue', 'headache', 'runny nose', 'sore throat', 'muscle aches']",0,0,1,0,1,0,1,1,1,0,1,1,0
+AFG,Afghanistan,31/07/2020,938.699,1.824,32.65,0,"['loss of or smell', 'difficulty breathing', 'runny nose', 'diarrhea', 'muscle aches', 'loss of taste', 'nausea']",0,0,0,1,1,1,0,0,1,0,1,1,1
+AFG,Afghanistan,01/08/2020,943.015,4.316,32.958,0.308,"['muscle aches', 'loss of taste', 'runny nose', 'dry cough', 'nausea', 'fever', 'sore throat']",1,1,0,1,0,0,1,0,1,0,0,1,1
+AFG,Afghanistan,02/08/2020,943.015,0,32.958,0,"['muscle aches', 'sore throat', 'chills', 'difficulty breathing', 'fatigue', 'headache', 'nausea']",0,0,1,0,0,1,1,1,1,1,0,0,1
+AFG,Afghanistan,03/08/2020,943.015,0,32.984,0.026,"['fatigue', 'fever', 'sore throat', 'difficulty breathing', 'loss of taste', 'muscle aches']",1,0,1,1,0,1,1,0,1,0,0,0,0
+AFG,Afghanistan,04/08/2020,943.965,0.95,33.086,0.103,"['fatigue', 'nausea', 'loss of or smell', 'diarrhea', 'fever', 'runny nose']",1,0,1,0,1,0,0,0,0,0,1,1,1
+AFG,Afghanistan,05/08/2020,946.072,2.106,33.241,0.154,"['chills', 'muscle aches', 'dry cough', 'headache', 'sore throat', 'diarrhea']",0,1,0,0,0,0,1,1,1,1,1,0,0
+AFG,Afghanistan,06/08/2020,947.793,1.721,33.343,0.103,"['fever', 'nausea', 'fatigue', 'runny nose', 'sore throat', 'difficulty breathing']",1,0,1,0,0,1,1,0,0,0,0,1,1
+AFG,Afghanistan,07/08/2020,948.846,1.053,33.343,0,"['diarrhea', 'muscle aches', 'runny nose', 'dry cough', 'chills', 'fever', 'fatigue']",1,1,1,0,0,0,0,0,1,1,1,1,0
+AFG,Afghanistan,08/08/2020,950.85,2.004,33.575,0.231,"['fever', 'dry cough', 'chills', 'runny nose', 'loss of taste', 'loss of or smell']",1,1,0,1,1,0,0,0,0,1,0,1,0
+AFG,Afghanistan,09/08/2020,951.852,1.002,33.703,0.128,"['fever', 'sore throat', 'headache', 'muscle aches', 'loss of or smell', 'nausea']",1,0,0,0,1,0,1,1,1,0,0,0,1
+AFG,Afghanistan,10/08/2020,951.852,0,33.703,0,"['loss of or smell', 'fever', 'dry cough', 'loss of taste', 'nausea', 'sore throat', 'difficulty breathing']",1,1,0,1,1,1,1,0,0,0,0,0,1
+AFG,Afghanistan,11/08/2020,951.852,0,33.703,0,"['diarrhea', 'muscle aches', 'nausea', 'loss of or smell', 'sore throat', 'loss of taste']",0,0,0,1,1,0,1,0,1,0,1,0,1
+AFG,Afghanistan,12/08/2020,957.374,5.523,34.525,0.822,"['headache', 'diarrhea', 'fever', 'muscle aches', 'runny nose', 'loss of taste', 'chills']",1,0,0,1,0,0,0,1,1,1,1,1,0
+AFG,Afghanistan,13/08/2020,959.327,1.952,34.782,0.257,"['muscle aches', 'diarrhea', 'fatigue', 'fever', 'runny nose', 'sore throat']",1,0,1,0,0,0,1,0,1,0,1,1,0
+AFG,Afghanistan,14/08/2020,961.356,2.029,35.013,0.231,"['fever', 'nausea', 'runny nose', 'chills', 'loss of taste', 'dry cough']",1,1,0,1,0,0,0,0,0,1,0,1,1
+AFG,Afghanistan,15/08/2020,961.536,0.18,35.013,0,"['loss of taste', 'loss of or smell', 'difficulty breathing', 'runny nose', 'nausea', 'muscle aches']",0,0,0,1,1,1,0,0,1,0,0,1,1
+AFG,Afghanistan,16/08/2020,964.619,3.083,35.193,0.18,"['diarrhea', 'dry cough', 'nausea', 'fever', 'fatigue', 'loss of or smell', 'sore throat']",1,1,1,0,1,0,1,0,0,0,1,0,1
+AFG,Afghanistan,17/08/2020,965.775,1.156,35.321,0.128,"['muscle aches', 'dry cough', 'fatigue', 'runny nose', 'diarrhea', 'fever']",1,1,1,0,0,0,0,0,1,0,1,1,0
+AFG,Afghanistan,18/08/2020,965.852,0.077,35.321,0,"['nausea', 'chills', 'fever', 'fatigue', 'diarrhea', 'runny nose']",1,0,1,0,0,0,0,0,0,1,1,1,1
+AFG,Afghanistan,19/08/2020,965.852,0,35.321,0,"['dry cough', 'difficulty breathing', 'fatigue', 'sore throat', 'muscle aches', 'loss of taste', 'fever']",1,1,1,1,0,1,1,0,1,0,0,0,0
+BGD,Bangladesh,31/12/2019,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,01/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,02/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,03/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,04/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,05/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,06/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,07/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,08/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,09/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,10/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,11/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,12/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,13/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,14/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,15/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,16/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,17/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,18/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,19/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,20/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,21/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,22/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,23/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,24/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,25/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,26/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,27/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,28/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,29/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,30/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,31/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,01/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,02/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,03/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,04/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,05/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,06/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,07/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,08/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,09/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,10/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,11/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,12/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,13/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,14/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,15/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,16/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,17/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,18/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,19/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,20/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,21/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,22/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,23/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,24/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,25/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,26/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,27/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,28/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,29/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,01/03/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,02/03/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,03/03/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,04/03/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,05/03/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,06/03/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,07/03/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,08/03/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+BGD,Bangladesh,09/03/2020,0.018,0.018,0,0,"['chills', 'fatigue', 'runny nose', 'muscle aches', 'fever', 'headache']",1,0,1,0,0,0,0,1,1,1,0,1,0
+BGD,Bangladesh,10/03/2020,0.018,0,0,0,"['runny nose', 'loss of taste', 'diarrhea', 'nausea', 'dry cough', 'fever', 'headache']",1,1,0,1,0,0,0,1,0,0,1,1,1
+BGD,Bangladesh,11/03/2020,0.018,0,0,0,"['headache', 'dry cough', 'chills', 'difficulty breathing', 'fatigue', 'nausea', 'loss of or smell']",0,1,1,0,1,1,0,1,0,1,0,0,1
+BGD,Bangladesh,12/03/2020,0.018,0,0,0,"['sore throat', 'loss of or smell', 'loss of taste', 'nausea', 'diarrhea', 'headache']",0,0,0,1,1,0,1,1,0,0,1,0,1
+BGD,Bangladesh,13/03/2020,0.018,0,0,0,"['loss of or smell', 'fever', 'loss of taste', 'headache', 'runny nose', 'sore throat']",1,0,0,1,1,0,1,1,0,0,0,1,0
+BGD,Bangladesh,14/03/2020,0.018,0,0,0,"['headache', 'loss of taste', 'fever', 'fatigue', 'diarrhea', 'nausea']",1,0,1,1,0,0,0,1,0,0,1,0,1
+BGD,Bangladesh,15/03/2020,0.018,0,0,0,"['difficulty breathing', 'dry cough', 'sore throat', 'fatigue', 'loss of taste', 'nausea', 'chills']",0,1,1,1,0,1,1,0,0,1,0,0,1
+BGD,Bangladesh,16/03/2020,0.018,0,0,0,"['dry cough', 'chills', 'diarrhea', 'fatigue', 'nausea', 'difficulty breathing']",0,1,1,0,0,1,0,0,0,1,1,0,1
+BGD,Bangladesh,17/03/2020,0.03,0.012,0,0,"['fever', 'nausea', 'difficulty breathing', 'loss of or smell', 'headache', 'loss of taste', 'fatigue']",1,0,1,1,1,1,0,1,0,0,0,0,1
+BGD,Bangladesh,18/03/2020,0.049,0.018,0,0,"['diarrhea', 'loss of or smell', 'difficulty breathing', 'chills', 'fatigue', 'nausea']",0,0,1,0,1,1,0,0,0,1,1,0,1
+BGD,Bangladesh,19/03/2020,0.061,0.012,0,0,"['difficulty breathing', 'headache', 'muscle aches', 'loss of or smell', 'chills', 'runny nose']",0,0,0,0,1,1,0,1,1,1,0,1,0
+BGD,Bangladesh,20/03/2020,0.061,0,0,0,"['dry cough', 'difficulty breathing', 'muscle aches', 'nausea', 'loss of taste', 'diarrhea']",0,1,0,1,0,1,0,0,1,0,1,0,1
+BGD,Bangladesh,21/03/2020,0.103,0.043,0,0,"['loss of taste', 'nausea', 'headache', 'loss of or smell', 'diarrhea', 'sore throat', 'fever']",1,0,0,1,1,0,1,1,0,0,1,0,1
+BGD,Bangladesh,22/03/2020,0.146,0.043,0.012,0.012,"['diarrhea', 'loss of taste', 'fever', 'loss of or smell', 'difficulty breathing', 'nausea']",1,0,0,1,1,1,0,0,0,0,1,0,1
+BGD,Bangladesh,23/03/2020,0.164,0.018,0.018,0.006,"['fatigue', 'dry cough', 'diarrhea', 'loss of taste', 'headache', 'nausea', 'chills']",0,1,1,1,0,0,0,1,0,1,1,0,1
+BGD,Bangladesh,24/03/2020,0.2,0.036,0.018,0,"['headache', 'difficulty breathing', 'loss of or smell', 'loss of taste', 'fatigue', 'chills', 'fever']",1,0,1,1,1,1,0,1,0,1,0,0,0
+BGD,Bangladesh,25/03/2020,0.237,0.036,0.024,0.006,"['nausea', 'chills', 'muscle aches', 'loss of taste', 'headache', 'sore throat']",0,0,0,1,0,0,1,1,1,1,0,0,1
+BGD,Bangladesh,26/03/2020,0.237,0,0.03,0.006,"['runny nose', 'fever', 'muscle aches', 'dry cough', 'loss of or smell', 'fatigue']",1,1,1,0,1,0,0,0,1,0,0,1,0
+BGD,Bangladesh,27/03/2020,0.291,0.055,0.03,0,"['muscle aches', 'nausea', 'dry cough', 'loss of taste', 'diarrhea', 'runny nose']",0,1,0,1,0,0,0,0,1,0,1,1,1
+BGD,Bangladesh,28/03/2020,0.291,0,0.03,0,"['sore throat', 'dry cough', 'fever', 'runny nose', 'loss of or smell', 'headache']",1,1,0,0,1,0,1,1,0,0,0,1,0
+BGD,Bangladesh,29/03/2020,0.291,0,0.03,0,"['headache', 'chills', 'muscle aches', 'diarrhea', 'difficulty breathing', 'sore throat']",0,0,0,0,0,1,1,1,1,1,1,0,0
+BGD,Bangladesh,30/03/2020,0.298,0.006,0.03,0,"['muscle aches', 'sore throat', 'diarrhea', 'loss of or smell', 'chills', 'dry cough', 'loss of taste']",0,1,0,1,1,0,1,0,1,1,1,0,0
+BGD,Bangladesh,31/03/2020,0.298,0,0.03,0,"['fatigue', 'runny nose', 'headache', 'sore throat', 'diarrhea', 'dry cough', 'loss of or smell']",0,1,1,0,1,0,1,1,0,0,1,1,0
+BGD,Bangladesh,01/04/2020,0.31,0.012,0.03,0,"['nausea', 'loss of taste', 'dry cough', 'sore throat', 'fever', 'diarrhea', 'muscle aches']",1,1,0,1,0,0,1,0,1,0,1,0,1
+BGD,Bangladesh,02/04/2020,0.328,0.018,0.036,0.006,"['runny nose', 'fatigue', 'difficulty breathing', 'dry cough', 'headache', 'chills', 'fever']",1,1,1,0,0,1,0,1,0,1,0,1,0
+BGD,Bangladesh,03/04/2020,0.34,0.012,0.036,0,"['sore throat', 'chills', 'nausea', 'fever', 'loss of or smell', 'muscle aches', 'loss of taste']",1,0,0,1,1,0,1,0,1,1,0,0,1
+BGD,Bangladesh,04/04/2020,0.37,0.03,0.036,0,"['fever', 'headache', 'runny nose', 'muscle aches', 'loss of or smell', 'diarrhea', 'chills']",1,0,0,0,1,0,0,1,1,1,1,1,0
+BGD,Bangladesh,05/04/2020,0.425,0.055,0.049,0.012,"['sore throat', 'runny nose', 'dry cough', 'chills', 'loss of taste', 'nausea', 'fatigue']",0,1,1,1,0,0,1,0,0,1,0,1,1
+BGD,Bangladesh,06/04/2020,0.534,0.109,0.055,0.006,"['fever', 'difficulty breathing', 'nausea', 'dry cough', 'fatigue', 'sore throat']",1,1,1,0,0,1,1,0,0,0,0,0,1
+BGD,Bangladesh,07/04/2020,0.747,0.213,0.073,0.018,"['muscle aches', 'sore throat', 'loss of taste', 'dry cough', 'fatigue', 'runny nose', 'headache']",0,1,1,1,0,0,1,1,1,0,0,1,0
+BGD,Bangladesh,08/04/2020,0.996,0.249,0.103,0.03,"['loss of taste', 'loss of or smell', 'difficulty breathing', 'sore throat', 'chills', 'fatigue']",0,0,1,1,1,1,1,0,0,1,0,0,0
+BGD,Bangladesh,09/04/2020,1.324,0.328,0.121,0.018,"['runny nose', 'sore throat', 'difficulty breathing', 'diarrhea', 'loss of taste', 'nausea']",0,0,0,1,0,1,1,0,0,0,1,1,1
+BGD,Bangladesh,10/04/2020,2.004,0.68,0.128,0.006,"['runny nose', 'fever', 'difficulty breathing', 'sore throat', 'nausea', 'headache']",1,0,0,0,0,1,1,1,0,0,0,1,1
+BGD,Bangladesh,11/04/2020,2.575,0.571,0.164,0.036,"['nausea', 'loss of taste', 'diarrhea', 'difficulty breathing', 'chills', 'runny nose']",0,0,0,1,0,1,0,0,0,1,1,1,1
+BGD,Bangladesh,12/04/2020,2.927,0.352,0.182,0.018,"['difficulty breathing', 'loss of taste', 'headache', 'dry cough', 'fatigue', 'loss of or smell', 'muscle aches']",0,1,1,1,1,1,0,1,1,0,0,0,0
+BGD,Bangladesh,13/04/2020,3.771,0.844,0.206,0.024,"['dry cough', 'runny nose', 'diarrhea', 'sore throat', 'difficulty breathing', 'loss of taste', 'muscle aches']",0,1,0,1,0,1,1,0,1,0,1,1,0
+BGD,Bangladesh,14/04/2020,4.876,1.105,0.237,0.03,"['runny nose', 'chills', 'fatigue', 'muscle aches', 'loss of taste', 'difficulty breathing']",0,0,1,1,0,1,0,0,1,1,0,1,0
+BGD,Bangladesh,15/04/2020,6.145,1.269,0.279,0.043,"['sore throat', 'loss of or smell', 'loss of taste', 'muscle aches', 'fatigue', 'dry cough']",0,1,1,1,1,0,1,0,1,0,0,0,0
+BGD,Bangladesh,16/04/2020,7.475,1.33,0.304,0.024,"['headache', 'loss of or smell', 'chills', 'fever', 'diarrhea', 'sore throat']",1,0,0,0,1,0,1,1,0,1,1,0,0
+BGD,Bangladesh,17/04/2020,9.545,2.071,0.364,0.061,"['dry cough', 'chills', 'loss of taste', 'runny nose', 'fever', 'nausea']",1,1,0,1,0,0,0,0,0,1,0,1,1
+BGD,Bangladesh,18/04/2020,11.16,1.615,0.455,0.091,"['diarrhea', 'fatigue', 'sore throat', 'chills', 'headache', 'loss of or smell', 'difficulty breathing']",0,0,1,0,1,1,1,1,0,1,1,0,0
+BGD,Bangladesh,19/04/2020,13.018,1.858,0.51,0.055,"['fever', 'headache', 'diarrhea', 'difficulty breathing', 'fatigue', 'runny nose']",1,0,1,0,0,1,0,1,0,0,1,1,0
+BGD,Bangladesh,20/04/2020,14.913,1.894,0.553,0.043,"['nausea', 'fever', 'fatigue', 'loss of or smell', 'headache', 'dry cough']",1,1,1,0,1,0,0,1,0,0,0,0,1
+BGD,Bangladesh,21/04/2020,17.9,2.987,0.613,0.061,"['muscle aches', 'nausea', 'fever', 'fatigue', 'loss of taste', 'loss of or smell']",1,0,1,1,1,0,0,0,1,0,0,0,1
+BGD,Bangladesh,22/04/2020,20.536,2.635,0.668,0.055,"['nausea', 'fatigue', 'loss of taste', 'dry cough', 'headache', 'chills', 'muscle aches']",0,1,1,1,0,0,0,1,1,1,0,0,1
+BGD,Bangladesh,23/04/2020,22.904,2.368,0.729,0.061,"['diarrhea', 'headache', 'nausea', 'fatigue', 'chills', 'runny nose']",0,0,1,0,0,0,0,1,0,1,1,1,1
+BGD,Bangladesh,24/04/2020,25.418,2.514,0.771,0.043,"['dry cough', 'runny nose', 'headache', 'fatigue', 'difficulty breathing', 'loss of taste']",0,1,1,1,0,1,0,1,0,0,0,1,0
+BGD,Bangladesh,25/04/2020,28.472,3.054,0.795,0.024,"['difficulty breathing', 'sore throat', 'fever', 'chills', 'loss of or smell', 'muscle aches', 'diarrhea']",1,0,0,0,1,1,1,0,1,1,1,0,0
+BGD,Bangladesh,26/04/2020,30.348,1.876,0.85,0.055,"['dry cough', 'fever', 'muscle aches', 'runny nose', 'sore throat', 'difficulty breathing', 'loss of taste']",1,1,0,1,0,1,1,0,1,0,0,1,0
+BGD,Bangladesh,27/04/2020,32.886,2.538,0.88,0.03,"['fatigue', 'difficulty breathing', 'dry cough', 'loss of or smell', 'sore throat', 'headache']",0,1,1,0,1,1,1,1,0,0,0,0,0
+BGD,Bangladesh,28/04/2020,35.904,3.018,0.923,0.043,"['diarrhea', 'headache', 'muscle aches', 'loss of or smell', 'runny nose', 'sore throat', 'loss of taste']",0,0,0,1,1,0,1,1,1,0,1,1,0
+BGD,Bangladesh,29/04/2020,39.238,3.334,0.941,0.018,"['nausea', 'sore throat', 'chills', 'difficulty breathing', 'loss of or smell', 'muscle aches', 'fatigue']",0,0,1,0,1,1,1,0,1,1,0,0,1
+BGD,Bangladesh,30/04/2020,43.13,3.892,0.99,0.049,"['nausea', 'diarrhea', 'difficulty breathing', 'loss of or smell', 'runny nose', 'headache']",0,0,0,0,1,1,0,1,0,0,1,1,1
+BGD,Bangladesh,01/05/2020,46.554,3.425,1.02,0.03,"['loss of taste', 'fatigue', 'nausea', 'headache', 'loss of or smell', 'chills']",0,0,1,1,1,0,0,1,0,1,0,0,1
+BGD,Bangladesh,02/05/2020,50.021,3.467,1.032,0.012,"['chills', 'headache', 'fever', 'muscle aches', 'diarrhea', 'fatigue', 'runny nose']",1,0,1,0,0,0,0,1,1,1,1,1,0
+BGD,Bangladesh,03/05/2020,53.373,3.352,1.063,0.03,"['muscle aches', 'fatigue', 'diarrhea', 'nausea', 'fever', 'dry cough', 'difficulty breathing']",1,1,1,0,0,1,0,0,1,0,1,0,1
+BGD,Bangladesh,04/05/2020,57.411,4.038,1.075,0.012,"['loss of taste', 'difficulty breathing', 'fever', 'nausea', 'fatigue', 'diarrhea']",1,0,1,1,0,1,0,0,0,0,1,0,1
+BGD,Bangladesh,05/05/2020,61.589,4.178,1.105,0.03,"['fatigue', 'fever', 'loss of taste', 'sore throat', 'muscle aches', 'dry cough', 'loss of or smell']",1,1,1,1,1,0,1,0,1,0,0,0,0
+BGD,Bangladesh,06/05/2020,66.361,4.773,1.111,0.006,"['headache', 'loss of taste', 'fatigue', 'muscle aches', 'fever', 'difficulty breathing', 'runny nose']",1,0,1,1,0,1,0,1,1,0,0,1,0
+BGD,Bangladesh,07/05/2020,71.158,4.797,1.129,0.018,"['headache', 'sore throat', 'nausea', 'loss of taste', 'muscle aches', 'diarrhea', 'fatigue']",0,0,1,1,0,0,1,1,1,0,1,0,1
+BGD,Bangladesh,08/05/2020,75.445,4.287,1.208,0.079,"['fever', 'runny nose', 'chills', 'dry cough', 'fatigue', 'difficulty breathing']",1,1,1,0,0,1,0,0,0,1,0,1,0
+BGD,Bangladesh,09/05/2020,79.75,4.305,1.251,0.043,"['dry cough', 'fever', 'difficulty breathing', 'diarrhea', 'sore throat', 'chills']",1,1,0,0,0,1,1,0,0,1,1,0,0
+BGD,Bangladesh,10/05/2020,83.612,3.862,1.299,0.049,"['difficulty breathing', 'dry cough', 'chills', 'sore throat', 'nausea', 'headache']",0,1,0,0,0,1,1,1,0,1,0,0,1
+BGD,Bangladesh,11/05/2020,88.998,5.386,1.384,0.085,"['headache', 'nausea', 'loss of or smell', 'fatigue', 'runny nose', 'loss of taste']",0,0,1,1,1,0,0,1,0,0,0,1,1
+BGD,Bangladesh,12/05/2020,95.276,6.278,1.451,0.067,"['chills', 'nausea', 'difficulty breathing', 'dry cough', 'loss of taste', 'muscle aches']",0,1,0,1,0,1,0,0,1,1,0,0,1
+BGD,Bangladesh,13/05/2020,101.16,5.884,1.518,0.067,"['headache', 'nausea', 'fatigue', 'difficulty breathing', 'diarrhea', 'muscle aches', 'runny nose']",0,0,1,0,0,1,0,1,1,0,1,1,1
+BGD,Bangladesh,14/05/2020,108.216,7.056,1.633,0.115,"['fatigue', 'headache', 'loss of or smell', 'fever', 'sore throat', 'diarrhea']",1,0,1,0,1,0,1,1,0,0,1,0,0
+BGD,Bangladesh,15/05/2020,114.537,6.321,1.718,0.085,"['sore throat', 'fatigue', 'nausea', 'fever', 'chills', 'headache', 'loss of taste']",1,0,1,1,0,0,1,1,0,1,0,0,1
+BGD,Bangladesh,16/05/2020,121.835,7.299,1.809,0.091,"['dry cough', 'diarrhea', 'sore throat', 'nausea', 'chills', 'runny nose', 'difficulty breathing']",0,1,0,0,0,1,1,0,0,1,1,1,1
+BGD,Bangladesh,17/05/2020,127.482,5.647,1.907,0.097,"['runny nose', 'sore throat', 'difficulty breathing', 'dry cough', 'muscle aches', 'nausea', 'fever']",1,1,0,0,0,1,1,0,1,0,0,1,1
+BGD,Bangladesh,18/05/2020,135.212,7.73,1.992,0.085,"['dry cough', 'loss of or smell', 'fever', 'muscle aches', 'sore throat', 'nausea', 'fatigue']",1,1,1,0,1,0,1,0,1,0,0,0,1
+BGD,Bangladesh,19/05/2020,144.94,9.727,2.119,0.128,"['sore throat', 'loss of or smell', 'nausea', 'fever', 'diarrhea', 'runny nose']",1,0,0,0,1,0,1,0,0,0,1,1,1
+BGD,Bangladesh,20/05/2020,152.536,7.596,2.247,0.128,"['loss of or smell', 'fever', 'sore throat', 'runny nose', 'chills', 'nausea']",1,0,0,0,1,0,1,0,0,1,0,1,1
+BGD,Bangladesh,21/05/2020,162.354,9.818,2.344,0.097,"['nausea', 'difficulty breathing', 'loss of or smell', 'runny nose', 'chills', 'fever', 'fatigue']",1,0,1,0,1,1,0,0,0,1,0,1,1
+BGD,Bangladesh,22/05/2020,173.12,10.766,2.477,0.134,"['nausea', 'chills', 'headache', 'runny nose', 'fever', 'sore throat']",1,0,0,0,0,0,1,1,0,1,0,1,1
+BGD,Bangladesh,23/05/2020,183.406,10.286,2.623,0.146,"['nausea', 'chills', 'diarrhea', 'dry cough', 'muscle aches', 'headache']",0,1,0,0,0,0,0,1,1,1,1,0,1
+BGD,Bangladesh,24/05/2020,194.779,11.373,2.745,0.121,"['fatigue', 'loss of or smell', 'runny nose', 'dry cough', 'nausea', 'difficulty breathing', 'headache']",0,1,1,0,1,1,0,1,0,0,0,1,1
+BGD,Bangladesh,25/05/2020,204.081,9.302,2.915,0.17,"['difficulty breathing', 'nausea', 'headache', 'muscle aches', 'chills', 'fatigue']",0,0,1,0,0,1,0,1,1,1,0,0,1
+BGD,Bangladesh,26/05/2020,216.073,11.992,3.042,0.128,"['runny nose', 'loss of or smell', 'nausea', 'loss of taste', 'fatigue', 'sore throat']",0,0,1,1,1,0,1,0,0,0,0,1,1
+BGD,Bangladesh,27/05/2020,223.153,7.08,3.17,0.128,"['nausea', 'sore throat', 'runny nose', 'loss of taste', 'muscle aches', 'fever', 'diarrhea']",1,0,0,1,0,0,1,0,1,0,1,1,1
+BGD,Bangladesh,28/05/2020,232.51,9.357,3.303,0.134,"['headache', 'dry cough', 'loss of or smell', 'diarrhea', 'difficulty breathing', 'fever']",1,1,0,0,1,1,0,1,0,0,1,0,0
+BGD,Bangladesh,29/05/2020,244.831,12.32,3.394,0.091,"['nausea', 'chills', 'muscle aches', 'diarrhea', 'loss of taste', 'difficulty breathing', 'fatigue']",0,0,1,1,0,1,0,0,1,1,1,0,1
+BGD,Bangladesh,30/05/2020,260.15,15.32,3.534,0.14,"['chills', 'fatigue', 'sore throat', 'headache', 'difficulty breathing', 'diarrhea', 'dry cough']",0,1,1,0,0,1,1,1,0,1,1,0,0
+BGD,Bangladesh,31/05/2020,270.861,10.711,3.704,0.17,"['fever', 'muscle aches', 'dry cough', 'loss of or smell', 'loss of taste', 'difficulty breathing', 'fatigue']",1,1,1,1,1,1,0,0,1,0,0,0,0
+BGD,Bangladesh,01/06/2020,286.315,15.453,3.947,0.243,"['muscle aches', 'difficulty breathing', 'loss of or smell', 'headache', 'loss of taste', 'diarrhea']",0,0,0,1,1,1,0,1,1,0,1,0,0
+BGD,Bangladesh,02/06/2020,300.772,14.458,4.08,0.134,"['nausea', 'loss of or smell', 'diarrhea', 'chills', 'loss of taste', 'fatigue']",0,0,1,1,1,0,0,0,0,1,1,0,1
+BGD,Bangladesh,03/06/2020,318.448,17.676,4.305,0.225,"['fever', 'sore throat', 'fatigue', 'headache', 'loss of taste', 'runny nose']",1,0,1,1,0,0,1,1,0,0,0,1,0
+BGD,Bangladesh,04/06/2020,334.812,16.364,4.53,0.225,"['fever', 'fatigue', 'difficulty breathing', 'dry cough', 'sore throat', 'runny nose']",1,1,1,0,0,1,1,0,0,0,0,1,0
+BGD,Bangladesh,05/06/2020,349.525,14.713,4.742,0.213,"['dry cough', 'headache', 'difficulty breathing', 'loss of or smell', 'muscle aches', 'nausea']",0,1,0,0,1,1,0,1,1,0,0,0,1
+BGD,Bangladesh,06/06/2020,366.696,17.172,4.924,0.182,"['muscle aches', 'dry cough', 'chills', 'loss of or smell', 'difficulty breathing', 'fever', 'diarrhea']",1,1,0,0,1,1,0,0,1,1,1,0,0
+BGD,Bangladesh,07/06/2020,382.696,16,5.137,0.213,"['muscle aches', 'loss of or smell', 'loss of taste', 'difficulty breathing', 'nausea', 'chills']",0,0,0,1,1,1,0,0,1,1,0,0,1
+BGD,Bangladesh,08/06/2020,399.352,16.656,5.392,0.255,"['dry cough', 'fatigue', 'headache', 'muscle aches', 'runny nose', 'loss of taste']",0,1,1,1,0,0,0,1,1,0,0,1,0
+BGD,Bangladesh,09/06/2020,415.959,16.607,5.647,0.255,"['fever', 'chills', 'nausea', 'headache', 'fatigue', 'runny nose']",1,0,1,0,0,0,0,1,0,1,0,1,1
+BGD,Bangladesh,10/06/2020,435.213,19.254,5.92,0.273,"['nausea', 'runny nose', 'chills', 'diarrhea', 'muscle aches', 'difficulty breathing']",0,0,0,0,0,1,0,0,1,1,1,1,1
+BGD,Bangladesh,11/06/2020,454.583,19.37,6.145,0.225,"['runny nose', 'diarrhea', 'nausea', 'sore throat', 'headache', 'fatigue']",0,0,1,0,0,0,1,1,0,0,1,1,1
+BGD,Bangladesh,12/06/2020,473.935,19.352,6.37,0.225,"['loss of taste', 'headache', 'sore throat', 'difficulty breathing', 'loss of or smell', 'diarrhea']",0,0,0,1,1,1,1,1,0,0,1,0,0
+BGD,Bangladesh,13/06/2020,495.011,21.076,6.649,0.279,"['runny nose', 'loss of taste', 'sore throat', 'difficulty breathing', 'diarrhea', 'fever']",1,0,0,1,0,1,1,0,0,0,1,1,0
+BGD,Bangladesh,14/06/2020,512.352,17.342,6.916,0.267,"['fatigue', 'nausea', 'difficulty breathing', 'dry cough', 'runny nose', 'muscle aches', 'chills']",0,1,1,0,0,1,0,0,1,1,0,1,1
+BGD,Bangladesh,15/06/2020,531.425,19.072,7.11,0.194,"['sore throat', 'chills', 'difficulty breathing', 'loss of taste', 'dry cough', 'fatigue']",0,1,1,1,0,1,1,0,0,1,0,0,0
+BGD,Bangladesh,16/06/2020,550.242,18.817,7.341,0.231,"['fatigue', 'fever', 'nausea', 'loss of taste', 'sore throat', 'diarrhea']",1,0,1,1,0,0,1,0,0,0,1,0,1
+BGD,Bangladesh,17/06/2020,573.692,23.45,7.663,0.322,"['diarrhea', 'fever', 'chills', 'muscle aches', 'nausea', 'headache', 'sore throat']",1,0,0,0,0,0,1,1,1,1,1,0,1
+BGD,Bangladesh,18/06/2020,598.029,24.337,7.924,0.261,"['nausea', 'headache', 'sore throat', 'fever', 'chills', 'fatigue']",1,0,1,0,0,0,1,1,0,1,0,0,1
+BGD,Bangladesh,19/06/2020,621.121,23.092,8.155,0.231,"['nausea', 'diarrhea', 'fever', 'loss of or smell', 'chills', 'muscle aches']",1,0,0,0,1,0,0,0,1,1,1,0,1
+BGD,Bangladesh,20/06/2020,640.812,19.692,8.428,0.273,"['sore throat', 'fatigue', 'muscle aches', 'headache', 'fever', 'diarrhea', 'loss of or smell']",1,0,1,0,1,0,1,1,1,0,1,0,0
+BGD,Bangladesh,21/06/2020,660.486,19.673,8.653,0.225,"['runny nose', 'loss of or smell', 'difficulty breathing', 'headache', 'sore throat', 'dry cough']",0,1,0,0,1,1,1,1,0,0,0,1,0
+BGD,Bangladesh,22/06/2020,681.926,21.44,8.889,0.237,"['nausea', 'headache', 'difficulty breathing', 'chills', 'loss of or smell', 'dry cough']",0,1,0,0,1,1,0,1,0,1,0,0,1
+BGD,Bangladesh,23/06/2020,703.057,21.131,9.12,0.231,"['loss of taste', 'fever', 'muscle aches', 'chills', 'runny nose', 'sore throat']",1,0,0,1,0,0,1,0,1,1,0,1,0
+BGD,Bangladesh,24/06/2020,723.775,20.718,9.381,0.261,"['diarrhea', 'dry cough', 'difficulty breathing', 'fever', 'loss of or smell', 'muscle aches']",1,1,0,0,1,1,0,0,1,0,1,0,0
+BGD,Bangladesh,25/06/2020,744.796,21.021,9.606,0.225,"['loss of or smell', 'difficulty breathing', 'headache', 'diarrhea', 'chills', 'sore throat']",0,0,0,0,1,1,1,1,0,1,1,0,0
+BGD,Bangladesh,26/06/2020,768.756,23.96,9.843,0.237,"['fatigue', 'diarrhea', 'nausea', 'runny nose', 'dry cough', 'difficulty breathing']",0,1,1,0,0,1,0,0,0,0,1,1,1
+BGD,Bangladesh,27/06/2020,792.243,23.487,10.086,0.243,"['loss of taste', 'headache', 'runny nose', 'difficulty breathing', 'dry cough', 'fever']",1,1,0,1,0,1,0,1,0,0,0,1,0
+BGD,Bangladesh,28/06/2020,813.519,21.276,10.292,0.206,"['sore throat', 'chills', 'fever', 'nausea', 'loss of taste', 'headache']",1,0,0,1,0,0,1,1,0,1,0,0,1
+BGD,Bangladesh,29/06/2020,836.648,23.128,10.553,0.261,"['headache', 'diarrhea', 'muscle aches', 'loss of taste', 'fever', 'chills', 'dry cough']",1,1,0,1,0,0,0,1,1,1,1,0,0
+BGD,Bangladesh,30/06/2020,861.021,24.373,10.826,0.273,"['loss of or smell', 'dry cough', 'muscle aches', 'fever', 'chills', 'fatigue', 'loss of taste']",1,1,1,1,1,0,0,0,1,1,0,0,0
+BGD,Bangladesh,01/07/2020,883.378,22.357,11.215,0.389,"['fatigue', 'loss of or smell', 'chills', 'dry cough', 'runny nose', 'fever']",1,1,1,0,1,0,0,0,0,1,0,1,0
+BGD,Bangladesh,02/07/2020,906.3,22.922,11.464,0.249,"['difficulty breathing', 'nausea', 'loss of taste', 'dry cough', 'runny nose', 'muscle aches', 'fever']",1,1,0,1,0,1,0,0,1,0,0,1,1
+BGD,Bangladesh,03/07/2020,930.704,24.404,11.695,0.231,"['loss of taste', 'chills', 'sore throat', 'nausea', 'muscle aches', 'fatigue']",0,0,1,1,0,0,1,0,1,1,0,0,1
+BGD,Bangladesh,04/07/2020,949.612,18.908,11.95,0.255,"['fever', 'chills', 'runny nose', 'dry cough', 'loss of taste', 'sore throat']",1,1,0,1,0,0,1,0,0,1,0,1,0
+BGD,Bangladesh,05/07/2020,969.577,19.965,12.126,0.176,"['sore throat', 'dry cough', 'fatigue', 'diarrhea', 'headache', 'nausea']",0,1,1,0,0,0,1,1,0,0,1,0,1
+BGD,Bangladesh,06/07/2020,986.202,16.625,12.46,0.334,"['fever', 'chills', 'loss of or smell', 'nausea', 'diarrhea', 'sore throat', 'dry cough']",1,1,0,0,1,0,1,0,0,1,1,0,1
+BGD,Bangladesh,07/07/2020,1005.639,19.437,12.727,0.267,"['loss of taste', 'headache', 'muscle aches', 'loss of or smell', 'sore throat', 'fever']",1,0,0,1,1,0,1,1,1,0,0,0,0
+BGD,Bangladesh,08/07/2020,1024.019,18.38,13.061,0.334,"['runny nose', 'dry cough', 'fever', 'chills', 'nausea', 'loss of or smell']",1,1,0,0,1,0,0,0,0,1,0,1,1
+BGD,Bangladesh,09/07/2020,1045.204,21.185,13.34,0.279,"['sore throat', 'dry cough', 'loss of or smell', 'chills', 'loss of taste', 'difficulty breathing', 'fatigue']",0,1,1,1,1,1,1,0,0,1,0,0,0
+BGD,Bangladesh,10/07/2020,1065.606,20.402,13.589,0.249,"['fatigue', 'chills', 'sore throat', 'muscle aches', 'loss of taste', 'dry cough']",0,1,1,1,0,0,1,0,1,1,0,0,0
+BGD,Bangladesh,11/07/2020,1083.512,17.906,13.814,0.225,"['muscle aches', 'difficulty breathing', 'sore throat', 'runny nose', 'dry cough', 'headache', 'fever']",1,1,0,0,0,1,1,1,1,0,0,1,0
+BGD,Bangladesh,12/07/2020,1099.822,16.309,13.996,0.182,"['fever', 'nausea', 'loss of or smell', 'headache', 'fatigue', 'difficulty breathing', 'dry cough']",1,1,1,0,1,1,0,1,0,0,0,0,1
+BGD,Bangladesh,13/07/2020,1116.01,16.188,14.281,0.285,"['runny nose', 'fatigue', 'chills', 'loss of taste', 'dry cough', 'headache', 'difficulty breathing']",0,1,1,1,0,1,0,1,0,1,0,1,0
+BGD,Bangladesh,14/07/2020,1134.827,18.817,14.518,0.237,"['sore throat', 'muscle aches', 'nausea', 'difficulty breathing', 'fatigue', 'chills']",0,0,1,0,0,1,1,0,1,1,0,0,1
+BGD,Bangladesh,15/07/2020,1154.033,19.206,14.719,0.2,"['dry cough', 'muscle aches', 'loss of or smell', 'sore throat', 'runny nose', 'fever']",1,1,0,0,1,0,1,0,1,0,0,1,0
+BGD,Bangladesh,16/07/2020,1175.486,21.453,14.919,0.2,"['dry cough', 'chills', 'fever', 'nausea', 'muscle aches', 'diarrhea', 'runny nose']",1,1,0,0,0,0,0,0,1,1,1,1,1
+BGD,Bangladesh,17/07/2020,1192.08,16.595,15.156,0.237,"['fever', 'nausea', 'sore throat', 'loss of taste', 'fatigue', 'headache', 'runny nose']",1,0,1,1,0,0,1,1,0,0,0,1,1
+BGD,Bangladesh,18/07/2020,1210.503,18.423,15.465,0.31,"['dry cough', 'fever', 'runny nose', 'fatigue', 'nausea', 'diarrhea']",1,1,1,0,0,0,0,0,0,0,1,1,1
+BGD,Bangladesh,19/07/2020,1226.952,16.449,15.672,0.206,"['loss of or smell', 'headache', 'chills', 'muscle aches', 'nausea', 'fatigue', 'difficulty breathing']",0,0,1,0,1,1,0,1,1,1,0,0,1
+BGD,Bangladesh,20/07/2020,1241.883,14.931,15.897,0.225,"['loss of taste', 'nausea', 'sore throat', 'headache', 'fever', 'difficulty breathing', 'muscle aches']",1,0,0,1,0,1,1,1,1,0,0,0,1
+BGD,Bangladesh,21/07/2020,1259.662,17.779,16.2,0.304,"['sore throat', 'nausea', 'dry cough', 'diarrhea', 'muscle aches', 'runny nose', 'fever']",1,1,0,0,0,0,1,0,1,0,1,1,1
+BGD,Bangladesh,22/07/2020,1278.224,18.562,16.449,0.249,"['runny nose', 'loss of or smell', 'muscle aches', 'loss of taste', 'diarrhea', 'headache']",0,0,0,1,1,0,0,1,1,0,1,1,0
+BGD,Bangladesh,23/07/2020,1294.886,16.662,16.704,0.255,"['loss of taste', 'difficulty breathing', 'chills', 'headache', 'sore throat', 'nausea']",0,0,0,1,0,1,1,1,0,1,0,0,1
+BGD,Bangladesh,24/07/2020,1312.228,17.342,17.008,0.304,"['nausea', 'runny nose', 'fatigue', 'diarrhea', 'sore throat', 'loss of or smell']",0,0,1,0,1,0,1,0,0,0,1,1,1
+BGD,Bangladesh,25/07/2020,1327.699,15.472,17.22,0.213,"['runny nose', 'fatigue', 'diarrhea', 'difficulty breathing', 'dry cough', 'loss of or smell']",0,1,1,0,1,1,0,0,0,0,1,1,0
+BGD,Bangladesh,26/07/2020,1343.001,15.302,17.451,0.231,"['loss of taste', 'sore throat', 'difficulty breathing', 'dry cough', 'muscle aches', 'diarrhea']",0,1,0,1,0,1,1,0,1,0,1,0,0
+BGD,Bangladesh,27/07/2020,1356.815,13.814,17.779,0.328,"['fever', 'sore throat', 'fatigue', 'diarrhea', 'nausea', 'runny nose']",1,0,1,0,0,0,1,0,0,0,1,1,1
+BGD,Bangladesh,28/07/2020,1373.647,16.832,18.004,0.225,"['runny nose', 'difficulty breathing', 'dry cough', 'sore throat', 'fatigue', 'muscle aches', 'fever']",1,1,1,0,0,1,1,0,1,0,0,1,0
+BGD,Bangladesh,29/07/2020,1391.62,17.973,18.216,0.213,"['fatigue', 'difficulty breathing', 'loss of taste', 'sore throat', 'diarrhea', 'headache', 'nausea']",0,0,1,1,0,1,1,1,0,0,1,0,1
+BGD,Bangladesh,30/07/2020,1409.891,18.271,18.429,0.213,"['difficulty breathing', 'fever', 'headache', 'sore throat', 'runny nose', 'dry cough', 'loss of taste']",1,1,0,1,0,1,1,1,0,0,0,1,0
+BGD,Bangladesh,31/07/2020,1426.255,16.364,18.72,0.291,"['chills', 'nausea', 'dry cough', 'sore throat', 'muscle aches', 'difficulty breathing']",0,1,0,0,0,1,1,0,1,1,0,0,1
+BGD,Bangladesh,01/08/2020,1443.086,16.832,18.89,0.17,"['difficulty breathing', 'chills', 'loss of taste', 'headache', 'muscle aches', 'fever']",1,0,0,1,0,1,0,1,1,1,0,0,0
+BGD,Bangladesh,02/08/2020,1456.439,13.352,19.018,0.128,"['loss of taste', 'nausea', 'loss of or smell', 'muscle aches', 'dry cough', 'chills', 'runny nose']",0,1,0,1,1,0,0,0,1,1,0,1,1
+BGD,Bangladesh,03/08/2020,1461.819,5.38,19.151,0.134,"['dry cough', 'loss of taste', 'chills', 'headache', 'diarrhea', 'nausea', 'fatigue']",0,1,1,1,0,0,0,1,0,1,1,0,1
+BGD,Bangladesh,04/08/2020,1470.052,8.234,19.333,0.182,"['chills', 'sore throat', 'runny nose', 'muscle aches', 'diarrhea', 'headache', 'difficulty breathing']",0,0,0,0,0,1,1,1,1,1,1,1,0
+BGD,Bangladesh,05/08/2020,1481.698,11.646,19.637,0.304,"['loss of or smell', 'runny nose', 'fatigue', 'loss of taste', 'chills', 'difficulty breathing']",0,0,1,1,1,1,0,0,0,1,0,1,0
+BGD,Bangladesh,06/08/2020,1497.814,16.115,19.837,0.2,"['fatigue', 'chills', 'loss of or smell', 'difficulty breathing', 'dry cough', 'loss of taste', 'muscle aches']",0,1,1,1,1,1,0,0,1,1,0,0,0
+BGD,Bangladesh,07/08/2020,1515.89,18.076,20.074,0.237,"['runny nose', 'muscle aches', 'fatigue', 'headache', 'loss of or smell', 'loss of taste']",0,0,1,1,1,0,0,1,1,0,0,1,0
+BGD,Bangladesh,08/08/2020,1533.201,17.311,20.238,0.164,"['nausea', 'chills', 'loss of taste', 'fever', 'muscle aches', 'fatigue', 'sore throat']",1,0,1,1,0,0,1,0,1,1,0,0,1
+BGD,Bangladesh,09/08/2020,1549.056,15.854,20.432,0.194,"['runny nose', 'nausea', 'diarrhea', 'dry cough', 'loss of or smell', 'muscle aches', 'difficulty breathing']",0,1,0,0,1,1,0,0,1,0,1,1,1
+BGD,Bangladesh,10/08/2020,1564.157,15.101,20.639,0.206,"['nausea', 'difficulty breathing', 'runny nose', 'diarrhea', 'loss of taste', 'loss of or smell']",0,0,0,1,1,1,0,0,0,0,1,1,1
+BGD,Bangladesh,11/08/2020,1581.808,17.651,20.876,0.237,"['difficulty breathing', 'fever', 'runny nose', 'loss of or smell', 'nausea', 'chills', 'headache']",1,0,0,0,1,1,0,1,0,1,0,1,1
+BGD,Bangladesh,12/08/2020,1600,18.192,21.076,0.2,"['difficulty breathing', 'runny nose', 'headache', 'fatigue', 'nausea', 'dry cough', 'muscle aches']",0,1,1,0,0,1,0,1,1,0,0,1,1
+BGD,Bangladesh,13/08/2020,1618.186,18.186,21.331,0.255,"['loss of taste', 'sore throat', 'muscle aches', 'runny nose', 'fever', 'loss of or smell', 'nausea']",1,0,0,1,1,0,1,0,1,0,0,1,1
+BGD,Bangladesh,14/08/2020,1634.076,15.891,21.598,0.267,"['headache', 'fever', 'dry cough', 'nausea', 'loss of taste', 'muscle aches', 'chills']",1,1,0,1,0,0,0,1,1,1,0,0,1
+BGD,Bangladesh,15/08/2020,1650.871,16.795,21.805,0.206,"['sore throat', 'fever', 'difficulty breathing', 'runny nose', 'fatigue', 'diarrhea']",1,0,1,0,0,1,1,0,0,0,1,1,0
+BGD,Bangladesh,16/08/2020,1666.926,16.054,22.011,0.206,"['muscle aches', 'headache', 'chills', 'dry cough', 'diarrhea', 'difficulty breathing']",0,1,0,0,0,1,0,1,1,1,1,0,0
+BGD,Bangladesh,17/08/2020,1679.216,12.29,22.205,0.194,"['muscle aches', 'dry cough', 'loss of or smell', 'chills', 'loss of taste', 'nausea']",0,1,0,1,1,0,0,0,1,1,0,0,1
+BGD,Bangladesh,18/08/2020,1694.973,15.757,22.43,0.225,"['headache', 'difficulty breathing', 'loss of taste', 'chills', 'fever', 'runny nose']",1,0,0,1,0,1,0,1,0,1,0,1,0
+BGD,Bangladesh,19/08/2020,1714.403,19.431,22.709,0.279,"['nausea', 'loss of taste', 'dry cough', 'headache', 'diarrhea', 'difficulty breathing', 'sore throat']",0,1,0,1,0,1,1,1,0,0,1,0,1
+IND,India,31/12/2019,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+IND,India,01/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+IND,India,02/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+IND,India,03/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+IND,India,04/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+IND,India,05/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+IND,India,06/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+IND,India,07/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+IND,India,08/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+IND,India,09/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+IND,India,10/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+IND,India,11/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+IND,India,12/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+IND,India,13/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+IND,India,14/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+IND,India,15/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+IND,India,16/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+IND,India,17/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+IND,India,18/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+IND,India,19/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+IND,India,20/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+IND,India,21/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+IND,India,22/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+IND,India,23/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+IND,India,24/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+IND,India,25/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+IND,India,26/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+IND,India,27/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+IND,India,28/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+IND,India,29/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+IND,India,30/01/2020,0.001,0.001,0,0,"['diarrhea', 'loss of taste', 'loss of or smell', 'sore throat', 'nausea', 'fever', 'chills']",1,0,0,1,1,0,1,0,0,1,1,0,1
+IND,India,31/01/2020,0.001,0,0,0,"['muscle aches', 'chills', 'fever', 'nausea', 'difficulty breathing', 'sore throat', 'loss of taste']",1,0,0,1,0,1,1,0,1,1,0,0,1
+IND,India,01/02/2020,0.001,0,0,0,"['chills', 'runny nose', 'loss of taste', 'difficulty breathing', 'fever', 'sore throat']",1,0,0,1,0,1,1,0,0,1,0,1,0
+IND,India,02/02/2020,0.001,0.001,0,0,"['nausea', 'headache', 'loss of or smell', 'runny nose', 'difficulty breathing', 'fatigue']",0,0,1,0,1,1,0,1,0,0,0,1,1
+IND,India,03/02/2020,0.001,0,0,0,"['fever', 'loss of taste', 'chills', 'headache', 'difficulty breathing', 'fatigue']",1,0,1,1,0,1,0,1,0,1,0,0,0
+IND,India,04/02/2020,0.002,0.001,0,0,"['fever', 'dry cough', 'runny nose', 'difficulty breathing', 'loss of taste', 'muscle aches', 'diarrhea']",1,1,0,1,0,1,0,0,1,0,1,1,0
+IND,India,05/02/2020,0.002,0,0,0,"['headache', 'difficulty breathing', 'loss of taste', 'dry cough', 'muscle aches', 'diarrhea']",0,1,0,1,0,1,0,1,1,0,1,0,0
+IND,India,06/02/2020,0.002,0,0,0,"['difficulty breathing', 'runny nose', 'loss of taste', 'fatigue', 'fever', 'dry cough']",1,1,1,1,0,1,0,0,0,0,0,1,0
+IND,India,07/02/2020,0.002,0,0,0,"['difficulty breathing', 'loss of or smell', 'headache', 'chills', 'fever', 'loss of taste']",1,0,0,1,1,1,0,1,0,1,0,0,0
+IND,India,08/02/2020,0.002,0,0,0,"['muscle aches', 'loss of or smell', 'headache', 'sore throat', 'diarrhea', 'nausea', 'fever']",1,0,0,0,1,0,1,1,1,0,1,0,1
+IND,India,09/02/2020,0.002,0,0,0,"['chills', 'runny nose', 'fever', 'muscle aches', 'loss of or smell', 'sore throat', 'headache']",1,0,0,0,1,0,1,1,1,1,0,1,0
+IND,India,10/02/2020,0.002,0,0,0,"['loss of or smell', 'fever', 'chills', 'fatigue', 'loss of taste', 'dry cough', 'sore throat']",1,1,1,1,1,0,1,0,0,1,0,0,0
+IND,India,11/02/2020,0.002,0,0,0,"['chills', 'loss of taste', 'dry cough', 'diarrhea', 'headache', 'nausea', 'sore throat']",0,1,0,1,0,0,1,1,0,1,1,0,1
+IND,India,12/02/2020,0.002,0,0,0,"['headache', 'loss of taste', 'fever', 'diarrhea', 'fatigue', 'muscle aches']",1,0,1,1,0,0,0,1,1,0,1,0,0
+IND,India,13/02/2020,0.002,0,0,0,"['loss of taste', 'difficulty breathing', 'diarrhea', 'nausea', 'fatigue', 'fever']",1,0,1,1,0,1,0,0,0,0,1,0,1
+IND,India,14/02/2020,0.002,0,0,0,"['muscle aches', 'fatigue', 'loss of or smell', 'runny nose', 'headache', 'dry cough']",0,1,1,0,1,0,0,1,1,0,0,1,0
+IND,India,15/02/2020,0.002,0,0,0,"['chills', 'diarrhea', 'fatigue', 'headache', 'muscle aches', 'nausea', 'sore throat']",0,0,1,0,0,0,1,1,1,1,1,0,1
+IND,India,16/02/2020,0.002,0,0,0,"['diarrhea', 'fever', 'sore throat', 'fatigue', 'dry cough', 'loss of or smell', 'difficulty breathing']",1,1,1,0,1,1,1,0,0,0,1,0,0
+IND,India,17/02/2020,0.002,0,0,0,"['chills', 'runny nose', 'fatigue', 'nausea', 'sore throat', 'dry cough', 'loss of taste']",0,1,1,1,0,0,1,0,0,1,0,1,1
+IND,India,18/02/2020,0.002,0,0,0,"['chills', 'loss of taste', 'fatigue', 'headache', 'loss of or smell', 'muscle aches', 'sore throat']",0,0,1,1,1,0,1,1,1,1,0,0,0
+IND,India,19/02/2020,0.002,0,0,0,"['loss of or smell', 'muscle aches', 'headache', 'fever', 'loss of taste', 'diarrhea', 'dry cough']",1,1,0,1,1,0,0,1,1,0,1,0,0
+IND,India,20/02/2020,0.002,0,0,0,"['loss of taste', 'runny nose', 'difficulty breathing', 'loss of or smell', 'nausea', 'fatigue']",0,0,1,1,1,1,0,0,0,0,0,1,1
+IND,India,21/02/2020,0.002,0,0,0,"['diarrhea', 'sore throat', 'fever', 'chills', 'loss of or smell', 'fatigue', 'runny nose']",1,0,1,0,1,0,1,0,0,1,1,1,0
+IND,India,22/02/2020,0.002,0,0,0,"['nausea', 'runny nose', 'loss of taste', 'fatigue', 'loss of or smell', 'dry cough', 'sore throat']",0,1,1,1,1,0,1,0,0,0,0,1,1
+IND,India,23/02/2020,0.002,0,0,0,"['nausea', 'chills', 'fatigue', 'muscle aches', 'difficulty breathing', 'dry cough', 'sore throat']",0,1,1,0,0,1,1,0,1,1,0,0,1
+IND,India,24/02/2020,0.002,0,0,0,"['diarrhea', 'fever', 'nausea', 'dry cough', 'loss of taste', 'fatigue']",1,1,1,1,0,0,0,0,0,0,1,0,1
+IND,India,25/02/2020,0.002,0,0,0,"['fatigue', 'muscle aches', 'dry cough', 'runny nose', 'fever', 'sore throat', 'loss of or smell']",1,1,1,0,1,0,1,0,1,0,0,1,0
+IND,India,26/02/2020,0.002,0,0,0,"['nausea', 'fatigue', 'dry cough', 'difficulty breathing', 'fever', 'loss of or smell', 'headache']",1,1,1,0,1,1,0,1,0,0,0,0,1
+IND,India,27/02/2020,0.002,0,0,0,"['sore throat', 'chills', 'fever', 'loss of taste', 'nausea', 'difficulty breathing', 'dry cough']",1,1,0,1,0,1,1,0,0,1,0,0,1
+IND,India,28/02/2020,0.002,0,0,0,"['runny nose', 'dry cough', 'loss of taste', 'difficulty breathing', 'fatigue', 'headache']",0,1,1,1,0,1,0,1,0,0,0,1,0
+IND,India,29/02/2020,0.002,0,0,0,"['diarrhea', 'dry cough', 'muscle aches', 'runny nose', 'fatigue', 'fever']",1,1,1,0,0,0,0,0,1,0,1,1,0
+IND,India,01/03/2020,0.002,0,0,0,"['dry cough', 'fever', 'nausea', 'loss of or smell', 'difficulty breathing', 'runny nose']",1,1,0,0,1,1,0,0,0,0,0,1,1
+IND,India,02/03/2020,0.002,0,0,0,"['muscle aches', 'difficulty breathing', 'loss of taste', 'fever', 'sore throat', 'fatigue']",1,0,1,1,0,1,1,0,1,0,0,0,0
+IND,India,03/03/2020,0.004,0.001,0,0,"['headache', 'sore throat', 'difficulty breathing', 'muscle aches', 'loss of taste', 'runny nose', 'fever']",1,0,0,1,0,1,1,1,1,0,0,1,0
+IND,India,04/03/2020,0.004,0.001,0,0,"['headache', 'diarrhea', 'dry cough', 'difficulty breathing', 'runny nose', 'fatigue']",0,1,1,0,0,1,0,1,0,0,1,1,0
+IND,India,05/03/2020,0.02,0.016,0,0,"['loss of or smell', 'difficulty breathing', 'diarrhea', 'dry cough', 'muscle aches', 'fatigue', 'loss of taste']",0,1,1,1,1,1,0,0,1,0,1,0,0
+IND,India,06/03/2020,0.021,0.001,0,0,"['muscle aches', 'diarrhea', 'dry cough', 'sore throat', 'runny nose', 'fever']",1,1,0,0,0,0,1,0,1,0,1,1,0
+IND,India,07/03/2020,0.022,0.001,0,0,"['nausea', 'sore throat', 'diarrhea', 'chills', 'difficulty breathing', 'muscle aches']",0,0,0,0,0,1,1,0,1,1,1,0,1
+IND,India,08/03/2020,0.025,0.002,0,0,"['loss of taste', 'chills', 'difficulty breathing', 'diarrhea', 'fever', 'fatigue', 'headache']",1,0,1,1,0,1,0,1,0,1,1,0,0
+IND,India,09/03/2020,0.025,0,0,0,"['headache', 'dry cough', 'loss of taste', 'difficulty breathing', 'fatigue', 'loss of or smell', 'nausea']",0,1,1,1,1,1,0,1,0,0,0,0,1
+IND,India,10/03/2020,0.032,0.007,0,0,"['muscle aches', 'nausea', 'loss of taste', 'sore throat', 'fatigue', 'runny nose']",0,0,1,1,0,0,1,0,1,0,0,1,1
+IND,India,11/03/2020,0.036,0.004,0,0,"['loss of taste', 'chills', 'fever', 'loss of or smell', 'runny nose', 'headache', 'muscle aches']",1,0,0,1,1,0,0,1,1,1,0,1,0
+IND,India,12/03/2020,0.053,0.017,0,0,"['headache', 'fatigue', 'muscle aches', 'dry cough', 'runny nose', 'loss of or smell']",0,1,1,0,1,0,0,1,1,0,0,1,0
+IND,India,13/03/2020,0.054,0.001,0.001,0.001,"['fatigue', 'loss of taste', 'diarrhea', 'difficulty breathing', 'muscle aches', 'loss of or smell', 'nausea']",0,0,1,1,1,1,0,0,1,0,1,0,1
+IND,India,14/03/2020,0.06,0.006,0.001,0.001,"['loss of taste', 'headache', 'fatigue', 'loss of or smell', 'fever', 'chills']",1,0,1,1,1,0,0,1,0,1,0,0,0
+IND,India,15/03/2020,0.065,0.005,0.001,0,"['loss of taste', 'loss of or smell', 'fatigue', 'difficulty breathing', 'dry cough', 'fever', 'runny nose']",1,1,1,1,1,1,0,0,0,0,0,1,0
+IND,India,16/03/2020,0.067,0.002,0.001,0,"['dry cough', 'headache', 'nausea', 'loss of taste', 'runny nose', 'chills']",0,1,0,1,0,0,0,1,0,1,0,1,1
+IND,India,17/03/2020,0.091,0.023,0.002,0.001,"['chills', 'sore throat', 'headache', 'fever', 'loss of or smell', 'dry cough']",1,1,0,0,1,0,1,1,0,1,0,0,0
+IND,India,18/03/2020,0.099,0.009,0.002,0,"['sore throat', 'loss of or smell', 'muscle aches', 'headache', 'runny nose', 'fever']",1,0,0,0,1,0,1,1,1,0,0,1,0
+IND,India,19/03/2020,0.12,0.02,0.002,0,"['loss of taste', 'diarrhea', 'muscle aches', 'difficulty breathing', 'dry cough', 'headache']",0,1,0,1,0,1,0,1,1,0,1,0,0
+IND,India,20/03/2020,0.138,0.019,0.003,0.001,"['nausea', 'fever', 'headache', 'dry cough', 'difficulty breathing', 'sore throat']",1,1,0,0,0,1,1,1,0,0,0,0,1
+IND,India,21/03/2020,0.167,0.029,0.003,0,"['dry cough', 'fever', 'loss of or smell', 'difficulty breathing', 'loss of taste', 'sore throat', 'fatigue']",1,1,1,1,1,1,1,0,0,0,0,0,0
+IND,India,22/03/2020,0.232,0.064,0.003,0,"['loss of or smell', 'runny nose', 'headache', 'loss of taste', 'fever', 'fatigue', 'chills']",1,0,1,1,1,0,0,1,0,1,0,1,0
+IND,India,23/03/2020,0.318,0.086,0.005,0.002,"['nausea', 'fatigue', 'diarrhea', 'sore throat', 'chills', 'headache', 'dry cough']",0,1,1,0,0,0,1,1,0,1,1,0,1
+IND,India,24/03/2020,0.357,0.038,0.007,0.001,"['fever', 'runny nose', 'chills', 'loss of taste', 'muscle aches', 'difficulty breathing']",1,0,0,1,0,1,0,0,1,1,0,1,0
+IND,India,25/03/2020,0.407,0.051,0.007,0,"['chills', 'sore throat', 'fever', 'diarrhea', 'loss of taste', 'fatigue', 'dry cough']",1,1,1,1,0,0,1,0,0,1,1,0,0
+IND,India,26/03/2020,0.47,0.063,0.009,0.003,"['loss of or smell', 'sore throat', 'muscle aches', 'loss of taste', 'diarrhea', 'nausea']",0,0,0,1,1,0,1,0,1,0,1,0,1
+IND,India,27/03/2020,0.525,0.054,0.012,0.003,"['muscle aches', 'loss of taste', 'runny nose', 'fever', 'nausea', 'diarrhea', 'dry cough']",1,1,0,1,0,0,0,0,1,0,1,1,1
+IND,India,28/03/2020,0.633,0.108,0.014,0.001,"['fatigue', 'chills', 'diarrhea', 'difficulty breathing', 'sore throat', 'loss of or smell']",0,0,1,0,1,1,1,0,0,1,1,0,0
+IND,India,29/03/2020,0.709,0.077,0.018,0.004,"['headache', 'dry cough', 'runny nose', 'diarrhea', 'fatigue', 'difficulty breathing', 'muscle aches']",0,1,1,0,0,1,0,1,1,0,1,1,0
+IND,India,30/03/2020,0.776,0.067,0.021,0.003,"['chills', 'loss of or smell', 'runny nose', 'diarrhea', 'dry cough', 'loss of taste', 'nausea']",0,1,0,1,1,0,0,0,0,1,1,1,1
+IND,India,31/03/2020,0.907,0.13,0.023,0.002,"['sore throat', 'diarrhea', 'loss of taste', 'headache', 'fatigue', 'runny nose']",0,0,1,1,0,0,1,1,0,0,1,1,0
+IND,India,01/04/2020,1.012,0.106,0.025,0.002,"['nausea', 'difficulty breathing', 'fatigue', 'fever', 'loss of or smell', 'loss of taste', 'muscle aches']",1,0,1,1,1,1,0,0,1,0,0,0,1
+IND,India,02/04/2020,1.424,0.412,0.036,0.011,"['difficulty breathing', 'fatigue', 'fever', 'chills', 'sore throat', 'muscle aches']",1,0,1,0,0,1,1,0,1,1,0,0,0
+IND,India,03/04/2020,1.667,0.243,0.041,0.004,"['chills', 'nausea', 'headache', 'sore throat', 'dry cough', 'diarrhea', 'fatigue']",0,1,1,0,0,0,1,1,0,1,1,0,1
+IND,India,04/04/2020,2.103,0.436,0.049,0.009,"['loss of or smell', 'sore throat', 'loss of taste', 'runny nose', 'headache', 'muscle aches', 'difficulty breathing']",0,0,0,1,1,1,1,1,1,0,0,1,0
+IND,India,05/04/2020,2.445,0.342,0.056,0.007,"['headache', 'loss of or smell', 'runny nose', 'fever', 'difficulty breathing', 'chills']",1,0,0,0,1,1,0,1,0,1,0,1,0
+IND,India,06/04/2020,2.947,0.502,0.079,0.023,"['fatigue', 'chills', 'dry cough', 'nausea', 'runny nose', 'fever', 'difficulty breathing']",1,1,1,0,0,1,0,0,0,1,0,1,1
+IND,India,07/04/2020,3.204,0.257,0.083,0.004,"['difficulty breathing', 'loss of or smell', 'headache', 'sore throat', 'dry cough', 'muscle aches']",0,1,0,0,1,1,1,1,1,0,0,0,0
+IND,India,08/04/2020,3.764,0.56,0.108,0.025,"['fatigue', 'nausea', 'headache', 'diarrhea', 'runny nose', 'loss of taste', 'difficulty breathing']",0,0,1,1,0,1,0,1,0,0,1,1,1
+IND,India,09/04/2020,4.155,0.391,0.12,0.012,"['fatigue', 'muscle aches', 'sore throat', 'runny nose', 'diarrhea', 'headache']",0,0,1,0,0,0,1,1,1,0,1,1,0
+IND,India,10/04/2020,4.646,0.491,0.144,0.024,"['fatigue', 'loss of taste', 'chills', 'muscle aches', 'runny nose', 'sore throat', 'fever']",1,0,1,1,0,0,1,0,1,1,0,1,0
+IND,India,11/04/2020,5.396,0.75,0.173,0.029,"['muscle aches', 'headache', 'diarrhea', 'runny nose', 'fever', 'chills']",1,0,0,0,0,0,0,1,1,1,1,1,0
+IND,India,12/04/2020,6.055,0.659,0.198,0.025,"['diarrhea', 'loss of taste', 'dry cough', 'headache', 'muscle aches', 'chills', 'fatigue']",0,1,1,1,0,0,0,1,1,1,1,0,0
+IND,India,13/04/2020,6.632,0.577,0.223,0.025,"['diarrhea', 'nausea', 'fatigue', 'sore throat', 'runny nose', 'chills', 'loss of taste']",0,0,1,1,0,0,1,0,0,1,1,1,1
+IND,India,14/04/2020,7.509,0.878,0.246,0.022,"['chills', 'headache', 'diarrhea', 'runny nose', 'difficulty breathing', 'sore throat']",0,0,0,0,0,1,1,1,0,1,1,1,0
+IND,India,15/04/2020,8.288,0.779,0.273,0.028,"['difficulty breathing', 'dry cough', 'fatigue', 'nausea', 'fever', 'runny nose']",1,1,1,0,0,1,0,0,0,0,0,1,1
+IND,India,16/04/2020,8.971,0.683,0.3,0.027,"['runny nose', 'muscle aches', 'fever', 'loss of taste', 'headache', 'fatigue']",1,0,1,1,0,0,0,1,1,0,0,1,0
+IND,India,17/04/2020,9.701,0.73,0.317,0.017,"['fatigue', 'dry cough', 'headache', 'diarrhea', 'chills', 'loss of or smell', 'sore throat']",0,1,1,0,1,0,1,1,0,1,1,0,0
+IND,India,18/04/2020,10.419,0.718,0.348,0.031,"['muscle aches', 'difficulty breathing', 'fever', 'runny nose', 'loss of taste', 'headache']",1,0,0,1,0,1,0,1,1,0,0,1,0
+IND,India,19/04/2020,11.385,0.967,0.367,0.02,"['chills', 'sore throat', 'fever', 'loss of or smell', 'fatigue', 'dry cough']",1,1,1,0,1,0,1,0,0,1,0,0,0
+IND,India,20/04/2020,12.511,1.125,0.393,0.026,"['diarrhea', 'nausea', 'muscle aches', 'fatigue', 'dry cough', 'loss of or smell', 'difficulty breathing']",0,1,1,0,1,1,0,0,1,0,1,0,1
+IND,India,21/04/2020,13.478,0.967,0.428,0.034,"['loss of taste', 'muscle aches', 'sore throat', 'loss of or smell', 'difficulty breathing', 'fever']",1,0,0,1,1,1,1,0,1,0,0,0,0
+IND,India,22/04/2020,14.481,1.003,0.464,0.036,"['loss of taste', 'difficulty breathing', 'sore throat', 'diarrhea', 'dry cough', 'loss of or smell']",0,1,0,1,1,1,1,0,0,0,1,0,0
+IND,India,23/04/2020,15.502,1.021,0.493,0.03,"['diarrhea', 'fever', 'runny nose', 'sore throat', 'dry cough', 'muscle aches']",1,1,0,0,0,0,1,0,1,0,1,1,0
+IND,India,24/04/2020,16.722,1.22,0.52,0.027,"['difficulty breathing', 'fatigue', 'fever', 'sore throat', 'headache', 'loss of taste']",1,0,1,1,0,1,1,1,0,0,0,0,0
+IND,India,25/04/2020,17.758,1.036,0.562,0.041,"['diarrhea', 'sore throat', 'runny nose', 'difficulty breathing', 'loss of or smell', 'nausea']",0,0,0,0,1,1,1,0,0,0,1,1,1
+IND,India,26/04/2020,19.2,1.442,0.597,0.036,"['runny nose', 'fever', 'muscle aches', 'fatigue', 'loss of or smell', 'chills']",1,0,1,0,1,0,0,0,1,1,0,1,0
+IND,India,27/04/2020,20.212,1.012,0.632,0.035,"['nausea', 'fatigue', 'fever', 'loss of or smell', 'sore throat', 'muscle aches', 'runny nose']",1,0,1,0,1,0,1,0,1,0,0,1,1
+IND,India,28/04/2020,21.33,1.118,0.677,0.045,"['fever', 'loss of or smell', 'nausea', 'headache', 'dry cough', 'loss of taste']",1,1,0,1,1,0,0,1,0,0,0,0,1
+IND,India,29/04/2020,22.704,1.375,0.73,0.053,"['runny nose', 'chills', 'loss of taste', 'muscle aches', 'dry cough', 'sore throat']",0,1,0,1,0,0,1,0,1,1,0,1,0
+IND,India,30/04/2020,23.949,1.245,0.778,0.049,"['runny nose', 'fatigue', 'chills', 'headache', 'muscle aches', 'sore throat', 'dry cough']",0,1,1,0,0,0,1,1,1,1,0,1,0
+IND,India,01/05/2020,25.393,1.444,0.831,0.053,"['difficulty breathing', 'fever', 'nausea', 'headache', 'sore throat', 'dry cough']",1,1,0,0,0,1,1,1,0,0,0,0,1
+IND,India,02/05/2020,27.055,1.662,0.883,0.051,"['chills', 'diarrhea', 'headache', 'dry cough', 'nausea', 'sore throat', 'runny nose']",0,1,0,0,0,0,1,1,0,1,1,1,1
+IND,India,03/05/2020,28.971,1.916,0.943,0.06,"['difficulty breathing', 'loss of or smell', 'dry cough', 'runny nose', 'diarrhea', 'sore throat']",0,1,0,0,1,1,1,0,0,0,1,1,0
+IND,India,04/05/2020,30.821,1.85,0.995,0.052,"['loss of taste', 'chills', 'nausea', 'loss of or smell', 'fatigue', 'muscle aches', 'diarrhea']",0,0,1,1,1,0,0,0,1,1,1,0,1
+IND,India,05/05/2020,33.647,2.826,1.136,0.141,"['loss of taste', 'muscle aches', 'fever', 'fatigue', 'runny nose', 'chills', 'loss of or smell']",1,0,1,1,1,0,0,0,1,1,0,1,0
+IND,India,06/05/2020,35.79,2.143,1.228,0.091,"['fever', 'difficulty breathing', 'headache', 'dry cough', 'loss of taste', 'loss of or smell', 'muscle aches']",1,1,0,1,1,1,0,1,1,0,0,0,0
+IND,India,07/05/2020,38.371,2.58,1.292,0.064,"['loss of or smell', 'difficulty breathing', 'diarrhea', 'muscle aches', 'chills', 'runny nose', 'dry cough']",0,1,0,0,1,1,0,0,1,1,1,1,0
+IND,India,08/05/2020,40.827,2.457,1.367,0.075,"['loss of taste', 'fatigue', 'dry cough', 'loss of or smell', 'headache', 'sore throat']",0,1,1,1,1,0,1,1,0,0,0,0,0
+IND,India,09/05/2020,43.233,2.406,1.436,0.069,"['chills', 'difficulty breathing', 'loss of or smell', 'sore throat', 'nausea', 'fever', 'headache']",1,0,0,0,1,1,1,1,0,1,0,0,1
+IND,India,10/05/2020,45.608,2.375,1.528,0.093,"['dry cough', 'chills', 'headache', 'fever', 'nausea', 'loss of taste', 'loss of or smell']",1,1,0,1,1,0,0,1,0,1,0,0,1
+IND,India,11/05/2020,48.661,3.053,1.599,0.07,"['headache', 'nausea', 'diarrhea', 'difficulty breathing', 'sore throat', 'loss of or smell', 'dry cough']",0,1,0,0,1,1,1,1,0,0,1,0,1
+IND,India,12/05/2020,51.272,2.612,1.662,0.063,"['chills', 'difficulty breathing', 'muscle aches', 'sore throat', 'nausea', 'fatigue']",0,0,1,0,0,1,1,0,1,1,0,0,1
+IND,India,13/05/2020,53.827,2.554,1.75,0.088,"['fatigue', 'diarrhea', 'headache', 'muscle aches', 'runny nose', 'dry cough']",0,1,1,0,0,0,0,1,1,0,1,1,0
+IND,India,14/05/2020,56.524,2.697,1.847,0.097,"['muscle aches', 'sore throat', 'runny nose', 'chills', 'fever', 'difficulty breathing', 'fatigue']",1,0,1,0,0,1,1,0,1,1,0,1,0
+IND,India,15/05/2020,59.398,2.875,1.92,0.072,"['fatigue', 'diarrhea', 'runny nose', 'difficulty breathing', 'muscle aches', 'sore throat', 'loss of or smell']",0,0,1,0,1,1,1,0,1,0,1,1,0
+IND,India,16/05/2020,62.275,2.877,1.994,0.075,"['diarrhea', 'sore throat', 'headache', 'difficulty breathing', 'fatigue', 'fever']",1,0,1,0,0,1,1,1,0,0,1,0,0
+IND,India,17/05/2020,65.889,3.614,2.081,0.087,"['loss of taste', 'headache', 'fatigue', 'difficulty breathing', 'runny nose', 'diarrhea']",0,0,1,1,0,1,0,1,0,0,1,1,0
+IND,India,18/05/2020,69.687,3.799,2.195,0.114,"['loss of taste', 'runny nose', 'nausea', 'fatigue', 'diarrhea', 'loss of or smell', 'fever']",1,0,1,1,1,0,0,0,0,0,1,1,1
+IND,India,19/05/2020,73.289,3.601,2.292,0.097,"['headache', 'nausea', 'chills', 'dry cough', 'difficulty breathing', 'fatigue']",0,1,1,0,0,1,0,1,0,1,0,0,1
+IND,India,20/05/2020,77.355,4.066,2.393,0.101,"['loss of or smell', 'chills', 'difficulty breathing', 'nausea', 'headache', 'fatigue', 'fever']",1,0,1,0,1,1,0,1,0,1,0,0,1
+IND,India,21/05/2020,81.419,4.064,2.489,0.096,"['chills', 'difficulty breathing', 'loss of taste', 'nausea', 'dry cough', 'muscle aches']",0,1,0,1,0,1,0,0,1,1,0,0,1
+IND,India,22/05/2020,85.831,4.412,2.596,0.107,"['fever', 'headache', 'diarrhea', 'nausea', 'difficulty breathing', 'dry cough', 'runny nose']",1,1,0,0,0,1,0,1,0,0,1,1,1
+IND,India,23/05/2020,90.653,4.822,2.696,0.099,"['fever', 'loss of or smell', 'dry cough', 'diarrhea', 'muscle aches', 'loss of taste']",1,1,0,1,1,0,0,0,1,0,1,0,0
+IND,India,24/05/2020,95.556,4.904,2.802,0.107,"['fatigue', 'difficulty breathing', 'dry cough', 'loss of taste', 'nausea', 'sore throat', 'muscle aches']",0,1,1,1,0,1,1,0,1,0,0,0,1
+IND,India,25/05/2020,100.612,5.056,2.914,0.112,"['loss of or smell', 'runny nose', 'loss of taste', 'dry cough', 'chills', 'headache', 'sore throat']",0,1,0,1,1,0,1,1,0,1,0,1,0
+IND,India,26/05/2020,105.347,4.735,3.02,0.106,"['loss of taste', 'headache', 'nausea', 'difficulty breathing', 'loss of or smell', 'sore throat', 'chills']",0,0,0,1,1,1,1,1,0,1,0,0,1
+IND,India,27/05/2020,109.976,4.628,3.143,0.123,"['loss of or smell', 'fever', 'muscle aches', 'sore throat', 'loss of taste', 'dry cough']",1,1,0,1,1,0,1,0,1,0,0,0,0
+IND,India,28/05/2020,114.734,4.758,3.283,0.141,"['dry cough', 'nausea', 'chills', 'fever', 'muscle aches', 'fatigue']",1,1,1,0,0,0,0,0,1,1,0,0,1
+IND,India,29/05/2020,120.144,5.41,3.41,0.127,"['nausea', 'fatigue', 'muscle aches', 'runny nose', 'dry cough', 'loss of or smell']",0,1,1,0,1,0,0,0,1,0,0,1,1
+IND,India,30/05/2020,125.915,5.771,3.602,0.192,"['fatigue', 'fever', 'headache', 'loss of or smell', 'chills', 'diarrhea', 'dry cough']",1,1,1,0,1,0,0,1,0,1,1,0,0
+IND,India,31/05/2020,131.987,6.072,3.742,0.14,"['dry cough', 'loss of or smell', 'runny nose', 'loss of taste', 'fatigue', 'diarrhea']",0,1,1,1,1,0,0,0,0,0,1,1,0
+IND,India,01/06/2020,138.068,6.081,3.909,0.167,"['headache', 'muscle aches', 'loss of taste', 'difficulty breathing', 'loss of or smell', 'sore throat', 'chills']",0,0,0,1,1,1,1,1,1,1,0,0,0
+IND,India,02/06/2020,143.989,5.921,4.057,0.148,"['sore throat', 'runny nose', 'diarrhea', 'chills', 'difficulty breathing', 'nausea', 'fatigue']",0,0,1,0,0,1,1,0,0,1,1,1,1
+IND,India,03/06/2020,150.445,6.456,4.214,0.157,"['muscle aches', 'sore throat', 'loss of taste', 'runny nose', 'difficulty breathing', 'headache']",0,0,0,1,0,1,1,1,1,0,0,1,0
+IND,India,04/06/2020,157.187,6.742,4.402,0.188,"['runny nose', 'loss of or smell', 'chills', 'difficulty breathing', 'nausea', 'diarrhea']",0,0,0,0,1,1,0,0,0,1,1,1,1
+IND,India,05/06/2020,164.326,7.138,4.6,0.198,"['loss of or smell', 'diarrhea', 'loss of taste', 'fatigue', 'difficulty breathing', 'nausea']",0,0,1,1,1,1,0,0,0,0,1,0,1
+IND,India,06/06/2020,171.49,7.164,4.813,0.213,"['diarrhea', 'muscle aches', 'loss of taste', 'chills', 'sore throat', 'nausea', 'runny nose']",0,0,0,1,0,0,1,0,1,1,1,1,1
+IND,India,07/06/2020,178.715,7.225,5.021,0.208,"['sore throat', 'fever', 'fatigue', 'headache', 'nausea', 'loss of taste', 'chills']",1,0,1,1,0,0,1,1,0,1,0,0,1
+IND,India,08/06/2020,185.949,7.234,5.17,0.149,"['fatigue', 'difficulty breathing', 'muscle aches', 'chills', 'runny nose', 'diarrhea', 'nausea']",0,0,1,0,0,1,0,0,1,1,1,1,1
+IND,India,09/06/2020,193.186,7.237,5.41,0.24,"['sore throat', 'chills', 'diarrhea', 'fatigue', 'loss of taste', 'difficulty breathing']",0,0,1,1,0,1,1,0,0,1,1,0,0
+IND,India,10/06/2020,200.422,7.235,5.612,0.202,"['dry cough', 'loss of or smell', 'diarrhea', 'headache', 'loss of taste', 'sore throat', 'fatigue']",0,1,1,1,1,0,1,1,0,0,1,0,0
+IND,India,11/06/2020,207.665,7.243,5.871,0.259,"['sore throat', 'loss of or smell', 'fever', 'difficulty breathing', 'headache', 'chills']",1,0,0,0,1,1,1,1,0,1,0,0,0
+IND,India,12/06/2020,215.604,7.939,6.158,0.287,"['loss of taste', 'difficulty breathing', 'dry cough', 'muscle aches', 'fever', 'runny nose', 'sore throat']",1,1,0,1,0,1,1,0,1,0,0,1,0
+IND,India,13/06/2020,223.907,8.303,6.438,0.28,"['dry cough', 'chills', 'muscle aches', 'runny nose', 'headache', 'fatigue']",0,1,1,0,0,0,0,1,1,1,0,1,0
+IND,India,14/06/2020,232.551,8.644,6.663,0.225,"['dry cough', 'runny nose', 'fever', 'diarrhea', 'chills', 'nausea']",1,1,0,0,0,0,0,0,0,1,1,1,1
+IND,India,15/06/2020,240.886,8.335,6.899,0.236,"['dry cough', 'fatigue', 'loss of or smell', 'muscle aches', 'chills', 'sore throat', 'headache']",0,1,1,0,1,0,1,1,1,1,0,0,0
+IND,India,16/06/2020,248.616,7.73,7.174,0.275,"['chills', 'fatigue', 'loss of taste', 'runny nose', 'headache', 'dry cough', 'diarrhea']",0,1,1,1,0,0,0,1,0,1,1,1,0
+IND,India,17/06/2020,256.568,7.952,8.625,1.451,"['dry cough', 'nausea', 'loss of or smell', 'headache', 'loss of taste', 'fever', 'difficulty breathing']",1,1,0,1,1,1,0,1,0,0,0,0,1
+IND,India,18/06/2020,265.902,9.334,8.867,0.242,"['fatigue', 'loss of taste', 'fever', 'sore throat', 'chills', 'nausea']",1,0,1,1,0,0,1,0,0,1,0,0,1
+IND,India,19/06/2020,275.747,9.845,9.111,0.243,"['chills', 'runny nose', 'diarrhea', 'fatigue', 'nausea', 'loss of or smell', 'dry cough']",0,1,1,0,1,0,0,0,0,1,1,1,1
+IND,India,20/06/2020,286.266,10.519,9.383,0.272,"['loss of or smell', 'dry cough', 'sore throat', 'runny nose', 'fever', 'loss of taste']",1,1,0,1,1,0,1,0,0,0,0,1,0
+IND,India,21/06/2020,297.435,11.169,9.604,0.222,"['nausea', 'runny nose', 'sore throat', 'loss of or smell', 'dry cough', 'muscle aches', 'difficulty breathing']",0,1,0,0,1,1,1,0,1,0,0,1,1
+IND,India,22/06/2020,308.174,10.74,9.927,0.322,"['difficulty breathing', 'nausea', 'fever', 'diarrhea', 'fatigue', 'muscle aches']",1,0,1,0,0,1,0,0,1,0,1,0,1
+IND,India,23/06/2020,318.995,10.821,10.153,0.226,"['loss of or smell', 'muscle aches', 'diarrhea', 'headache', 'loss of taste', 'nausea']",0,0,0,1,1,0,0,1,1,0,1,0,1
+IND,India,24/06/2020,330.566,11.571,10.49,0.337,"['headache', 'diarrhea', 'muscle aches', 'runny nose', 'difficulty breathing', 'chills', 'loss of taste']",0,0,0,1,0,1,0,1,1,1,1,1,0
+IND,India,25/06/2020,342.829,12.262,10.793,0.303,"['chills', 'fatigue', 'diarrhea', 'headache', 'fever', 'loss of taste']",1,0,1,1,0,0,0,1,0,1,1,0,0
+IND,India,26/06/2020,355.362,12.533,11.088,0.295,"['loss of or smell', 'sore throat', 'runny nose', 'difficulty breathing', 'loss of taste', 'chills']",0,0,0,1,1,1,1,0,0,1,0,1,0
+IND,India,27/06/2020,368.805,13.443,11.366,0.278,"['fatigue', 'muscle aches', 'runny nose', 'headache', 'fever', 'loss of or smell']",1,0,1,0,1,0,0,1,1,0,0,1,0
+IND,India,28/06/2020,383.23,14.425,11.663,0.297,"['loss of taste', 'loss of or smell', 'diarrhea', 'runny nose', 'muscle aches', 'difficulty breathing']",0,0,0,1,1,1,0,0,1,0,1,1,0
+IND,India,29/06/2020,397.331,14.101,11.938,0.275,"['muscle aches', 'difficulty breathing', 'sore throat', 'fatigue', 'dry cough', 'runny nose', 'headache']",0,1,1,0,0,1,1,1,1,0,0,1,0
+IND,India,30/06/2020,410.752,13.422,12.241,0.303,"['loss of taste', 'loss of or smell', 'difficulty breathing', 'sore throat', 'fever', 'dry cough']",1,1,0,1,1,1,1,0,0,0,0,0,0
+IND,India,01/07/2020,424.269,13.517,12.609,0.367,"['headache', 'dry cough', 'loss of taste', 'fatigue', 'diarrhea', 'difficulty breathing', 'fever']",1,1,1,1,0,1,0,1,0,0,1,0,0
+IND,India,02/07/2020,438.144,13.875,12.923,0.314,"['muscle aches', 'chills', 'nausea', 'diarrhea', 'dry cough', 'difficulty breathing']",0,1,0,0,0,1,0,0,1,1,1,0,1
+IND,India,03/07/2020,453.291,15.147,13.198,0.275,"['loss of or smell', 'headache', 'nausea', 'runny nose', 'loss of taste', 'difficulty breathing']",0,0,0,1,1,1,0,1,0,0,0,1,1
+IND,India,04/07/2020,469.792,16.501,13.518,0.32,"['difficulty breathing', 'sore throat', 'chills', 'runny nose', 'nausea', 'loss of taste', 'fever']",1,0,0,1,0,1,1,0,0,1,0,1,1
+IND,India,05/07/2020,487.799,18.007,13.962,0.444,"['chills', 'runny nose', 'sore throat', 'nausea', 'diarrhea', 'fever', 'loss of or smell']",1,0,0,0,1,0,1,0,0,1,1,1,1
+IND,India,06/07/2020,505.37,17.571,14.27,0.308,"['sore throat', 'diarrhea', 'fatigue', 'headache', 'runny nose', 'dry cough']",0,1,1,0,0,0,1,1,0,0,1,1,0
+IND,India,07/07/2020,521.495,16.125,14.609,0.338,"['muscle aches', 'loss of taste', 'sore throat', 'fatigue', 'fever', 'loss of or smell']",1,0,1,1,1,0,1,0,1,0,0,0,0
+IND,India,08/07/2020,537.982,16.487,14.958,0.349,"['difficulty breathing', 'dry cough', 'fatigue', 'nausea', 'chills', 'runny nose']",0,1,1,0,0,1,0,0,0,1,0,1,1
+IND,India,09/07/2020,556.01,18.028,15.311,0.353,"['loss of or smell', 'chills', 'fever', 'headache', 'runny nose', 'loss of taste', 'diarrhea']",1,0,0,1,1,0,0,1,0,1,1,1,0
+IND,India,10/07/2020,575.217,19.207,15.655,0.344,"['diarrhea', 'loss of or smell', 'runny nose', 'sore throat', 'fatigue', 'loss of taste', 'dry cough']",0,1,1,1,1,0,1,0,0,0,1,1,0
+IND,India,11/07/2020,594.865,19.648,16.031,0.376,"['headache', 'loss of taste', 'fatigue', 'sore throat', 'fever', 'diarrhea']",1,0,1,1,0,0,1,1,0,0,1,0,0
+IND,India,12/07/2020,615.616,20.751,16.43,0.399,"['loss of or smell', 'sore throat', 'fatigue', 'chills', 'dry cough', 'fever', 'runny nose']",1,1,1,0,1,0,1,0,0,1,0,1,0
+IND,India,13/07/2020,636.414,20.798,16.793,0.362,"['fatigue', 'nausea', 'muscle aches', 'diarrhea', 'fever', 'difficulty breathing', 'chills']",1,0,1,0,0,1,0,0,1,1,1,0,1
+IND,India,14/07/2020,657.065,20.651,17.193,0.401,"['chills', 'fatigue', 'nausea', 'loss of or smell', 'dry cough', 'fever']",1,1,1,0,1,0,0,0,0,1,0,0,1
+IND,India,15/07/2020,678.39,21.325,17.615,0.422,"['chills', 'nausea', 'dry cough', 'fever', 'fatigue', 'muscle aches', 'diarrhea']",1,1,1,0,0,0,0,0,1,1,1,0,1
+IND,India,16/07/2020,702.082,23.692,18.054,0.439,"['diarrhea', 'headache', 'runny nose', 'fever', 'loss of taste', 'sore throat']",1,0,0,1,0,0,1,1,0,0,1,1,0
+IND,India,17/07/2020,727.412,25.33,18.552,0.498,"['dry cough', 'fatigue', 'diarrhea', 'difficulty breathing', 'chills', 'fever', 'runny nose']",1,1,1,0,0,1,0,0,0,1,1,1,0
+IND,India,18/07/2020,752.69,25.278,19.038,0.486,"['difficulty breathing', 'loss of taste', 'loss of or smell', 'fever', 'headache', 'fatigue']",1,0,1,1,1,1,0,1,0,0,0,0,0
+IND,India,19/07/2020,780.88,28.19,19.432,0.393,"['fever', 'nausea', 'muscle aches', 'difficulty breathing', 'headache', 'loss of or smell']",1,0,0,0,1,1,0,1,1,0,0,0,1
+IND,India,20/07/2020,810.174,29.293,19.925,0.493,"['muscle aches', 'sore throat', 'loss of taste', 'difficulty breathing', 'chills', 'dry cough']",0,1,0,1,0,1,1,0,1,1,0,0,0
+IND,India,21/07/2020,837.092,26.919,20.351,0.425,"['runny nose', 'chills', 'fever', 'loss of or smell', 'sore throat', 'dry cough']",1,1,0,0,1,0,1,0,0,1,0,1,0
+IND,India,22/07/2020,864.428,27.336,20.82,0.47,"['fatigue', 'dry cough', 'diarrhea', 'runny nose', 'loss of or smell', 'loss of taste']",0,1,1,1,1,0,0,0,0,0,1,1,0
+IND,India,23/07/2020,897.559,33.13,21.638,0.818,"['chills', 'sore throat', 'muscle aches', 'nausea', 'fever', 'fatigue']",1,0,1,0,0,0,1,0,1,1,0,0,1
+IND,India,24/07/2020,933.291,35.732,22.175,0.536,"['sore throat', 'loss of taste', 'fever', 'fatigue', 'difficulty breathing', 'dry cough', 'chills']",1,1,1,1,0,1,1,0,0,1,0,0,0
+IND,India,25/07/2020,968.737,35.446,22.723,0.549,"['muscle aches', 'fatigue', 'fever', 'nausea', 'diarrhea', 'loss of taste']",1,0,1,1,0,0,0,0,1,0,1,0,1
+IND,India,26/07/2020,1003.998,35.261,23.234,0.511,"['sore throat', 'fever', 'dry cough', 'chills', 'headache', 'loss of or smell', 'difficulty breathing']",1,1,0,0,1,1,1,1,0,1,0,0,0
+IND,India,27/07/2020,1040.18,36.182,23.747,0.513,"['fever', 'nausea', 'diarrhea', 'runny nose', 'chills', 'loss of or smell', 'difficulty breathing']",1,0,0,0,1,1,0,0,0,1,1,1,1
+IND,India,28/07/2020,1074.747,34.567,24.221,0.474,"['sore throat', 'runny nose', 'dry cough', 'loss of or smell', 'chills', 'loss of taste', 'diarrhea']",0,1,0,1,1,0,1,0,0,1,1,1,0
+IND,India,29/07/2020,1109.902,35.154,24.777,0.557,"['diarrhea', 'loss of or smell', 'chills', 'loss of taste', 'fever', 'headache']",1,0,0,1,1,0,0,1,0,1,1,0,0
+IND,India,30/07/2020,1147.672,37.77,25.339,0.562,"['chills', 'fever', 'diarrhea', 'fatigue', 'sore throat', 'difficulty breathing', 'muscle aches']",1,0,1,0,0,1,1,0,1,1,1,0,0
+IND,India,31/07/2020,1187.583,39.911,25.904,0.564,"['sore throat', 'loss of taste', 'dry cough', 'diarrhea', 'difficulty breathing', 'headache']",0,1,0,1,0,1,1,1,0,0,1,0,0
+IND,India,01/08/2020,1228.973,41.39,26.457,0.554,"['headache', 'loss of or smell', 'muscle aches', 'chills', 'fatigue', 'nausea', 'runny nose']",0,0,1,0,1,0,0,1,1,1,0,1,1
+IND,India,02/08/2020,1268.636,39.663,27.075,0.618,"['fatigue', 'dry cough', 'difficulty breathing', 'muscle aches', 'nausea', 'loss of or smell']",0,1,1,0,1,1,0,0,1,0,0,0,1
+IND,India,03/08/2020,1307.021,38.385,27.634,0.559,"['sore throat', 'dry cough', 'nausea', 'loss of or smell', 'headache', 'difficulty breathing', 'loss of taste']",0,1,0,1,1,1,1,1,0,0,0,0,1
+IND,India,04/08/2020,1344.738,37.717,28.216,0.582,"['sore throat', 'fever', 'chills', 'nausea', 'headache', 'dry cough', 'diarrhea']",1,1,0,0,0,0,1,1,0,1,1,0,1
+IND,India,05/08/2020,1382.788,38.05,28.837,0.621,"['difficulty breathing', 'nausea', 'headache', 'fatigue', 'muscle aches', 'loss of taste']",0,0,1,1,0,1,0,1,1,0,0,0,1
+IND,India,06/08/2020,1423.572,40.784,29.492,0.655,"['sore throat', 'difficulty breathing', 'loss of taste', 'chills', 'nausea', 'runny nose', 'fatigue']",0,0,1,1,0,1,1,0,0,1,0,1,1
+IND,India,07/08/2020,1468.89,45.317,30.134,0.642,"['sore throat', 'loss of or smell', 'headache', 'muscle aches', 'runny nose', 'loss of taste']",0,0,0,1,1,0,1,1,1,0,0,1,0
+IND,India,08/08/2020,1513.481,44.592,30.81,0.676,"['loss of or smell', 'difficulty breathing', 'diarrhea', 'sore throat', 'dry cough', 'muscle aches']",0,1,0,0,1,1,1,0,1,0,1,0,0
+IND,India,09/08/2020,1560.147,46.666,31.434,0.624,"['chills', 'headache', 'loss of or smell', 'fatigue', 'fever', 'runny nose']",1,0,1,0,1,0,0,1,0,1,0,1,0
+IND,India,10/08/2020,1605.121,44.974,32.164,0.73,"['fatigue', 'nausea', 'chills', 'sore throat', 'loss of taste', 'loss of or smell']",0,0,1,1,1,0,1,0,0,1,0,0,1
+IND,India,11/08/2020,1643.962,38.841,32.795,0.631,"['muscle aches', 'runny nose', 'difficulty breathing', 'diarrhea', 'fever', 'chills']",1,0,0,0,0,1,0,0,1,1,1,1,0
+IND,India,12/08/2020,1688.138,44.176,33.399,0.604,"['runny nose', 'difficulty breathing', 'headache', 'dry cough', 'sore throat', 'nausea']",0,1,0,0,0,1,1,1,0,0,0,1,1
+IND,India,13/08/2020,1736.688,48.55,34.082,0.683,"['chills', 'headache', 'muscle aches', 'nausea', 'fatigue', 'loss of taste', 'sore throat']",0,0,1,1,0,0,1,1,1,1,0,0,1
+IND,India,14/08/2020,1783.465,46.777,34.811,0.73,"['nausea', 'runny nose', 'muscle aches', 'chills', 'difficulty breathing', 'headache']",0,0,0,0,0,1,0,1,1,1,0,1,1
+IND,India,15/08/2020,1830.568,47.103,35.533,0.722,"['muscle aches', 'runny nose', 'diarrhea', 'fatigue', 'headache', 'dry cough']",0,1,1,0,0,0,0,1,1,0,1,1,0
+IND,India,16/08/2020,1876.575,46.007,36.217,0.684,"['chills', 'loss of or smell', 'fever', 'sore throat', 'loss of taste', 'fatigue']",1,0,1,1,1,0,1,0,0,1,0,0,0
+IND,India,17/08/2020,1918.59,42.015,36.899,0.682,"['muscle aches', 'runny nose', 'fever', 'nausea', 'dry cough', 'headache', 'sore throat']",1,1,0,0,0,0,1,1,1,0,0,1,1
+IND,India,18/08/2020,1958.502,39.912,37.534,0.635,"['loss of taste', 'chills', 'sore throat', 'fatigue', 'nausea', 'loss of or smell', 'headache']",0,0,1,1,1,0,1,1,0,1,0,0,1
+IND,India,19/08/2020,2005.264,46.761,38.325,0.791,"['loss of or smell', 'diarrhea', 'dry cough', 'nausea', 'loss of taste', 'runny nose']",0,1,0,1,1,0,0,0,0,0,1,1,1
+PAK,Pakistan,31/12/2019,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+PAK,Pakistan,01/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+PAK,Pakistan,02/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+PAK,Pakistan,03/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+PAK,Pakistan,04/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+PAK,Pakistan,05/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+PAK,Pakistan,06/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+PAK,Pakistan,07/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+PAK,Pakistan,08/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+PAK,Pakistan,09/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+PAK,Pakistan,10/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+PAK,Pakistan,11/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+PAK,Pakistan,12/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+PAK,Pakistan,13/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+PAK,Pakistan,14/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+PAK,Pakistan,15/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+PAK,Pakistan,16/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+PAK,Pakistan,17/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+PAK,Pakistan,18/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+PAK,Pakistan,19/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+PAK,Pakistan,20/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+PAK,Pakistan,21/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+PAK,Pakistan,22/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+PAK,Pakistan,23/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+PAK,Pakistan,24/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+PAK,Pakistan,25/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+PAK,Pakistan,26/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+PAK,Pakistan,27/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+PAK,Pakistan,28/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+PAK,Pakistan,29/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+PAK,Pakistan,30/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+PAK,Pakistan,31/01/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+PAK,Pakistan,01/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+PAK,Pakistan,02/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+PAK,Pakistan,03/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+PAK,Pakistan,04/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+PAK,Pakistan,05/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+PAK,Pakistan,06/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+PAK,Pakistan,07/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+PAK,Pakistan,08/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+PAK,Pakistan,09/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+PAK,Pakistan,10/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+PAK,Pakistan,11/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+PAK,Pakistan,12/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+PAK,Pakistan,13/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+PAK,Pakistan,14/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+PAK,Pakistan,15/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+PAK,Pakistan,16/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+PAK,Pakistan,17/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+PAK,Pakistan,18/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+PAK,Pakistan,19/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+PAK,Pakistan,20/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+PAK,Pakistan,21/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+PAK,Pakistan,22/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+PAK,Pakistan,23/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+PAK,Pakistan,24/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+PAK,Pakistan,25/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+PAK,Pakistan,26/02/2020,0,0,0,0,none,0,0,0,0,0,0,0,0,0,0,0,0,0
+PAK,Pakistan,27/02/2020,0.009,0.009,0,0,"['muscle aches', 'sore throat', 'headache', 'loss of taste', 'difficulty breathing', 'nausea', 'loss of or smell']",0,0,0,1,1,1,1,1,1,0,0,0,1
+PAK,Pakistan,28/02/2020,0.009,0,0,0,"['sore throat', 'difficulty breathing', 'chills', 'diarrhea', 'loss of or smell', 'runny nose']",0,0,0,0,1,1,1,0,0,1,1,1,0
+PAK,Pakistan,29/02/2020,0.009,0,0,0,"['runny nose', 'difficulty breathing', 'loss of taste', 'loss of or smell', 'sore throat', 'muscle aches']",0,0,0,1,1,1,1,0,1,0,0,1,0
+PAK,Pakistan,01/03/2020,0.018,0.009,0,0,"['difficulty breathing', 'headache', 'muscle aches', 'fever', 'fatigue', 'diarrhea']",1,0,1,0,0,1,0,1,1,0,1,0,0
+PAK,Pakistan,02/03/2020,0.018,0,0,0,"['loss of or smell', 'fatigue', 'headache', 'sore throat', 'dry cough', 'chills']",0,1,1,0,1,0,1,1,0,1,0,0,0
+PAK,Pakistan,03/03/2020,0.018,0,0,0,"['sore throat', 'runny nose', 'nausea', 'difficulty breathing', 'headache', 'fever']",1,0,0,0,0,1,1,1,0,0,0,1,1
+PAK,Pakistan,04/03/2020,0.023,0.005,0,0,"['sore throat', 'fatigue', 'headache', 'chills', 'muscle aches', 'dry cough', 'fever']",1,1,1,0,0,0,1,1,1,1,0,0,0
+PAK,Pakistan,05/03/2020,0.023,0,0,0,"['muscle aches', 'loss of or smell', 'dry cough', 'sore throat', 'diarrhea', 'loss of taste', 'fever']",1,1,0,1,1,0,1,0,1,0,1,0,0
+PAK,Pakistan,06/03/2020,0.023,0,0,0,"['loss of or smell', 'runny nose', 'sore throat', 'muscle aches', 'fatigue', 'loss of taste', 'difficulty breathing']",0,0,1,1,1,1,1,0,1,0,0,1,0
+PAK,Pakistan,07/03/2020,0.027,0.005,0,0,"['sore throat', 'difficulty breathing', 'loss of taste', 'nausea', 'fatigue', 'headache', 'muscle aches']",0,0,1,1,0,1,1,1,1,0,0,0,1
+PAK,Pakistan,08/03/2020,0.027,0,0,0,"['loss of taste', 'runny nose', 'sore throat', 'chills', 'nausea', 'loss of or smell']",0,0,0,1,1,0,1,0,0,1,0,1,1
+PAK,Pakistan,09/03/2020,0.027,0,0,0,"['difficulty breathing', 'sore throat', 'loss of or smell', 'runny nose', 'fever', 'muscle aches']",1,0,0,0,1,1,1,0,1,0,0,1,0
+PAK,Pakistan,10/03/2020,0.072,0.045,0,0,"['difficulty breathing', 'fatigue', 'fever', 'diarrhea', 'nausea', 'sore throat', 'muscle aches']",1,0,1,0,0,1,1,0,1,0,1,0,1
+PAK,Pakistan,11/03/2020,0.072,0,0,0,"['fever', 'loss of taste', 'dry cough', 'sore throat', 'headache', 'loss of or smell']",1,1,0,1,1,0,1,1,0,0,0,0,0
+PAK,Pakistan,12/03/2020,0.091,0.018,0,0,"['fever', 'fatigue', 'dry cough', 'runny nose', 'chills', 'diarrhea', 'nausea']",1,1,1,0,0,0,0,0,0,1,1,1,1
+PAK,Pakistan,13/03/2020,0.095,0.005,0,0,"['sore throat', 'headache', 'dry cough', 'nausea', 'loss of taste', 'loss of or smell', 'fever']",1,1,0,1,1,0,1,1,0,0,0,0,1
+PAK,Pakistan,14/03/2020,0.095,0,0,0,"['muscle aches', 'difficulty breathing', 'fever', 'runny nose', 'sore throat', 'dry cough', 'headache']",1,1,0,0,0,1,1,1,1,0,0,1,0
+PAK,Pakistan,15/03/2020,0.136,0.041,0,0,"['sore throat', 'muscle aches', 'diarrhea', 'fatigue', 'dry cough', 'chills']",0,1,1,0,0,0,1,0,1,1,1,0,0
+PAK,Pakistan,16/03/2020,0.14,0.005,0,0,"['muscle aches', 'headache', 'difficulty breathing', 'sore throat', 'fatigue', 'fever', 'nausea']",1,0,1,0,0,1,1,1,1,0,0,0,1
+PAK,Pakistan,17/03/2020,0.847,0.706,0,0,"['fever', 'loss of taste', 'muscle aches', 'difficulty breathing', 'headache', 'diarrhea']",1,0,0,1,0,1,0,1,1,0,1,0,0
+PAK,Pakistan,18/03/2020,0.847,0,0,0,"['loss of taste', 'muscle aches', 'runny nose', 'dry cough', 'fatigue', 'diarrhea', 'chills']",0,1,1,1,0,0,0,0,1,1,1,1,0
+PAK,Pakistan,19/03/2020,1.367,0.521,0,0,"['loss of taste', 'diarrhea', 'fever', 'chills', 'fatigue', 'muscle aches', 'dry cough']",1,1,1,1,0,0,0,0,1,1,1,0,0
+PAK,Pakistan,20/03/2020,2.164,0.797,0.009,0.009,"['nausea', 'loss of or smell', 'headache', 'fatigue', 'loss of taste', 'dry cough']",0,1,1,1,1,0,0,1,0,0,0,0,1
+PAK,Pakistan,21/03/2020,2.241,0.077,0.014,0.005,"['runny nose', 'nausea', 'loss of or smell', 'fever', 'muscle aches', 'sore throat']",1,0,0,0,1,0,1,0,1,0,0,1,1
+PAK,Pakistan,22/03/2020,2.925,0.684,0.014,0,"['runny nose', 'sore throat', 'muscle aches', 'fever', 'difficulty breathing', 'diarrhea']",1,0,0,0,0,1,1,0,1,0,1,1,0
+PAK,Pakistan,23/03/2020,3.549,0.625,0.023,0.009,"['difficulty breathing', 'dry cough', 'loss of taste', 'chills', 'headache', 'fever']",1,1,0,1,0,1,0,1,0,1,0,0,0
+PAK,Pakistan,24/03/2020,4.016,0.466,0.027,0.005,"['diarrhea', 'runny nose', 'muscle aches', 'sore throat', 'fatigue', 'loss of or smell']",0,0,1,0,1,0,1,0,1,0,1,1,0
+PAK,Pakistan,25/03/2020,4.486,0.471,0.032,0.005,"['fever', 'muscle aches', 'loss of or smell', 'sore throat', 'loss of taste', 'dry cough', 'runny nose']",1,1,0,1,1,0,1,0,1,0,0,1,0
+PAK,Pakistan,26/03/2020,4.785,0.299,0.036,0.005,"['fatigue', 'fever', 'diarrhea', 'nausea', 'muscle aches', 'loss of or smell', 'runny nose']",1,0,1,0,1,0,0,0,1,0,1,1,1
+PAK,Pakistan,27/03/2020,5.419,0.634,0.041,0.005,"['dry cough', 'fever', 'muscle aches', 'runny nose', 'loss of taste', 'fatigue']",1,1,1,1,0,0,0,0,1,0,0,1,0
+PAK,Pakistan,28/03/2020,5.419,0,0.041,0,"['muscle aches', 'dry cough', 'fever', 'nausea', 'difficulty breathing', 'runny nose', 'chills']",1,1,0,0,0,1,0,0,1,1,0,1,1
+PAK,Pakistan,29/03/2020,6.374,0.955,0.05,0.009,"['chills', 'diarrhea', 'loss of taste', 'fatigue', 'sore throat', 'loss of or smell', 'fever']",1,0,1,1,1,0,1,0,0,1,1,0,0
+PAK,Pakistan,30/03/2020,6.908,0.534,0.059,0.009,"['headache', 'muscle aches', 'diarrhea', 'runny nose', 'sore throat', 'dry cough', 'chills']",0,1,0,0,0,0,1,1,1,1,1,1,0
+PAK,Pakistan,31/03/2020,7.357,0.448,0.081,0.023,"['runny nose', 'loss of or smell', 'fatigue', 'fever', 'headache', 'diarrhea', 'sore throat']",1,0,1,0,1,0,1,1,0,0,1,1,0
+PAK,Pakistan,01/04/2020,9.231,1.874,0.118,0.036,"['loss of taste', 'loss of or smell', 'diarrhea', 'headache', 'chills', 'dry cough', 'fatigue']",0,1,1,1,1,0,0,1,0,1,1,0,0
+PAK,Pakistan,02/04/2020,10.372,1.141,0.14,0.023,"['chills', 'fatigue', 'fever', 'loss of taste', 'diarrhea', 'difficulty breathing', 'headache']",1,0,1,1,0,1,0,1,0,1,1,0,0
+PAK,Pakistan,03/04/2020,10.372,0,0.14,0,"['diarrhea', 'fever', 'difficulty breathing', 'chills', 'runny nose', 'loss of taste', 'muscle aches']",1,0,0,1,0,1,0,0,1,1,1,1,0
+PAK,Pakistan,04/04/2020,10.372,0,0.14,0,"['loss of or smell', 'fatigue', 'sore throat', 'runny nose', 'nausea', 'difficulty breathing', 'muscle aches']",0,0,1,0,1,1,1,0,1,0,0,1,1
+PAK,Pakistan,05/04/2020,11.091,0.72,0.158,0.018,"['runny nose', 'nausea', 'fatigue', 'muscle aches', 'sore throat', 'loss of taste', 'headache']",0,0,1,1,0,0,1,1,1,0,0,1,1
+PAK,Pakistan,06/04/2020,14.835,3.744,0.226,0.068,"['diarrhea', 'sore throat', 'difficulty breathing', 'fatigue', 'dry cough', 'headache', 'loss of or smell']",0,1,1,0,1,1,1,1,0,0,1,0,0
+PAK,Pakistan,07/04/2020,17.493,2.657,0.244,0.018,"['loss of taste', 'fatigue', 'diarrhea', 'nausea', 'runny nose', 'sore throat', 'loss of or smell']",0,0,1,1,1,0,1,0,0,0,1,1,1
+PAK,Pakistan,08/04/2020,18.434,0.942,0.263,0.018,"['muscle aches', 'diarrhea', 'runny nose', 'sore throat', 'difficulty breathing', 'fatigue', 'dry cough']",0,1,1,0,0,1,1,0,1,0,1,1,0
+PAK,Pakistan,09/04/2020,19.566,1.132,0.285,0.023,"['headache', 'chills', 'runny nose', 'fever', 'loss of or smell', 'diarrhea']",1,0,0,0,1,0,0,1,0,1,1,1,0
+PAK,Pakistan,10/04/2020,20.829,1.263,0.299,0.014,"['dry cough', 'nausea', 'difficulty breathing', 'headache', 'fatigue', 'sore throat', 'chills']",0,1,1,0,0,1,1,1,0,1,0,0,1
+PAK,Pakistan,11/04/2020,21.676,0.847,0.321,0.023,"['loss of taste', 'loss of or smell', 'runny nose', 'chills', 'difficulty breathing', 'sore throat', 'headache']",0,0,0,1,1,1,1,1,0,1,0,1,0
+PAK,Pakistan,12/04/2020,22.807,1.132,0.389,0.068,"['fever', 'headache', 'muscle aches', 'diarrhea', 'loss of taste', 'chills', 'difficulty breathing']",1,0,0,1,0,1,0,1,1,1,1,0,0
+PAK,Pakistan,13/04/2020,24.329,1.521,0.421,0.032,"['muscle aches', 'fever', 'nausea', 'dry cough', 'loss of or smell', 'headache', 'loss of taste']",1,1,0,1,1,0,0,1,1,0,0,0,1
+PAK,Pakistan,14/04/2020,25.877,1.548,0.435,0.014,"['fever', 'loss of taste', 'headache', 'fatigue', 'dry cough', 'chills']",1,1,1,1,0,0,0,1,0,1,0,0,0
+PAK,Pakistan,15/04/2020,27.108,1.231,0.484,0.05,"['difficulty breathing', 'loss of or smell', 'runny nose', 'headache', 'loss of taste', 'dry cough', 'diarrhea']",0,1,0,1,1,1,0,1,0,0,1,1,0
+PAK,Pakistan,16/04/2020,29.449,2.341,0.561,0.077,"['loss of or smell', 'runny nose', 'diarrhea', 'fever', 'loss of taste', 'headache', 'dry cough']",1,1,0,1,1,0,0,1,0,0,1,1,0
+PAK,Pakistan,17/04/2020,31.803,2.354,0.611,0.05,"['fatigue', 'fever', 'diarrhea', 'muscle aches', 'nausea', 'sore throat']",1,0,1,0,0,0,1,0,1,0,1,0,1
+PAK,Pakistan,18/04/2020,33.867,2.064,0.647,0.036,"['chills', 'dry cough', 'sore throat', 'loss of taste', 'runny nose', 'headache', 'nausea']",0,1,0,1,0,0,1,1,0,1,0,1,1
+PAK,Pakistan,19/04/2020,36.185,2.318,0.72,0.072,"['dry cough', 'headache', 'fever', 'sore throat', 'loss of taste', 'nausea']",1,1,0,1,0,0,1,1,0,0,0,0,1
+PAK,Pakistan,20/04/2020,38.109,1.924,0.797,0.077,"['loss of taste', 'nausea', 'sore throat', 'headache', 'muscle aches', 'loss of or smell', 'fever']",1,0,0,1,1,0,1,1,1,0,0,0,1
+PAK,Pakistan,21/04/2020,41.722,3.613,0.869,0.072,"['muscle aches', 'sore throat', 'runny nose', 'nausea', 'loss of or smell', 'diarrhea']",0,0,0,0,1,0,1,0,1,0,1,1,1
+PAK,Pakistan,22/04/2020,44.135,2.413,0.946,0.077,"['fatigue', 'dry cough', 'muscle aches', 'difficulty breathing', 'chills', 'sore throat', 'headache']",0,1,1,0,0,1,1,1,1,1,0,0,0
+PAK,Pakistan,23/04/2020,44.135,0,0.946,0,"['diarrhea', 'difficulty breathing', 'fever', 'sore throat', 'chills', 'muscle aches', 'loss of taste']",1,0,0,1,0,1,1,0,1,1,1,0,0
+PAK,Pakistan,24/04/2020,50.5,6.365,1.073,0.127,"['sore throat', 'loss of or smell', 'difficulty breathing', 'diarrhea', 'nausea', 'muscle aches', 'fatigue']",0,0,1,0,1,1,1,0,1,0,1,0,1
+PAK,Pakistan,25/04/2020,54.053,3.554,1.145,0.072,"['headache', 'runny nose', 'difficulty breathing', 'sore throat', 'nausea', 'diarrhea']",0,0,0,0,0,1,1,1,0,0,1,1,1
+PAK,Pakistan,26/04/2020,57.598,3.545,1.218,0.072,"['headache', 'nausea', 'runny nose', 'sore throat', 'diarrhea', 'fever', 'loss of taste']",1,0,0,1,0,0,1,1,0,0,1,1,1
+PAK,Pakistan,27/04/2020,60.337,2.739,1.272,0.054,"['loss of or smell', 'nausea', 'loss of taste', 'dry cough', 'runny nose', 'sore throat']",0,1,0,1,1,0,1,0,0,0,0,1,1
+PAK,Pakistan,28/04/2020,63.737,3.4,1.363,0.091,"['chills', 'difficulty breathing', 'fatigue', 'sore throat', 'runny nose', 'diarrhea']",0,0,1,0,0,1,1,0,0,1,1,1,0
+PAK,Pakistan,29/04/2020,67.386,3.649,1.48,0.118,"['dry cough', 'fever', 'chills', 'difficulty breathing', 'headache', 'runny nose', 'loss of or smell']",1,1,0,0,1,1,0,1,0,1,0,1,0
+PAK,Pakistan,30/04/2020,71.342,3.957,1.566,0.086,"['headache', 'difficulty breathing', 'muscle aches', 'runny nose', 'fever', 'nausea', 'fatigue']",1,0,1,0,0,1,0,1,1,0,0,1,1
+PAK,Pakistan,01/05/2020,76.132,4.79,1.743,0.177,"['runny nose', 'loss of taste', 'difficulty breathing', 'dry cough', 'nausea', 'sore throat', 'fever']",1,1,0,1,0,1,1,0,0,0,0,1,1
+PAK,Pakistan,02/05/2020,82.004,5.872,1.888,0.145,"['sore throat', 'fatigue', 'loss of taste', 'loss of or smell', 'runny nose', 'difficulty breathing']",0,0,1,1,1,1,1,0,0,0,0,1,0
+PAK,Pakistan,03/05/2020,86.481,4.477,1.992,0.104,"['muscle aches', 'dry cough', 'fatigue', 'sore throat', 'chills', 'headache']",0,1,1,0,0,0,1,1,1,1,0,0,0
+PAK,Pakistan,04/05/2020,91.384,4.903,2.092,0.1,"['headache', 'loss of taste', 'chills', 'loss of or smell', 'dry cough', 'muscle aches']",0,1,0,1,1,0,0,1,1,1,0,0,0
+PAK,Pakistan,05/05/2020,97.337,5.953,2.2,0.109,"['chills', 'runny nose', 'fever', 'difficulty breathing', 'nausea', 'fatigue']",1,0,1,0,0,1,0,0,0,1,0,1,1
+PAK,Pakistan,06/05/2020,102.086,4.749,2.381,0.181,"['headache', 'chills', 'loss of or smell', 'difficulty breathing', 'fever', 'loss of taste']",1,0,0,1,1,1,0,1,0,1,0,0,0
+PAK,Pakistan,07/05/2020,108.981,6.895,2.553,0.172,"['loss of taste', 'diarrhea', 'dry cough', 'chills', 'sore throat', 'nausea', 'fatigue']",0,1,1,1,0,0,1,0,0,1,1,0,1
+PAK,Pakistan,08/05/2020,116.966,7.986,2.689,0.136,"['fever', 'diarrhea', 'muscle aches', 'chills', 'runny nose', 'difficulty breathing']",1,0,0,0,0,1,0,0,1,1,1,1,0
+PAK,Pakistan,09/05/2020,124.377,7.411,2.798,0.109,"['fatigue', 'runny nose', 'fever', 'loss of taste', 'sore throat', 'nausea']",1,0,1,1,0,0,1,0,0,0,0,1,1
+PAK,Pakistan,10/05/2020,133.391,9.013,2.893,0.095,"['loss of taste', 'fever', 'dry cough', 'nausea', 'fatigue', 'runny nose', 'chills']",1,1,1,1,0,0,0,0,0,1,0,1,1
+PAK,Pakistan,11/05/2020,140.073,6.682,3.02,0.127,"['muscle aches', 'chills', 'nausea', 'runny nose', 'difficulty breathing', 'sore throat', 'fatigue']",0,0,1,0,0,1,1,0,1,1,0,1,1
+PAK,Pakistan,12/05/2020,145.234,5.161,3.196,0.177,"['headache', 'difficulty breathing', 'fatigue', 'chills', 'dry cough', 'fever']",1,1,1,0,0,1,0,1,0,1,0,0,0
+PAK,Pakistan,13/05/2020,155.442,10.209,3.336,0.14,"['headache', 'loss of or smell', 'diarrhea', 'fatigue', 'chills', 'fever', 'loss of taste']",1,0,1,1,1,0,0,1,0,1,1,0,0
+PAK,Pakistan,14/05/2020,162.016,6.573,3.486,0.149,"['difficulty breathing', 'muscle aches', 'runny nose', 'fever', 'headache', 'diarrhea', 'nausea']",1,0,0,0,0,1,0,1,1,0,1,1,1
+PAK,Pakistan,15/05/2020,168.489,6.474,3.635,0.149,"['dry cough', 'sore throat', 'fever', 'chills', 'runny nose', 'fatigue']",1,1,1,0,0,0,1,0,0,1,0,1,0
+PAK,Pakistan,16/05/2020,175.647,7.157,3.776,0.14,"['muscle aches', 'headache', 'diarrhea', 'sore throat', 'fever', 'fatigue', 'loss of or smell']",1,0,1,0,1,0,1,1,1,0,1,0,0
+PAK,Pakistan,17/05/2020,181.767,6.121,3.952,0.177,"['fatigue', 'dry cough', 'sore throat', 'nausea', 'loss of or smell', 'headache']",0,1,1,0,1,0,1,1,0,0,0,0,1
+PAK,Pakistan,18/05/2020,190.704,8.936,4.088,0.136,"['dry cough', 'chills', 'runny nose', 'fatigue', 'diarrhea', 'nausea', 'muscle aches']",0,1,1,0,0,0,0,0,1,1,1,1,1
+PAK,Pakistan,19/05/2020,199.038,8.334,4.251,0.163,"['nausea', 'difficulty breathing', 'headache', 'fever', 'diarrhea', 'chills', 'runny nose']",1,0,0,0,0,1,0,1,0,1,1,1,1
+PAK,Pakistan,20/05/2020,207.784,8.746,4.459,0.208,"['diarrhea', 'muscle aches', 'headache', 'dry cough', 'difficulty breathing', 'runny nose', 'fatigue']",0,1,1,0,0,1,0,1,1,0,1,1,0
+PAK,Pakistan,21/05/2020,217.712,9.928,4.604,0.145,"['loss of or smell', 'runny nose', 'diarrhea', 'fatigue', 'nausea', 'sore throat', 'muscle aches']",0,0,1,0,1,0,1,0,1,0,1,1,1
+PAK,Pakistan,22/05/2020,229.496,11.784,4.83,0.226,"['runny nose', 'nausea', 'chills', 'muscle aches', 'dry cough', 'sore throat']",0,1,0,0,0,0,1,0,1,1,0,1,1
+PAK,Pakistan,23/05/2020,237.387,7.891,4.984,0.154,"['fatigue', 'loss of taste', 'nausea', 'difficulty breathing', 'headache', 'runny nose']",0,0,1,1,0,1,0,1,0,0,0,1,1
+PAK,Pakistan,24/05/2020,247.184,9.797,5.129,0.145,"['fever', 'diarrhea', 'runny nose', 'dry cough', 'fatigue', 'difficulty breathing']",1,1,1,0,0,1,0,0,0,0,1,1,0
+PAK,Pakistan,25/05/2020,255.097,7.913,5.283,0.154,"['headache', 'fatigue', 'muscle aches', 'nausea', 'loss of or smell', 'sore throat', 'runny nose']",0,0,1,0,1,0,1,1,1,0,0,1,1
+PAK,Pakistan,26/05/2020,261.236,6.139,5.419,0.136,"['loss of or smell', 'loss of taste', 'fatigue', 'headache', 'nausea', 'difficulty breathing', 'dry cough']",0,1,1,1,1,1,0,1,0,0,0,0,1
+PAK,Pakistan,27/05/2020,267.782,6.546,5.546,0.127,"['nausea', 'dry cough', 'fever', 'diarrhea', 'loss of taste', 'sore throat']",1,1,0,1,0,0,1,0,0,0,1,0,1
+PAK,Pakistan,28/05/2020,277.18,9.398,5.704,0.158,"['headache', 'chills', 'runny nose', 'muscle aches', 'sore throat', 'loss of taste']",0,0,0,1,0,0,1,1,1,1,0,1,0
+PAK,Pakistan,29/05/2020,289.861,12.68,5.962,0.258,"['fatigue', 'difficulty breathing', 'sore throat', 'muscle aches', 'dry cough', 'loss of taste']",0,1,1,1,0,1,1,0,1,0,0,0,0
+PAK,Pakistan,30/05/2020,300.857,10.996,6.315,0.353,"['loss of or smell', 'diarrhea', 'fever', 'chills', 'nausea', 'muscle aches', 'runny nose']",1,0,0,0,1,0,0,0,1,1,1,1,1
+PAK,Pakistan,31/05/2020,314.615,13.758,6.714,0.398,"['runny nose', 'loss of or smell', 'fever', 'headache', 'difficulty breathing', 'dry cough']",1,1,0,0,1,1,0,1,0,0,0,1,0
+PAK,Pakistan,01/06/2020,328.033,13.418,6.985,0.272,"['fever', 'headache', 'nausea', 'diarrhea', 'muscle aches', 'sore throat', 'runny nose']",1,0,0,0,0,0,1,1,1,0,1,1,1
+PAK,Pakistan,02/06/2020,345.861,17.828,7.338,0.353,"['loss of taste', 'sore throat', 'fever', 'dry cough', 'chills', 'difficulty breathing', 'nausea']",1,1,0,1,0,1,1,0,0,1,0,0,1
+PAK,Pakistan,03/06/2020,364.263,18.403,7.642,0.303,"['chills', 'muscle aches', 'loss of or smell', 'diarrhea', 'runny nose', 'sore throat']",0,0,0,0,1,0,1,0,1,1,1,1,0
+PAK,Pakistan,04/06/2020,385.998,21.735,8.013,0.371,"['runny nose', 'loss of taste', 'fatigue', 'loss of or smell', 'muscle aches', 'diarrhea']",0,0,1,1,1,0,0,0,1,0,1,1,0
+PAK,Pakistan,05/06/2020,404.038,18.04,8.321,0.308,"['headache', 'dry cough', 'loss of taste', 'fever', 'loss of or smell', 'diarrhea', 'muscle aches']",1,1,0,1,1,0,0,1,1,0,1,0,0
+PAK,Pakistan,06/06/2020,425.47,21.431,8.76,0.439,"['chills', 'sore throat', 'diarrhea', 'nausea', 'fever', 'fatigue', 'loss of taste']",1,0,1,1,0,0,1,0,0,1,1,0,1
+PAK,Pakistan,07/06/2020,447.924,22.454,9.063,0.303,"['chills', 'nausea', 'diarrhea', 'fever', 'sore throat', 'headache', 'runny nose']",1,0,0,0,0,0,1,1,0,1,1,1,1
+PAK,Pakistan,08/06/2020,469.328,21.404,9.358,0.294,"['headache', 'muscle aches', 'fever', 'chills', 'loss of taste', 'nausea', 'loss of or smell']",1,0,0,1,1,0,0,1,1,1,0,0,1
+PAK,Pakistan,09/06/2020,490.361,21.033,9.833,0.475,"['fever', 'diarrhea', 'nausea', 'difficulty breathing', 'headache', 'dry cough', 'chills']",1,1,0,0,0,1,0,1,0,1,1,0,1
+PAK,Pakistan,10/06/2020,514.739,24.378,10.209,0.376,"['fatigue', 'loss of or smell', 'chills', 'loss of taste', 'runny nose', 'sore throat']",0,0,1,1,1,0,1,0,0,1,0,1,0
+PAK,Pakistan,11/06/2020,541.151,26.411,10.666,0.457,"['sore throat', 'fatigue', 'loss of taste', 'muscle aches', 'dry cough', 'nausea', 'chills']",0,1,1,1,0,0,1,0,1,1,0,0,1
+PAK,Pakistan,12/06/2020,570.11,28.96,11.15,0.484,"['headache', 'difficulty breathing', 'diarrhea', 'fatigue', 'sore throat', 'muscle aches', 'loss of taste']",0,0,1,1,0,1,1,1,1,0,1,0,0
+PAK,Pakistan,13/06/2020,599.41,29.299,11.549,0.398,"['muscle aches', 'chills', 'loss of or smell', 'headache', 'sore throat', 'nausea']",0,0,0,0,1,0,1,1,1,1,0,0,1
+PAK,Pakistan,14/06/2020,630.307,30.897,11.915,0.367,"['difficulty breathing', 'headache', 'sore throat', 'fever', 'chills', 'nausea', 'diarrhea']",1,0,0,0,0,1,1,1,0,1,1,0,1
+PAK,Pakistan,15/06/2020,654.065,23.758,12.354,0.439,"['difficulty breathing', 'muscle aches', 'dry cough', 'loss of taste', 'fever', 'nausea', 'sore throat']",1,1,0,1,0,1,1,0,1,0,0,0,1
+PAK,Pakistan,16/06/2020,674.179,20.114,12.852,0.498,"['headache', 'loss of or smell', 'muscle aches', 'fever', 'nausea', 'difficulty breathing', 'sore throat']",1,0,0,0,1,1,1,1,1,0,0,0,1
+PAK,Pakistan,17/06/2020,700.613,26.434,13.468,0.616,"['headache', 'loss of or smell', 'diarrhea', 'muscle aches', 'fever', 'dry cough']",1,1,0,0,1,0,0,1,1,0,1,0,0
+PAK,Pakistan,18/06/2020,724.869,24.256,14.002,0.534,"['chills', 'diarrhea', 'difficulty breathing', 'loss of or smell', 'muscle aches', 'fatigue']",0,0,1,0,1,1,0,0,1,1,1,0,0
+PAK,Pakistan,19/06/2020,747.251,22.382,14.618,0.616,"['fatigue', 'difficulty breathing', 'runny nose', 'nausea', 'headache', 'muscle aches', 'sore throat']",0,0,1,0,0,1,1,1,1,0,0,1,1
+PAK,Pakistan,20/06/2020,777.148,29.897,15.311,0.693,"['chills', 'sore throat', 'diarrhea', 'loss of taste', 'loss of or smell', 'fatigue', 'dry cough']",0,1,1,1,1,0,1,0,0,1,1,0,0
+PAK,Pakistan,21/06/2020,799.561,22.414,15.849,0.539,"['runny nose', 'loss of taste', 'muscle aches', 'difficulty breathing', 'diarrhea', 'fever']",1,0,0,1,0,1,0,0,1,0,1,1,0
+PAK,Pakistan,22/06/2020,819.802,20.241,16.252,0.403,"['fever', 'diarrhea', 'muscle aches', 'headache', 'nausea', 'sore throat', 'dry cough']",1,1,0,0,0,0,1,1,1,0,1,0,1
+PAK,Pakistan,23/06/2020,837.666,17.864,16.728,0.475,"['fever', 'diarrhea', 'chills', 'runny nose', 'headache', 'sore throat']",1,0,0,0,0,0,1,1,0,1,1,1,0
+PAK,Pakistan,24/06/2020,855.285,17.619,16.999,0.272,"['headache', 'runny nose', 'loss of taste', 'difficulty breathing', 'loss of or smell', 'dry cough']",0,1,0,1,1,1,0,1,0,0,0,1,0
+PAK,Pakistan,25/06/2020,873.593,18.308,17.669,0.67,"['loss of or smell', 'sore throat', 'diarrhea', 'fatigue', 'loss of taste', 'fever']",1,0,1,1,1,0,1,0,0,0,1,0,0
+PAK,Pakistan,26/06/2020,886.156,12.563,17.936,0.267,"['fever', 'runny nose', 'chills', 'muscle aches', 'headache', 'nausea', 'sore throat']",1,0,0,0,0,0,1,1,1,1,0,1,1
+PAK,Pakistan,27/06/2020,900.362,14.206,18.267,0.33,"['diarrhea', 'loss of or smell', 'muscle aches', 'chills', 'runny nose', 'sore throat', 'fatigue']",0,0,1,0,1,0,1,0,1,1,1,1,0
+PAK,Pakistan,28/06/2020,918.796,18.434,18.643,0.376,"['chills', 'runny nose', 'diarrhea', 'difficulty breathing', 'sore throat', 'muscle aches', 'loss of taste']",0,0,0,1,0,1,1,0,1,1,1,1,0
+PAK,Pakistan,29/06/2020,934.899,16.103,18.864,0.222,"['sore throat', 'diarrhea', 'loss of taste', 'difficulty breathing', 'fever', 'runny nose', 'headache']",1,0,0,1,0,1,1,1,0,0,1,1,0
+PAK,Pakistan,30/06/2020,947.688,12.789,19.485,0.62,"['dry cough', 'nausea', 'chills', 'loss of or smell', 'fever', 'runny nose']",1,1,0,0,1,0,0,0,0,1,0,1,1
+PAK,Pakistan,01/07/2020,966.398,18.71,19.897,0.412,"['runny nose', 'difficulty breathing', 'headache', 'loss of or smell', 'fatigue', 'loss of taste']",0,0,1,1,1,1,0,1,0,0,0,1,0
+PAK,Pakistan,02/07/2020,986.041,19.643,20.25,0.353,"['nausea', 'chills', 'headache', 'muscle aches', 'runny nose', 'diarrhea', 'dry cough']",0,1,0,0,0,0,0,1,1,1,1,1,1
+PAK,Pakistan,03/07/2020,1004.544,18.502,20.603,0.353,"['nausea', 'diarrhea', 'dry cough', 'fatigue', 'sore throat', 'muscle aches', 'chills']",0,1,1,0,0,0,1,0,1,1,1,0,1
+PAK,Pakistan,04/07/2020,1019.877,15.333,20.911,0.308,"['nausea', 'fatigue', 'loss of or smell', 'difficulty breathing', 'chills', 'runny nose']",0,0,1,0,1,1,0,0,0,1,0,1,1
+PAK,Pakistan,05/07/2020,1034.323,14.446,21.332,0.421,"['chills', 'difficulty breathing', 'loss of or smell', 'nausea', 'headache', 'diarrhea', 'fatigue']",0,0,1,0,1,1,0,1,0,1,1,0,1
+PAK,Pakistan,06/07/2020,1049.462,15.139,21.558,0.226,"['runny nose', 'loss of or smell', 'sore throat', 'fever', 'dry cough', 'diarrhea', 'chills']",1,1,0,0,1,0,1,0,0,1,1,1,0
+PAK,Pakistan,07/07/2020,1061.644,12.182,21.907,0.349,"['loss of taste', 'diarrhea', 'headache', 'difficulty breathing', 'fatigue', 'dry cough', 'muscle aches']",0,1,1,1,0,1,0,1,1,0,1,0,0
+PAK,Pakistan,08/07/2020,1075.135,13.491,22.282,0.376,"['headache', 'chills', 'diarrhea', 'runny nose', 'nausea', 'dry cough']",0,1,0,0,0,0,0,1,0,1,1,1,1
+PAK,Pakistan,09/07/2020,1090.341,15.207,22.559,0.276,"['fever', 'chills', 'nausea', 'headache', 'runny nose', 'loss of or smell']",1,0,0,0,1,0,0,1,0,1,0,1,1
+PAK,Pakistan,10/07/2020,1102.795,12.454,22.898,0.34,"['nausea', 'difficulty breathing', 'diarrhea', 'loss of taste', 'fever', 'headache']",1,0,0,1,0,1,0,1,0,0,1,0,1
+PAK,Pakistan,11/07/2020,1115.254,12.459,23.192,0.294,"['difficulty breathing', 'dry cough', 'nausea', 'chills', 'muscle aches', 'diarrhea', 'loss of or smell']",0,1,0,0,1,1,0,0,1,1,1,0,1
+PAK,Pakistan,12/07/2020,1126.667,11.413,23.527,0.335,"['runny nose', 'difficulty breathing', 'nausea', 'fever', 'sore throat', 'diarrhea', 'dry cough']",1,1,0,0,0,1,1,0,0,0,1,1,1
+PAK,Pakistan,13/07/2020,1139.13,12.463,23.84,0.312,"['sore throat', 'fever', 'diarrhea', 'runny nose', 'dry cough', 'nausea']",1,1,0,0,0,0,1,0,0,0,1,1,1
+PAK,Pakistan,14/07/2020,1148.089,8.959,24.084,0.244,"['fever', 'runny nose', 'loss of taste', 'muscle aches', 'diarrhea', 'chills', 'nausea']",1,0,0,1,0,0,0,0,1,1,1,1,1
+PAK,Pakistan,15/07/2020,1157.89,9.801,24.383,0.299,"['dry cough', 'runny nose', 'chills', 'diarrhea', 'fatigue', 'difficulty breathing', 'loss of taste']",0,1,1,1,0,1,0,0,0,1,1,1,0
+PAK,Pakistan,16/07/2020,1167.601,9.711,24.564,0.181,"['loss of taste', 'dry cough', 'loss of or smell', 'sore throat', 'fever', 'headache', 'chills']",1,1,0,1,1,0,1,1,0,1,0,0,0
+PAK,Pakistan,17/07/2020,1177.04,9.439,24.786,0.222,"['runny nose', 'fever', 'muscle aches', 'loss of taste', 'nausea', 'sore throat', 'fatigue']",1,0,1,1,0,0,1,0,1,0,0,1,1
+PAK,Pakistan,18/07/2020,1185.722,8.683,24.999,0.213,"['dry cough', 'sore throat', 'fatigue', 'chills', 'loss of or smell', 'muscle aches', 'fever']",1,1,1,0,1,0,1,0,1,1,0,0,0
+PAK,Pakistan,19/07/2020,1192.871,7.148,25.207,0.208,"['dry cough', 'fatigue', 'runny nose', 'chills', 'muscle aches', 'fever', 'loss of or smell']",1,1,1,0,1,0,0,0,1,1,0,1,0
+PAK,Pakistan,20/07/2020,1200.055,7.184,25.347,0.14,"['runny nose', 'difficulty breathing', 'nausea', 'loss of or smell', 'fever', 'headache', 'muscle aches']",1,0,0,0,1,1,0,1,1,0,0,1,1
+PAK,Pakistan,21/07/2020,1204.641,4.586,25.528,0.181,"['fever', 'muscle aches', 'runny nose', 'loss of or smell', 'dry cough', 'nausea', 'diarrhea']",1,1,0,0,1,0,0,0,1,0,1,1,1
+PAK,Pakistan,22/07/2020,1210.671,6.03,25.7,0.172,"['fatigue', 'muscle aches', 'headache', 'runny nose', 'fever', 'dry cough']",1,1,1,0,0,0,0,1,1,0,0,1,0
+PAK,Pakistan,23/07/2020,1218.653,7.981,25.845,0.145,"['dry cough', 'chills', 'sore throat', 'diarrhea', 'loss of taste', 'fatigue']",0,1,1,1,0,0,1,0,0,1,1,0,0
+PAK,Pakistan,24/07/2020,1224.126,5.473,26.09,0.244,"['loss of taste', 'fever', 'muscle aches', 'nausea', 'dry cough', 'chills']",1,1,0,1,0,0,0,0,1,1,0,0,1
+PAK,Pakistan,25/07/2020,1230.858,6.732,26.198,0.109,"['runny nose', 'fatigue', 'muscle aches', 'headache', 'dry cough', 'difficulty breathing', 'loss of or smell']",0,1,1,0,1,1,0,1,1,0,0,1,0
+PAK,Pakistan,26/07/2020,1236.408,5.55,26.357,0.158,"['nausea', 'muscle aches', 'headache', 'dry cough', 'loss of or smell', 'fever']",1,1,0,0,1,0,0,1,1,0,0,0,1
+PAK,Pakistan,27/07/2020,1241.732,5.324,26.447,0.091,"['runny nose', 'fatigue', 'loss of taste', 'nausea', 'headache', 'difficulty breathing']",0,0,1,1,0,1,0,1,0,0,0,1,1
+PAK,Pakistan,28/07/2020,1245.969,4.237,26.551,0.104,"['diarrhea', 'sore throat', 'difficulty breathing', 'fatigue', 'chills', 'headache', 'loss of taste']",0,0,1,1,0,1,1,1,0,1,1,0,0
+PAK,Pakistan,29/07/2020,1250.781,4.812,26.674,0.122,"['loss of taste', 'loss of or smell', 'difficulty breathing', 'fatigue', 'chills', 'runny nose', 'fever']",1,0,1,1,1,1,0,0,0,1,0,1,0
+PAK,Pakistan,30/07/2020,1255.824,5.043,26.818,0.145,"['nausea', 'difficulty breathing', 'loss of taste', 'runny nose', 'muscle aches', 'chills', 'sore throat']",0,0,0,1,0,1,1,0,1,1,0,1,1
+PAK,Pakistan,31/07/2020,1259.912,4.088,26.941,0.122,"['dry cough', 'fatigue', 'chills', 'nausea', 'headache', 'sore throat']",0,1,1,0,0,0,1,1,0,1,0,0,1
+PAK,Pakistan,01/08/2020,1259.912,0,26.941,0,"['loss of or smell', 'loss of taste', 'difficulty breathing', 'sore throat', 'chills', 'fever']",1,0,0,1,1,1,1,0,0,1,0,0,0
+PAK,Pakistan,02/08/2020,1259.912,0,26.941,0,"['fever', 'difficulty breathing', 'headache', 'dry cough', 'muscle aches', 'nausea']",1,1,0,0,0,1,0,1,1,0,0,0,1
+PAK,Pakistan,03/08/2020,1267.717,7.805,27.09,0.149,"['runny nose', 'fever', 'dry cough', 'muscle aches', 'nausea', 'loss of taste', 'chills']",1,1,0,1,0,0,0,0,1,1,0,1,1
+PAK,Pakistan,04/08/2020,1269.673,1.956,27.158,0.068,"['loss of or smell', 'nausea', 'fever', 'runny nose', 'sore throat', 'loss of taste', 'chills']",1,0,0,1,1,0,1,0,0,1,0,1,1
+PAK,Pakistan,05/08/2020,1272.729,3.056,27.226,0.068,"['headache', 'fever', 'fatigue', 'runny nose', 'muscle aches', 'dry cough', 'nausea']",1,1,1,0,0,0,0,1,1,0,0,1,1
+PAK,Pakistan,06/08/2020,1276.02,3.291,27.321,0.095,"['dry cough', 'fatigue', 'muscle aches', 'nausea', 'sore throat', 'difficulty breathing', 'fever']",1,1,1,0,0,1,1,0,1,0,0,0,1
+PAK,Pakistan,07/08/2020,1279.56,3.54,27.398,0.077,"['fever', 'nausea', 'fatigue', 'diarrhea', 'muscle aches', 'loss of taste', 'headache']",1,0,1,1,0,0,0,1,1,0,1,0,1
+PAK,Pakistan,08/08/2020,1283.372,3.812,27.47,0.072,"['loss of or smell', 'nausea', 'dry cough', 'difficulty breathing', 'fatigue', 'chills']",0,1,1,0,1,1,0,0,0,1,0,0,1
+PAK,Pakistan,09/08/2020,1286.242,2.87,27.534,0.063,"['diarrhea', 'dry cough', 'headache', 'nausea', 'fatigue', 'sore throat', 'muscle aches']",0,1,1,0,0,0,1,1,1,0,1,0,1
+PAK,Pakistan,10/08/2020,1288.682,2.44,27.602,0.068,"['chills', 'difficulty breathing', 'loss of taste', 'sore throat', 'fever', 'runny nose']",1,0,0,1,0,1,1,0,0,1,0,1,0
+PAK,Pakistan,11/08/2020,1291.086,2.404,27.67,0.068,"['loss of or smell', 'dry cough', 'fatigue', 'muscle aches', 'diarrhea', 'chills']",0,1,1,0,1,0,0,0,1,1,1,0,0
+PAK,Pakistan,12/08/2020,1294.391,3.305,27.747,0.077,"['diarrhea', 'loss of or smell', 'runny nose', 'fatigue', 'loss of taste', 'chills', 'dry cough']",0,1,1,1,1,0,0,0,0,1,1,1,0
+PAK,Pakistan,13/08/2020,1297.8,3.409,27.792,0.045,"['runny nose', 'fever', 'headache', 'nausea', 'difficulty breathing', 'loss of or smell']",1,0,0,0,1,1,0,1,0,0,0,1,1
+PAK,Pakistan,14/08/2020,1300.634,2.834,27.855,0.063,"['headache', 'loss of or smell', 'fever', 'muscle aches', 'chills', 'loss of taste']",1,0,0,1,1,0,0,1,1,1,0,0,0
+PAK,Pakistan,15/08/2020,1304.015,3.382,27.896,0.041,"['fatigue', 'headache', 'difficulty breathing', 'nausea', 'dry cough', 'muscle aches']",0,1,1,0,0,1,0,1,1,0,0,0,1
+PAK,Pakistan,16/08/2020,1307.049,3.033,27.923,0.027,"['fever', 'sore throat', 'dry cough', 'runny nose', 'headache', 'loss of taste']",1,1,0,1,0,0,1,1,0,0,0,1,0
+PAK,Pakistan,17/08/2020,1309.303,2.254,27.955,0.032,"['nausea', 'loss of or smell', 'chills', 'loss of taste', 'sore throat', 'fever', 'difficulty breathing']",1,0,0,1,1,1,1,0,0,1,0,0,1
+PAK,Pakistan,18/08/2020,1312.096,2.793,28.023,0.068,"['loss of or smell', 'fever', 'nausea', 'dry cough', 'runny nose', 'diarrhea', 'fatigue']",1,1,1,0,1,0,0,0,0,0,1,1,1
+PAK,Pakistan,19/08/2020,1312.096,0,28.023,0,"['headache', 'sore throat', 'difficulty breathing', 'fever', 'nausea', 'loss of taste']",1,0,0,1,0,1,1,1,0,0,0,0,1
