@@ -89,7 +89,7 @@ covid19-risk-predictor/
 
 ```bash
 cd scripts/
-streamlit run PredictionApp.py
+python -m streamlit run scripts/PredictionApp.py
 ````
 
 ---
@@ -100,7 +100,7 @@ Make sure Python 3.7+ is installed. Then:
 
 ```bash
 # Clone the repository (if applicable)
-# git clone <repo-url>
+# git clone <[repo-url](https://github.com/HuzaifaAshrafi1/COVID19-ML-Prediction.git)>
 
 # Navigate to the project
 cd covid19-risk-predictor
