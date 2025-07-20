@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
+![Streamlit](https://img.shields.io/badge/Built%20With-Streamlit-red)
+![License](https://img.shields.io/github/license/HuzaifaAshrafi1/COVID19-ML-Prediction)
+
 #  COVID-19 Death Risk Predictor
 
 A comprehensive machine learning project that analyzes COVID-19 data, builds predictive models, and deploys a Streamlit web app to estimate death risk based on user symptoms.
