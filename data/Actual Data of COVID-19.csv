@@ -1,17 +1,17 @@
-﻿iso_code,location,date,total_cases_per_million,new_cases_per_million,total_deaths_per_million,new_deaths_per_million,Common_Symtoms
+iso_code,location,date,total_cases_per_million,new_cases_per_million,total_deaths_per_million,new_deaths_per_million,Common_Symtoms
 AFG,Afghanistan,31/12/2019,0,0,0,0,None
-AFG,Afghanistan,01/01/2020,0,0,0,0,None
-AFG,Afghanistan,02/01/2020,0,0,0,0,None
-AFG,Afghanistan,03/01/2020,0,0,0,0,None
-AFG,Afghanistan,04/01/2020,0,0,0,0,None
-AFG,Afghanistan,05/01/2020,0,0,0,0,None
-AFG,Afghanistan,06/01/2020,0,0,0,0,None
-AFG,Afghanistan,07/01/2020,0,0,0,0,None
-AFG,Afghanistan,08/01/2020,0,0,0,0,None
-AFG,Afghanistan,09/01/2020,0,0,0,0,None
-AFG,Afghanistan,10/01/2020,0,0,0,0,None
-AFG,Afghanistan,11/01/2020,0,0,0,0,None
-AFG,Afghanistan,12/01/2020,0,0,0,0,None
+AFG,Afghanistan,1/1/2020,0,0,0,0,None
+AFG,Afghanistan,2/1/2020,0,0,0,0,None
+AFG,Afghanistan,3/1/2020,0,0,0,0,None
+AFG,Afghanistan,4/1/2020,0,0,0,0,None
+AFG,Afghanistan,5/1/2020,0,0,0,0,None
+AFG,Afghanistan,6/1/2020,0,0,0,0,None
+AFG,Afghanistan,7/1/2020,0,0,0,0,None
+AFG,Afghanistan,8/1/2020,0,0,0,0,None
+AFG,Afghanistan,9/1/2020,0,0,0,0,None
+AFG,Afghanistan,10/1/2020,0,0,0,0,None
+AFG,Afghanistan,11/1/2020,0,0,0,0,None
+AFG,Afghanistan,12/1/2020,0,0,0,0,None
 AFG,Afghanistan,13/01/2020,0,0,0,0,None
 AFG,Afghanistan,14/01/2020,0,0,0,0,None
 AFG,Afghanistan,15/01/2020,0,0,0,0,None
@@ -31,18 +31,18 @@ AFG,Afghanistan,28/01/2020,0,0,0,0,None
 AFG,Afghanistan,29/01/2020,0,0,0,0,None
 AFG,Afghanistan,30/01/2020,0,0,0,0,None
 AFG,Afghanistan,31/01/2020,0,0,0,0,None
-AFG,Afghanistan,01/02/2020,0,0,0,0,None
-AFG,Afghanistan,02/02/2020,0,0,0,0,None
-AFG,Afghanistan,03/02/2020,0,0,0,0,None
-AFG,Afghanistan,04/02/2020,0,0,0,0,None
-AFG,Afghanistan,05/02/2020,0,0,0,0,None
-AFG,Afghanistan,06/02/2020,0,0,0,0,None
-AFG,Afghanistan,07/02/2020,0,0,0,0,None
-AFG,Afghanistan,08/02/2020,0,0,0,0,None
-AFG,Afghanistan,09/02/2020,0,0,0,0,None
-AFG,Afghanistan,10/02/2020,0,0,0,0,None
-AFG,Afghanistan,11/02/2020,0,0,0,0,None
-AFG,Afghanistan,12/02/2020,0,0,0,0,None
+AFG,Afghanistan,1/2/2020,0,0,0,0,None
+AFG,Afghanistan,2/2/2020,0,0,0,0,None
+AFG,Afghanistan,3/2/2020,0,0,0,0,None
+AFG,Afghanistan,4/2/2020,0,0,0,0,None
+AFG,Afghanistan,5/2/2020,0,0,0,0,None
+AFG,Afghanistan,6/2/2020,0,0,0,0,None
+AFG,Afghanistan,7/2/2020,0,0,0,0,None
+AFG,Afghanistan,8/2/2020,0,0,0,0,None
+AFG,Afghanistan,9/2/2020,0,0,0,0,None
+AFG,Afghanistan,10/2/2020,0,0,0,0,None
+AFG,Afghanistan,11/2/2020,0,0,0,0,None
+AFG,Afghanistan,12/2/2020,0,0,0,0,None
 AFG,Afghanistan,13/02/2020,0,0,0,0,None
 AFG,Afghanistan,14/02/2020,0,0,0,0,None
 AFG,Afghanistan,15/02/2020,0,0,0,0,None
@@ -60,18 +60,18 @@ AFG,Afghanistan,26/02/2020,0.026,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Lo
 AFG,Afghanistan,27/02/2020,0.026,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 AFG,Afghanistan,28/02/2020,0.026,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 AFG,Afghanistan,29/02/2020,0.026,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,01/03/2020,0.026,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,02/03/2020,0.026,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,03/03/2020,0.026,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,04/03/2020,0.026,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,05/03/2020,0.026,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,06/03/2020,0.026,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,07/03/2020,0.026,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,08/03/2020,0.103,0.077,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,09/03/2020,0.103,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,10/03/2020,0.103,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,11/03/2020,0.18,0.077,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,12/03/2020,0.18,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,1/3/2020,0.026,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,2/3/2020,0.026,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,3/3/2020,0.026,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,4/3/2020,0.026,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,5/3/2020,0.026,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,6/3/2020,0.026,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,7/3/2020,0.026,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,8/3/2020,0.103,0.077,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,9/3/2020,0.103,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,10/3/2020,0.103,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,11/3/2020,0.18,0.077,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,12/3/2020,0.18,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 AFG,Afghanistan,13/03/2020,0.18,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 AFG,Afghanistan,14/03/2020,0.18,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 AFG,Afghanistan,15/03/2020,0.257,0.077,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
@@ -91,18 +91,18 @@ AFG,Afghanistan,28/03/2020,2.338,0.411,0.051,0.026,"Fever, Cough, Fatigue, Loss 
 AFG,Afghanistan,29/03/2020,2.723,0.385,0.077,0.026,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 AFG,Afghanistan,30/03/2020,2.928,0.206,0.103,0.026,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 AFG,Afghanistan,31/03/2020,3.622,0.694,0.103,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,01/04/2020,4.264,0.642,0.103,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,02/04/2020,4.932,0.668,0.103,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,03/04/2020,6.037,1.105,0.103,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,04/04/2020,6.037,0,0.103,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,05/04/2020,6.936,0.899,0.128,0.026,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,06/04/2020,7.681,0.745,0.18,0.051,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,07/04/2020,8.657,0.976,0.18,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,08/04/2020,9.428,0.771,0.283,0.103,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,09/04/2020,10.866,1.439,0.36,0.077,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,10/04/2020,12.433,1.567,0.385,0.026,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,11/04/2020,13.384,0.95,0.385,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,12/04/2020,14.257,0.873,0.462,0.077,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,1/4/2020,4.264,0.642,0.103,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,2/4/2020,4.932,0.668,0.103,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,3/4/2020,6.037,1.105,0.103,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,4/4/2020,6.037,0,0.103,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,5/4/2020,6.936,0.899,0.128,0.026,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,6/4/2020,7.681,0.745,0.18,0.051,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,7/4/2020,8.657,0.976,0.18,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,8/4/2020,9.428,0.771,0.283,0.103,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,9/4/2020,10.866,1.439,0.36,0.077,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,10/4/2020,12.433,1.567,0.385,0.026,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,11/4/2020,13.384,0.95,0.385,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,12/4/2020,14.257,0.873,0.462,0.077,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 AFG,Afghanistan,13/04/2020,15.593,1.336,0.462,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 AFG,Afghanistan,14/04/2020,17.083,1.49,0.539,0.077,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 AFG,Afghanistan,15/04/2020,18.341,1.259,0.591,0.051,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
@@ -121,18 +121,18 @@ AFG,Afghanistan,27/04/2020,39.329,1.747,1.464,0.257,"Fever, Cough, Fatigue, Loss
 AFG,Afghanistan,28/04/2020,43.747,4.418,1.464,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 AFG,Afghanistan,29/04/2020,46.932,3.185,1.541,0.077,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 AFG,Afghanistan,30/04/2020,50.066,3.134,1.541,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,01/05/2020,55.769,5.703,1.644,0.103,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,02/05/2020,59.982,4.213,1.747,0.103,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,03/05/2020,63.424,3.442,1.85,0.103,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,04/05/2020,69.461,6.037,2.183,0.334,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,05/05/2020,74.342,4.881,2.312,0.128,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,06/05/2020,82.819,8.477,2.44,0.128,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,07/05/2020,87.134,4.316,2.672,0.231,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,08/05/2020,91.527,4.393,2.723,0.051,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,09/05/2020,97.05,5.523,2.8,0.077,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,10/05/2020,103.601,6.55,2.954,0.154,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,11/05/2020,113.08,9.479,3.083,0.128,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,12/05/2020,120.401,7.321,3.134,0.051,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,1/5/2020,55.769,5.703,1.644,0.103,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,2/5/2020,59.982,4.213,1.747,0.103,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,3/5/2020,63.424,3.442,1.85,0.103,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,4/5/2020,69.461,6.037,2.183,0.334,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,5/5/2020,74.342,4.881,2.312,0.128,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,6/5/2020,82.819,8.477,2.44,0.128,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,7/5/2020,87.134,4.316,2.672,0.231,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,8/5/2020,91.527,4.393,2.723,0.051,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,9/5/2020,97.05,5.523,2.8,0.077,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,10/5/2020,103.601,6.55,2.954,0.154,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,11/5/2020,113.08,9.479,3.083,0.128,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,12/5/2020,120.401,7.321,3.134,0.051,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 AFG,Afghanistan,13/05/2020,127.593,7.193,3.262,0.128,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 AFG,Afghanistan,14/05/2020,134.247,6.653,3.339,0.077,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 AFG,Afghanistan,15/05/2020,137.149,2.903,3.494,0.154,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
@@ -152,18 +152,18 @@ AFG,Afghanistan,28/05/2020,319.973,16.055,5.831,0.18,"Fever, Cough, Fatigue, Los
 AFG,Afghanistan,29/05/2020,334.872,14.899,6.037,0.206,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 AFG,Afghanistan,30/05/2020,350.875,16.004,6.319,0.283,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 AFG,Afghanistan,31/05/2020,373.121,22.246,6.396,0.077,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,01/06/2020,390.589,17.468,6.602,0.206,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,02/06/2020,404.59,14,6.807,0.206,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,03/06/2020,424.087,19.497,6.936,0.128,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,04/06/2020,443.559,19.472,7.552,0.617,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,05/06/2020,463.775,20.217,7.706,0.154,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,06/06/2020,487.28,23.505,7.938,0.231,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,07/06/2020,502.23,14.951,8.4,0.462,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,08/06/2020,522.55,20.319,9.171,0.771,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,09/06/2020,537.321,14.771,9.479,0.308,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,10/06/2020,551.244,13.923,9.864,0.385,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,11/06/2020,568.814,17.571,10.404,0.539,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,12/06/2020,588.003,19.189,10.943,0.539,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,1/6/2020,390.589,17.468,6.602,0.206,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,2/6/2020,404.59,14,6.807,0.206,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,3/6/2020,424.087,19.497,6.936,0.128,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,4/6/2020,443.559,19.472,7.552,0.617,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,5/6/2020,463.775,20.217,7.706,0.154,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,6/6/2020,487.28,23.505,7.938,0.231,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,7/6/2020,502.23,14.951,8.4,0.462,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,8/6/2020,522.55,20.319,9.171,0.771,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,9/6/2020,537.321,14.771,9.479,0.308,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,10/6/2020,551.244,13.923,9.864,0.385,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,11/6/2020,568.814,17.571,10.404,0.539,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,12/6/2020,588.003,19.189,10.943,0.539,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 AFG,Afghanistan,13/06/2020,604.855,16.851,11.457,0.514,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 AFG,Afghanistan,14/06/2020,619.138,14.283,11.585,0.128,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 AFG,Afghanistan,15/06/2020,636.195,17.057,12.099,0.514,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
@@ -182,18 +182,18 @@ AFG,Afghanistan,27/06/2020,782.232,7.09,17.545,0.206,"Fever, Cough, Fatigue, Los
 AFG,Afghanistan,28/06/2020,786.471,4.239,18.059,0.514,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 AFG,Afghanistan,29/06/2020,795.487,9.017,18.521,0.462,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 AFG,Afghanistan,30/06/2020,802.449,6.962,18.829,0.308,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,01/07/2020,809.616,7.167,19.163,0.334,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,02/07/2020,817.81,8.195,19.883,0.719,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,03/07/2020,822.588,4.778,20.73,0.848,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,04/07/2020,830.346,7.758,21.039,0.308,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,05/07/2020,839.286,8.94,21.218,0.18,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,06/07/2020,846.453,7.167,22.195,0.976,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,07/07/2020,857.576,11.123,23.633,1.439,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,08/07/2020,862.97,5.395,24.044,0.411,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,09/07/2020,864.486,1.516,24.07,0.026,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,10/07/2020,871.036,6.55,24.584,0.514,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,11/07/2020,882.802,11.765,25.534,0.95,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,12/07/2020,884.985,2.183,25.945,0.411,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,1/7/2020,809.616,7.167,19.163,0.334,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,2/7/2020,817.81,8.195,19.883,0.719,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,3/7/2020,822.588,4.778,20.73,0.848,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,4/7/2020,830.346,7.758,21.039,0.308,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,5/7/2020,839.286,8.94,21.218,0.18,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,6/7/2020,846.453,7.167,22.195,0.976,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,7/7/2020,857.576,11.123,23.633,1.439,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,8/7/2020,862.97,5.395,24.044,0.411,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,9/7/2020,864.486,1.516,24.07,0.026,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,10/7/2020,871.036,6.55,24.584,0.514,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,11/7/2020,882.802,11.765,25.534,0.95,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,12/7/2020,884.985,2.183,25.945,0.411,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 AFG,Afghanistan,13/07/2020,884.985,0,25.945,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 AFG,Afghanistan,14/07/2020,885.088,0.103,25.996,0.051,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 AFG,Afghanistan,15/07/2020,892.409,7.321,26.844,0.848,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
@@ -213,18 +213,18 @@ AFG,Afghanistan,28/07/2020,934.229,2.697,32.624,0.026,"Fever, Cough, Fatigue, Lo
 AFG,Afghanistan,29/07/2020,936.875,2.646,32.65,0.026,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 AFG,Afghanistan,30/07/2020,936.875,0,32.65,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 AFG,Afghanistan,31/07/2020,938.699,1.824,32.65,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,01/08/2020,943.015,4.316,32.958,0.308,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,02/08/2020,943.015,0,32.958,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,03/08/2020,943.015,0,32.984,0.026,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,04/08/2020,943.965,0.95,33.086,0.103,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,05/08/2020,946.072,2.106,33.241,0.154,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,06/08/2020,947.793,1.721,33.343,0.103,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,07/08/2020,948.846,1.053,33.343,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,08/08/2020,950.85,2.004,33.575,0.231,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,09/08/2020,951.852,1.002,33.703,0.128,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,10/08/2020,951.852,0,33.703,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,11/08/2020,951.852,0,33.703,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-AFG,Afghanistan,12/08/2020,957.374,5.523,34.525,0.822,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,1/8/2020,943.015,4.316,32.958,0.308,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,2/8/2020,943.015,0,32.958,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,3/8/2020,943.015,0,32.984,0.026,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,4/8/2020,943.965,0.95,33.086,0.103,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,5/8/2020,946.072,2.106,33.241,0.154,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,6/8/2020,947.793,1.721,33.343,0.103,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,7/8/2020,948.846,1.053,33.343,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,8/8/2020,950.85,2.004,33.575,0.231,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,9/8/2020,951.852,1.002,33.703,0.128,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,10/8/2020,951.852,0,33.703,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,11/8/2020,951.852,0,33.703,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+AFG,Afghanistan,12/8/2020,957.374,5.523,34.525,0.822,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 AFG,Afghanistan,13/08/2020,959.327,1.952,34.782,0.257,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 AFG,Afghanistan,14/08/2020,961.356,2.029,35.013,0.231,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 AFG,Afghanistan,15/08/2020,961.536,0.18,35.013,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
@@ -233,18 +233,18 @@ AFG,Afghanistan,17/08/2020,965.775,1.156,35.321,0.128,"Fever, Cough, Fatigue, Lo
 AFG,Afghanistan,18/08/2020,965.852,0.077,35.321,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 AFG,Afghanistan,19/08/2020,965.852,0,35.321,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 BGD,Bangladesh,31/12/2019,0,0,0,0,None
-BGD,Bangladesh,01/01/2020,0,0,0,0,None
-BGD,Bangladesh,02/01/2020,0,0,0,0,None
-BGD,Bangladesh,03/01/2020,0,0,0,0,None
-BGD,Bangladesh,04/01/2020,0,0,0,0,None
-BGD,Bangladesh,05/01/2020,0,0,0,0,None
-BGD,Bangladesh,06/01/2020,0,0,0,0,None
-BGD,Bangladesh,07/01/2020,0,0,0,0,None
-BGD,Bangladesh,08/01/2020,0,0,0,0,None
-BGD,Bangladesh,09/01/2020,0,0,0,0,None
-BGD,Bangladesh,10/01/2020,0,0,0,0,None
-BGD,Bangladesh,11/01/2020,0,0,0,0,None
-BGD,Bangladesh,12/01/2020,0,0,0,0,None
+BGD,Bangladesh,1/1/2020,0,0,0,0,None
+BGD,Bangladesh,2/1/2020,0,0,0,0,None
+BGD,Bangladesh,3/1/2020,0,0,0,0,None
+BGD,Bangladesh,4/1/2020,0,0,0,0,None
+BGD,Bangladesh,5/1/2020,0,0,0,0,None
+BGD,Bangladesh,6/1/2020,0,0,0,0,None
+BGD,Bangladesh,7/1/2020,0,0,0,0,None
+BGD,Bangladesh,8/1/2020,0,0,0,0,None
+BGD,Bangladesh,9/1/2020,0,0,0,0,None
+BGD,Bangladesh,10/1/2020,0,0,0,0,None
+BGD,Bangladesh,11/1/2020,0,0,0,0,None
+BGD,Bangladesh,12/1/2020,0,0,0,0,None
 BGD,Bangladesh,13/01/2020,0,0,0,0,None
 BGD,Bangladesh,14/01/2020,0,0,0,0,None
 BGD,Bangladesh,15/01/2020,0,0,0,0,None
@@ -264,18 +264,18 @@ BGD,Bangladesh,28/01/2020,0,0,0,0,None
 BGD,Bangladesh,29/01/2020,0,0,0,0,None
 BGD,Bangladesh,30/01/2020,0,0,0,0,None
 BGD,Bangladesh,31/01/2020,0,0,0,0,None
-BGD,Bangladesh,01/02/2020,0,0,0,0,None
-BGD,Bangladesh,02/02/2020,0,0,0,0,None
-BGD,Bangladesh,03/02/2020,0,0,0,0,None
-BGD,Bangladesh,04/02/2020,0,0,0,0,None
-BGD,Bangladesh,05/02/2020,0,0,0,0,None
-BGD,Bangladesh,06/02/2020,0,0,0,0,None
-BGD,Bangladesh,07/02/2020,0,0,0,0,None
-BGD,Bangladesh,08/02/2020,0,0,0,0,None
-BGD,Bangladesh,09/02/2020,0,0,0,0,None
-BGD,Bangladesh,10/02/2020,0,0,0,0,None
-BGD,Bangladesh,11/02/2020,0,0,0,0,None
-BGD,Bangladesh,12/02/2020,0,0,0,0,None
+BGD,Bangladesh,1/2/2020,0,0,0,0,None
+BGD,Bangladesh,2/2/2020,0,0,0,0,None
+BGD,Bangladesh,3/2/2020,0,0,0,0,None
+BGD,Bangladesh,4/2/2020,0,0,0,0,None
+BGD,Bangladesh,5/2/2020,0,0,0,0,None
+BGD,Bangladesh,6/2/2020,0,0,0,0,None
+BGD,Bangladesh,7/2/2020,0,0,0,0,None
+BGD,Bangladesh,8/2/2020,0,0,0,0,None
+BGD,Bangladesh,9/2/2020,0,0,0,0,None
+BGD,Bangladesh,10/2/2020,0,0,0,0,None
+BGD,Bangladesh,11/2/2020,0,0,0,0,None
+BGD,Bangladesh,12/2/2020,0,0,0,0,None
 BGD,Bangladesh,13/02/2020,0,0,0,0,None
 BGD,Bangladesh,14/02/2020,0,0,0,0,None
 BGD,Bangladesh,15/02/2020,0,0,0,0,None
@@ -293,22 +293,22 @@ BGD,Bangladesh,26/02/2020,0,0,0,0,None
 BGD,Bangladesh,27/02/2020,0,0,0,0,None
 BGD,Bangladesh,28/02/2020,0,0,0,0,None
 BGD,Bangladesh,29/02/2020,0,0,0,0,None
-BGD,Bangladesh,01/03/2020,0,0,0,0,None
-BGD,Bangladesh,02/03/2020,0,0,0,0,None
-BGD,Bangladesh,03/03/2020,0,0,0,0,None
-BGD,Bangladesh,04/03/2020,0,0,0,0,None
-BGD,Bangladesh,05/03/2020,0,0,0,0,None
-BGD,Bangladesh,06/03/2020,0,0,0,0,None
-BGD,Bangladesh,07/03/2020,0,0,0,0,None
-BGD,Bangladesh,08/03/2020,0,0,0,0,None
-BGD,Bangladesh,09/03/2020,0.018,0.018,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-BGD,Bangladesh,10/03/2020,0,0,0,0,
-BGD,Bangladesh,11/03/2020,0,0,0,0,
-BGD,Bangladesh,12/03/2020,0,0,0,0,
-BGD,Bangladesh,13/03/2020,0,0,0,0,
-BGD,Bangladesh,14/03/2020,0,0,0,0,
+BGD,Bangladesh,1/3/2020,0,0,0,0,None
+BGD,Bangladesh,2/3/2020,0,0,0,0,None
+BGD,Bangladesh,3/3/2020,0,0,0,0,None
+BGD,Bangladesh,4/3/2020,0,0,0,0,None
+BGD,Bangladesh,5/3/2020,0,0,0,0,None
+BGD,Bangladesh,6/3/2020,0,0,0,0,None
+BGD,Bangladesh,7/3/2020,0,0,0,0,None
+BGD,Bangladesh,8/3/2020,0,0,0,0,None
+BGD,Bangladesh,9/3/2020,0.018,0.018,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+BGD,Bangladesh,10/3/2020,0,0,0,0,None
+BGD,Bangladesh,11/3/2020,0,0,0,0,None
+BGD,Bangladesh,12/3/2020,0,0,0,0,None
+BGD,Bangladesh,13/03/2020,0,0,0,0,None
+BGD,Bangladesh,14/03/2020,0,0,0,0,None
 BGD,Bangladesh,15/03/2020,0.018,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-BGD,Bangladesh,16/03/2020,0,0,0,0,
+BGD,Bangladesh,16/03/2020,0,0,0,0,None
 BGD,Bangladesh,17/03/2020,0.03,0.012,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 BGD,Bangladesh,18/03/2020,0.049,0.018,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 BGD,Bangladesh,19/03/2020,0.061,0.012,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
@@ -324,18 +324,18 @@ BGD,Bangladesh,28/03/2020,0.291,0,0.03,0,"Fever, Cough, Fatigue, Loss of taste, 
 BGD,Bangladesh,29/03/2020,0.291,0,0.03,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 BGD,Bangladesh,30/03/2020,0.298,0.006,0.03,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 BGD,Bangladesh,31/03/2020,0.298,0,0.03,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-BGD,Bangladesh,01/04/2020,0.31,0.012,0.03,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-BGD,Bangladesh,02/04/2020,0.328,0.018,0.036,0.006,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-BGD,Bangladesh,03/04/2020,0.34,0.012,0.036,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-BGD,Bangladesh,04/04/2020,0.37,0.03,0.036,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-BGD,Bangladesh,05/04/2020,0.425,0.055,0.049,0.012,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-BGD,Bangladesh,06/04/2020,0.534,0.109,0.055,0.006,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-BGD,Bangladesh,07/04/2020,0.747,0.213,0.073,0.018,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-BGD,Bangladesh,08/04/2020,0.996,0.249,0.103,0.03,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-BGD,Bangladesh,09/04/2020,1.324,0.328,0.121,0.018,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-BGD,Bangladesh,10/04/2020,2.004,0.68,0.128,0.006,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-BGD,Bangladesh,11/04/2020,2.575,0.571,0.164,0.036,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-BGD,Bangladesh,12/04/2020,2.927,0.352,0.182,0.018,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+BGD,Bangladesh,1/4/2020,0.31,0.012,0.03,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+BGD,Bangladesh,2/4/2020,0.328,0.018,0.036,0.006,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+BGD,Bangladesh,3/4/2020,0.34,0.012,0.036,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+BGD,Bangladesh,4/4/2020,0.37,0.03,0.036,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+BGD,Bangladesh,5/4/2020,0.425,0.055,0.049,0.012,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+BGD,Bangladesh,6/4/2020,0.534,0.109,0.055,0.006,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+BGD,Bangladesh,7/4/2020,0.747,0.213,0.073,0.018,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+BGD,Bangladesh,8/4/2020,0.996,0.249,0.103,0.03,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+BGD,Bangladesh,9/4/2020,1.324,0.328,0.121,0.018,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+BGD,Bangladesh,10/4/2020,2.004,0.68,0.128,0.006,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+BGD,Bangladesh,11/4/2020,2.575,0.571,0.164,0.036,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+BGD,Bangladesh,12/4/2020,2.927,0.352,0.182,0.018,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 BGD,Bangladesh,13/04/2020,3.771,0.844,0.206,0.024,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 BGD,Bangladesh,14/04/2020,4.876,1.105,0.237,0.03,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 BGD,Bangladesh,15/04/2020,6.145,1.269,0.279,0.043,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
@@ -354,18 +354,18 @@ BGD,Bangladesh,27/04/2020,32.886,2.538,0.88,0.03,"Fever, Cough, Fatigue, Loss of
 BGD,Bangladesh,28/04/2020,35.904,3.018,0.923,0.043,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 BGD,Bangladesh,29/04/2020,39.238,3.334,0.941,0.018,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 BGD,Bangladesh,30/04/2020,43.13,3.892,0.99,0.049,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-BGD,Bangladesh,01/05/2020,46.554,3.425,1.02,0.03,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-BGD,Bangladesh,02/05/2020,50.021,3.467,1.032,0.012,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-BGD,Bangladesh,03/05/2020,53.373,3.352,1.063,0.03,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-BGD,Bangladesh,04/05/2020,57.411,4.038,1.075,0.012,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-BGD,Bangladesh,05/05/2020,61.589,4.178,1.105,0.03,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-BGD,Bangladesh,06/05/2020,66.361,4.773,1.111,0.006,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-BGD,Bangladesh,07/05/2020,71.158,4.797,1.129,0.018,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-BGD,Bangladesh,08/05/2020,75.445,4.287,1.208,0.079,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-BGD,Bangladesh,09/05/2020,79.75,4.305,1.251,0.043,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-BGD,Bangladesh,10/05/2020,83.612,3.862,1.299,0.049,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-BGD,Bangladesh,11/05/2020,88.998,5.386,1.384,0.085,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-BGD,Bangladesh,12/05/2020,95.276,6.278,1.451,0.067,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+BGD,Bangladesh,1/5/2020,46.554,3.425,1.02,0.03,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+BGD,Bangladesh,2/5/2020,50.021,3.467,1.032,0.012,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+BGD,Bangladesh,3/5/2020,53.373,3.352,1.063,0.03,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+BGD,Bangladesh,4/5/2020,57.411,4.038,1.075,0.012,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+BGD,Bangladesh,5/5/2020,61.589,4.178,1.105,0.03,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+BGD,Bangladesh,6/5/2020,66.361,4.773,1.111,0.006,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+BGD,Bangladesh,7/5/2020,71.158,4.797,1.129,0.018,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+BGD,Bangladesh,8/5/2020,75.445,4.287,1.208,0.079,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+BGD,Bangladesh,9/5/2020,79.75,4.305,1.251,0.043,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+BGD,Bangladesh,10/5/2020,83.612,3.862,1.299,0.049,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+BGD,Bangladesh,11/5/2020,88.998,5.386,1.384,0.085,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+BGD,Bangladesh,12/5/2020,95.276,6.278,1.451,0.067,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 BGD,Bangladesh,13/05/2020,101.16,5.884,1.518,0.067,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 BGD,Bangladesh,14/05/2020,108.216,7.056,1.633,0.115,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 BGD,Bangladesh,15/05/2020,114.537,6.321,1.718,0.085,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
@@ -385,18 +385,18 @@ BGD,Bangladesh,28/05/2020,232.51,9.357,3.303,0.134,"Fever, Cough, Fatigue, Loss 
 BGD,Bangladesh,29/05/2020,244.831,12.32,3.394,0.091,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 BGD,Bangladesh,30/05/2020,260.15,15.32,3.534,0.14,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 BGD,Bangladesh,31/05/2020,270.861,10.711,3.704,0.17,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-BGD,Bangladesh,01/06/2020,286.315,15.453,3.947,0.243,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-BGD,Bangladesh,02/06/2020,300.772,14.458,4.08,0.134,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-BGD,Bangladesh,03/06/2020,318.448,17.676,4.305,0.225,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-BGD,Bangladesh,04/06/2020,334.812,16.364,4.53,0.225,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-BGD,Bangladesh,05/06/2020,349.525,14.713,4.742,0.213,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-BGD,Bangladesh,06/06/2020,366.696,17.172,4.924,0.182,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-BGD,Bangladesh,07/06/2020,382.696,16,5.137,0.213,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-BGD,Bangladesh,08/06/2020,399.352,16.656,5.392,0.255,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-BGD,Bangladesh,09/06/2020,415.959,16.607,5.647,0.255,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-BGD,Bangladesh,10/06/2020,435.213,19.254,5.92,0.273,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-BGD,Bangladesh,11/06/2020,454.583,19.37,6.145,0.225,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-BGD,Bangladesh,12/06/2020,473.935,19.352,6.37,0.225,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+BGD,Bangladesh,1/6/2020,286.315,15.453,3.947,0.243,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+BGD,Bangladesh,2/6/2020,300.772,14.458,4.08,0.134,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+BGD,Bangladesh,3/6/2020,318.448,17.676,4.305,0.225,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+BGD,Bangladesh,4/6/2020,334.812,16.364,4.53,0.225,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+BGD,Bangladesh,5/6/2020,349.525,14.713,4.742,0.213,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+BGD,Bangladesh,6/6/2020,366.696,17.172,4.924,0.182,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+BGD,Bangladesh,7/6/2020,382.696,16,5.137,0.213,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+BGD,Bangladesh,8/6/2020,399.352,16.656,5.392,0.255,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+BGD,Bangladesh,9/6/2020,415.959,16.607,5.647,0.255,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+BGD,Bangladesh,10/6/2020,435.213,19.254,5.92,0.273,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+BGD,Bangladesh,11/6/2020,454.583,19.37,6.145,0.225,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+BGD,Bangladesh,12/6/2020,473.935,19.352,6.37,0.225,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 BGD,Bangladesh,13/06/2020,495.011,21.076,6.649,0.279,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 BGD,Bangladesh,14/06/2020,512.352,17.342,6.916,0.267,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 BGD,Bangladesh,15/06/2020,531.425,19.072,7.11,0.194,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
@@ -415,18 +415,18 @@ BGD,Bangladesh,27/06/2020,792.243,23.487,10.086,0.243,"Fever, Cough, Fatigue, Lo
 BGD,Bangladesh,28/06/2020,813.519,21.276,10.292,0.206,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 BGD,Bangladesh,29/06/2020,836.648,23.128,10.553,0.261,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 BGD,Bangladesh,30/06/2020,861.021,24.373,10.826,0.273,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-BGD,Bangladesh,01/07/2020,883.378,22.357,11.215,0.389,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-BGD,Bangladesh,02/07/2020,906.3,22.922,11.464,0.249,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-BGD,Bangladesh,03/07/2020,930.704,24.404,11.695,0.231,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-BGD,Bangladesh,04/07/2020,949.612,18.908,11.95,0.255,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-BGD,Bangladesh,05/07/2020,969.577,19.965,12.126,0.176,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-BGD,Bangladesh,06/07/2020,986.202,16.625,12.46,0.334,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-BGD,Bangladesh,07/07/2020,1005.639,19.437,12.727,0.267,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-BGD,Bangladesh,08/07/2020,1024.019,18.38,13.061,0.334,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-BGD,Bangladesh,09/07/2020,1045.204,21.185,13.34,0.279,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-BGD,Bangladesh,10/07/2020,1065.606,20.402,13.589,0.249,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-BGD,Bangladesh,11/07/2020,1083.512,17.906,13.814,0.225,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-BGD,Bangladesh,12/07/2020,1099.822,16.309,13.996,0.182,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+BGD,Bangladesh,1/7/2020,883.378,22.357,11.215,0.389,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+BGD,Bangladesh,2/7/2020,906.3,22.922,11.464,0.249,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+BGD,Bangladesh,3/7/2020,930.704,24.404,11.695,0.231,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+BGD,Bangladesh,4/7/2020,949.612,18.908,11.95,0.255,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+BGD,Bangladesh,5/7/2020,969.577,19.965,12.126,0.176,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+BGD,Bangladesh,6/7/2020,986.202,16.625,12.46,0.334,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+BGD,Bangladesh,7/7/2020,1005.639,19.437,12.727,0.267,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+BGD,Bangladesh,8/7/2020,1024.019,18.38,13.061,0.334,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+BGD,Bangladesh,9/7/2020,1045.204,21.185,13.34,0.279,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+BGD,Bangladesh,10/7/2020,1065.606,20.402,13.589,0.249,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+BGD,Bangladesh,11/7/2020,1083.512,17.906,13.814,0.225,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+BGD,Bangladesh,12/7/2020,1099.822,16.309,13.996,0.182,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 BGD,Bangladesh,13/07/2020,1116.01,16.188,14.281,0.285,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 BGD,Bangladesh,14/07/2020,1134.827,18.817,14.518,0.237,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 BGD,Bangladesh,15/07/2020,1154.033,19.206,14.719,0.2,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
@@ -446,18 +446,18 @@ BGD,Bangladesh,28/07/2020,1373.647,16.832,18.004,0.225,"Fever, Cough, Fatigue, L
 BGD,Bangladesh,29/07/2020,1391.62,17.973,18.216,0.213,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 BGD,Bangladesh,30/07/2020,1409.891,18.271,18.429,0.213,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 BGD,Bangladesh,31/07/2020,1426.255,16.364,18.72,0.291,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-BGD,Bangladesh,01/08/2020,1443.086,16.832,18.89,0.17,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-BGD,Bangladesh,02/08/2020,1456.439,13.352,19.018,0.128,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-BGD,Bangladesh,03/08/2020,1461.819,5.38,19.151,0.134,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-BGD,Bangladesh,04/08/2020,1470.052,8.234,19.333,0.182,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-BGD,Bangladesh,05/08/2020,1481.698,11.646,19.637,0.304,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-BGD,Bangladesh,06/08/2020,1497.814,16.115,19.837,0.2,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-BGD,Bangladesh,07/08/2020,1515.89,18.076,20.074,0.237,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-BGD,Bangladesh,08/08/2020,1533.201,17.311,20.238,0.164,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-BGD,Bangladesh,09/08/2020,1549.056,15.854,20.432,0.194,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-BGD,Bangladesh,10/08/2020,1564.157,15.101,20.639,0.206,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-BGD,Bangladesh,11/08/2020,1581.808,17.651,20.876,0.237,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-BGD,Bangladesh,12/08/2020,1600,18.192,21.076,0.2,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+BGD,Bangladesh,1/8/2020,1443.086,16.832,18.89,0.17,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+BGD,Bangladesh,2/8/2020,1456.439,13.352,19.018,0.128,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+BGD,Bangladesh,3/8/2020,1461.819,5.38,19.151,0.134,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+BGD,Bangladesh,4/8/2020,1470.052,8.234,19.333,0.182,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+BGD,Bangladesh,5/8/2020,1481.698,11.646,19.637,0.304,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+BGD,Bangladesh,6/8/2020,1497.814,16.115,19.837,0.2,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+BGD,Bangladesh,7/8/2020,1515.89,18.076,20.074,0.237,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+BGD,Bangladesh,8/8/2020,1533.201,17.311,20.238,0.164,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+BGD,Bangladesh,9/8/2020,1549.056,15.854,20.432,0.194,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+BGD,Bangladesh,10/8/2020,1564.157,15.101,20.639,0.206,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+BGD,Bangladesh,11/8/2020,1581.808,17.651,20.876,0.237,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+BGD,Bangladesh,12/8/2020,1600,18.192,21.076,0.2,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 BGD,Bangladesh,13/08/2020,1618.186,18.186,21.331,0.255,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 BGD,Bangladesh,14/08/2020,1634.076,15.891,21.598,0.267,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 BGD,Bangladesh,15/08/2020,1650.871,16.795,21.805,0.206,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
@@ -466,18 +466,18 @@ BGD,Bangladesh,17/08/2020,1679.216,12.29,22.205,0.194,"Fever, Cough, Fatigue, Lo
 BGD,Bangladesh,18/08/2020,1694.973,15.757,22.43,0.225,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 BGD,Bangladesh,19/08/2020,1714.403,19.431,22.709,0.279,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 IND,India,31/12/2019,0,0,0,0,None
-IND,India,01/01/2020,0,0,0,0,None
-IND,India,02/01/2020,0,0,0,0,None
-IND,India,03/01/2020,0,0,0,0,None
-IND,India,04/01/2020,0,0,0,0,None
-IND,India,05/01/2020,0,0,0,0,None
-IND,India,06/01/2020,0,0,0,0,None
-IND,India,07/01/2020,0,0,0,0,None
-IND,India,08/01/2020,0,0,0,0,None
-IND,India,09/01/2020,0,0,0,0,None
-IND,India,10/01/2020,0,0,0,0,None
-IND,India,11/01/2020,0,0,0,0,None
-IND,India,12/01/2020,0,0,0,0,None
+IND,India,1/1/2020,0,0,0,0,None
+IND,India,2/1/2020,0,0,0,0,None
+IND,India,3/1/2020,0,0,0,0,None
+IND,India,4/1/2020,0,0,0,0,None
+IND,India,5/1/2020,0,0,0,0,None
+IND,India,6/1/2020,0,0,0,0,None
+IND,India,7/1/2020,0,0,0,0,None
+IND,India,8/1/2020,0,0,0,0,None
+IND,India,9/1/2020,0,0,0,0,None
+IND,India,10/1/2020,0,0,0,0,None
+IND,India,11/1/2020,0,0,0,0,None
+IND,India,12/1/2020,0,0,0,0,None
 IND,India,13/01/2020,0,0,0,0,None
 IND,India,14/01/2020,0,0,0,0,None
 IND,India,15/01/2020,0,0,0,0,None
@@ -497,18 +497,18 @@ IND,India,28/01/2020,0,0,0,0,None
 IND,India,29/01/2020,0,0,0,0,None
 IND,India,30/01/2020,0.001,0.001,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 IND,India,31/01/2020,0.001,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,01/02/2020,0.001,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,02/02/2020,0.001,0.001,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,03/02/2020,0.001,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,04/02/2020,0.002,0.001,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,05/02/2020,0.002,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,06/02/2020,0.002,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,07/02/2020,0.002,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,08/02/2020,0.002,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,09/02/2020,0.002,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,10/02/2020,0.002,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,11/02/2020,0.002,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,12/02/2020,0.002,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,1/2/2020,0.001,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,2/2/2020,0.001,0.001,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,3/2/2020,0.001,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,4/2/2020,0.002,0.001,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,5/2/2020,0.002,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,6/2/2020,0.002,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,7/2/2020,0.002,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,8/2/2020,0.002,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,9/2/2020,0.002,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,10/2/2020,0.002,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,11/2/2020,0.002,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,12/2/2020,0.002,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 IND,India,13/02/2020,0.002,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 IND,India,14/02/2020,0.002,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 IND,India,15/02/2020,0.002,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
@@ -526,18 +526,18 @@ IND,India,26/02/2020,0.002,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of 
 IND,India,27/02/2020,0.002,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 IND,India,28/02/2020,0.002,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 IND,India,29/02/2020,0.002,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,01/03/2020,0.002,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,02/03/2020,0.002,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,03/03/2020,0.004,0.001,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,04/03/2020,0.004,0.001,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,05/03/2020,0.02,0.016,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,06/03/2020,0.021,0.001,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,07/03/2020,0.022,0.001,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,08/03/2020,0.025,0.002,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,09/03/2020,0.025,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,10/03/2020,0.032,0.007,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,11/03/2020,0.036,0.004,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,12/03/2020,0.053,0.017,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,1/3/2020,0.002,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,2/3/2020,0.002,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,3/3/2020,0.004,0.001,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,4/3/2020,0.004,0.001,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,5/3/2020,0.02,0.016,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,6/3/2020,0.021,0.001,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,7/3/2020,0.022,0.001,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,8/3/2020,0.025,0.002,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,9/3/2020,0.025,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,10/3/2020,0.032,0.007,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,11/3/2020,0.036,0.004,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,12/3/2020,0.053,0.017,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 IND,India,13/03/2020,0.054,0.001,0.001,0.001,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 IND,India,14/03/2020,0.06,0.006,0.001,0.001,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 IND,India,15/03/2020,0.065,0.005,0.001,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
@@ -557,18 +557,18 @@ IND,India,28/03/2020,0.633,0.108,0.014,0.001,"Fever, Cough, Fatigue, Loss of tas
 IND,India,29/03/2020,0.709,0.077,0.018,0.004,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 IND,India,30/03/2020,0.776,0.067,0.021,0.003,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 IND,India,31/03/2020,0.907,0.13,0.023,0.002,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,01/04/2020,1.012,0.106,0.025,0.002,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,02/04/2020,1.424,0.412,0.036,0.011,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,03/04/2020,1.667,0.243,0.041,0.004,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,04/04/2020,2.103,0.436,0.049,0.009,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,05/04/2020,2.445,0.342,0.056,0.007,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,06/04/2020,2.947,0.502,0.079,0.023,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,07/04/2020,3.204,0.257,0.083,0.004,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,08/04/2020,3.764,0.56,0.108,0.025,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,09/04/2020,4.155,0.391,0.12,0.012,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,10/04/2020,4.646,0.491,0.144,0.024,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,11/04/2020,5.396,0.75,0.173,0.029,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,12/04/2020,6.055,0.659,0.198,0.025,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,1/4/2020,1.012,0.106,0.025,0.002,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,2/4/2020,1.424,0.412,0.036,0.011,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,3/4/2020,1.667,0.243,0.041,0.004,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,4/4/2020,2.103,0.436,0.049,0.009,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,5/4/2020,2.445,0.342,0.056,0.007,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,6/4/2020,2.947,0.502,0.079,0.023,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,7/4/2020,3.204,0.257,0.083,0.004,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,8/4/2020,3.764,0.56,0.108,0.025,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,9/4/2020,4.155,0.391,0.12,0.012,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,10/4/2020,4.646,0.491,0.144,0.024,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,11/4/2020,5.396,0.75,0.173,0.029,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,12/4/2020,6.055,0.659,0.198,0.025,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 IND,India,13/04/2020,6.632,0.577,0.223,0.025,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 IND,India,14/04/2020,7.509,0.878,0.246,0.022,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 IND,India,15/04/2020,8.288,0.779,0.273,0.028,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
@@ -587,18 +587,18 @@ IND,India,27/04/2020,20.212,1.012,0.632,0.035,"Fever, Cough, Fatigue, Loss of ta
 IND,India,28/04/2020,21.33,1.118,0.677,0.045,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 IND,India,29/04/2020,22.704,1.375,0.73,0.053,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 IND,India,30/04/2020,23.949,1.245,0.778,0.049,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,01/05/2020,25.393,1.444,0.831,0.053,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,02/05/2020,27.055,1.662,0.883,0.051,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,03/05/2020,28.971,1.916,0.943,0.06,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,04/05/2020,30.821,1.85,0.995,0.052,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,05/05/2020,33.647,2.826,1.136,0.141,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,06/05/2020,35.79,2.143,1.228,0.091,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,07/05/2020,38.371,2.58,1.292,0.064,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,08/05/2020,40.827,2.457,1.367,0.075,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,09/05/2020,43.233,2.406,1.436,0.069,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,10/05/2020,45.608,2.375,1.528,0.093,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,11/05/2020,48.661,3.053,1.599,0.07,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,12/05/2020,51.272,2.612,1.662,0.063,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,1/5/2020,25.393,1.444,0.831,0.053,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,2/5/2020,27.055,1.662,0.883,0.051,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,3/5/2020,28.971,1.916,0.943,0.06,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,4/5/2020,30.821,1.85,0.995,0.052,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,5/5/2020,33.647,2.826,1.136,0.141,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,6/5/2020,35.79,2.143,1.228,0.091,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,7/5/2020,38.371,2.58,1.292,0.064,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,8/5/2020,40.827,2.457,1.367,0.075,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,9/5/2020,43.233,2.406,1.436,0.069,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,10/5/2020,45.608,2.375,1.528,0.093,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,11/5/2020,48.661,3.053,1.599,0.07,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,12/5/2020,51.272,2.612,1.662,0.063,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 IND,India,13/05/2020,53.827,2.554,1.75,0.088,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 IND,India,14/05/2020,56.524,2.697,1.847,0.097,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 IND,India,15/05/2020,59.398,2.875,1.92,0.072,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
@@ -618,18 +618,18 @@ IND,India,28/05/2020,114.734,4.758,3.283,0.141,"Fever, Cough, Fatigue, Loss of t
 IND,India,29/05/2020,120.144,5.41,3.41,0.127,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 IND,India,30/05/2020,125.915,5.771,3.602,0.192,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 IND,India,31/05/2020,131.987,6.072,3.742,0.14,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,01/06/2020,138.068,6.081,3.909,0.167,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,02/06/2020,143.989,5.921,4.057,0.148,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,03/06/2020,150.445,6.456,4.214,0.157,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,04/06/2020,157.187,6.742,4.402,0.188,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,05/06/2020,164.326,7.138,4.6,0.198,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,06/06/2020,171.49,7.164,4.813,0.213,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,07/06/2020,178.715,7.225,5.021,0.208,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,08/06/2020,185.949,7.234,5.17,0.149,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,09/06/2020,193.186,7.237,5.41,0.24,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,10/06/2020,200.422,7.235,5.612,0.202,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,11/06/2020,207.665,7.243,5.871,0.259,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,12/06/2020,215.604,7.939,6.158,0.287,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,1/6/2020,138.068,6.081,3.909,0.167,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,2/6/2020,143.989,5.921,4.057,0.148,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,3/6/2020,150.445,6.456,4.214,0.157,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,4/6/2020,157.187,6.742,4.402,0.188,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,5/6/2020,164.326,7.138,4.6,0.198,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,6/6/2020,171.49,7.164,4.813,0.213,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,7/6/2020,178.715,7.225,5.021,0.208,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,8/6/2020,185.949,7.234,5.17,0.149,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,9/6/2020,193.186,7.237,5.41,0.24,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,10/6/2020,200.422,7.235,5.612,0.202,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,11/6/2020,207.665,7.243,5.871,0.259,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,12/6/2020,215.604,7.939,6.158,0.287,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 IND,India,13/06/2020,223.907,8.303,6.438,0.28,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 IND,India,14/06/2020,232.551,8.644,6.663,0.225,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 IND,India,15/06/2020,240.886,8.335,6.899,0.236,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
@@ -648,18 +648,18 @@ IND,India,27/06/2020,368.805,13.443,11.366,0.278,"Fever, Cough, Fatigue, Loss of
 IND,India,28/06/2020,383.23,14.425,11.663,0.297,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 IND,India,29/06/2020,397.331,14.101,11.938,0.275,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 IND,India,30/06/2020,410.752,13.422,12.241,0.303,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,01/07/2020,424.269,13.517,12.609,0.367,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,02/07/2020,438.144,13.875,12.923,0.314,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,03/07/2020,453.291,15.147,13.198,0.275,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,04/07/2020,469.792,16.501,13.518,0.32,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,05/07/2020,487.799,18.007,13.962,0.444,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,06/07/2020,505.37,17.571,14.27,0.308,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,07/07/2020,521.495,16.125,14.609,0.338,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,08/07/2020,537.982,16.487,14.958,0.349,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,09/07/2020,556.01,18.028,15.311,0.353,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,10/07/2020,575.217,19.207,15.655,0.344,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,11/07/2020,594.865,19.648,16.031,0.376,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,12/07/2020,615.616,20.751,16.43,0.399,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,1/7/2020,424.269,13.517,12.609,0.367,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,2/7/2020,438.144,13.875,12.923,0.314,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,3/7/2020,453.291,15.147,13.198,0.275,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,4/7/2020,469.792,16.501,13.518,0.32,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,5/7/2020,487.799,18.007,13.962,0.444,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,6/7/2020,505.37,17.571,14.27,0.308,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,7/7/2020,521.495,16.125,14.609,0.338,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,8/7/2020,537.982,16.487,14.958,0.349,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,9/7/2020,556.01,18.028,15.311,0.353,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,10/7/2020,575.217,19.207,15.655,0.344,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,11/7/2020,594.865,19.648,16.031,0.376,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,12/7/2020,615.616,20.751,16.43,0.399,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 IND,India,13/07/2020,636.414,20.798,16.793,0.362,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 IND,India,14/07/2020,657.065,20.651,17.193,0.401,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 IND,India,15/07/2020,678.39,21.325,17.615,0.422,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
@@ -679,18 +679,18 @@ IND,India,28/07/2020,1074.747,34.567,24.221,0.474,"Fever, Cough, Fatigue, Loss o
 IND,India,29/07/2020,1109.902,35.154,24.777,0.557,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 IND,India,30/07/2020,1147.672,37.77,25.339,0.562,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 IND,India,31/07/2020,1187.583,39.911,25.904,0.564,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,01/08/2020,1228.973,41.39,26.457,0.554,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,02/08/2020,1268.636,39.663,27.075,0.618,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,03/08/2020,1307.021,38.385,27.634,0.559,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,04/08/2020,1344.738,37.717,28.216,0.582,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,05/08/2020,1382.788,38.05,28.837,0.621,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,06/08/2020,1423.572,40.784,29.492,0.655,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,07/08/2020,1468.89,45.317,30.134,0.642,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,08/08/2020,1513.481,44.592,30.81,0.676,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,09/08/2020,1560.147,46.666,31.434,0.624,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,10/08/2020,1605.121,44.974,32.164,0.73,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,11/08/2020,1643.962,38.841,32.795,0.631,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-IND,India,12/08/2020,1688.138,44.176,33.399,0.604,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,1/8/2020,1228.973,41.39,26.457,0.554,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,2/8/2020,1268.636,39.663,27.075,0.618,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,3/8/2020,1307.021,38.385,27.634,0.559,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,4/8/2020,1344.738,37.717,28.216,0.582,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,5/8/2020,1382.788,38.05,28.837,0.621,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,6/8/2020,1423.572,40.784,29.492,0.655,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,7/8/2020,1468.89,45.317,30.134,0.642,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,8/8/2020,1513.481,44.592,30.81,0.676,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,9/8/2020,1560.147,46.666,31.434,0.624,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,10/8/2020,1605.121,44.974,32.164,0.73,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,11/8/2020,1643.962,38.841,32.795,0.631,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+IND,India,12/8/2020,1688.138,44.176,33.399,0.604,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 IND,India,13/08/2020,1736.688,48.55,34.082,0.683,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 IND,India,14/08/2020,1783.465,46.777,34.811,0.73,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 IND,India,15/08/2020,1830.568,47.103,35.533,0.722,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
@@ -698,236 +698,236 @@ IND,India,16/08/2020,1876.575,46.007,36.217,0.684,"Fever, Cough, Fatigue, Loss o
 IND,India,17/08/2020,1918.59,42.015,36.899,0.682,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 IND,India,18/08/2020,1958.502,39.912,37.534,0.635,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
 IND,India,19/08/2020,2005.264,46.761,38.325,0.791,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,31/12/2019,0,0,0,0,None
-PAK,Pakistan,01/01/2020,0,0,0,0,None
-PAK,Pakistan,02/01/2020,0,0,0,0,None
-PAK,Pakistan,03/01/2020,0,0,0,0,None
-PAK,Pakistan,04/01/2020,0,0,0,0,None
-PAK,Pakistan,05/01/2020,0,0,0,0,None
-PAK,Pakistan,06/01/2020,0,0,0,0,None
-PAK,Pakistan,07/01/2020,0,0,0,0,None
-PAK,Pakistan,08/01/2020,0,0,0,0,None
-PAK,Pakistan,09/01/2020,0,0,0,0,None
-PAK,Pakistan,10/01/2020,0,0,0,0,None
-PAK,Pakistan,11/01/2020,0,0,0,0,None
-PAK,Pakistan,12/01/2020,0,0,0,0,None
-PAK,Pakistan,13/01/2020,0,0,0,0,None
-PAK,Pakistan,14/01/2020,0,0,0,0,None
-PAK,Pakistan,15/01/2020,0,0,0,0,None
-PAK,Pakistan,16/01/2020,0,0,0,0,None
-PAK,Pakistan,17/01/2020,0,0,0,0,None
-PAK,Pakistan,18/01/2020,0,0,0,0,None
-PAK,Pakistan,19/01/2020,0,0,0,0,None
-PAK,Pakistan,20/01/2020,0,0,0,0,None
-PAK,Pakistan,21/01/2020,0,0,0,0,None
-PAK,Pakistan,22/01/2020,0,0,0,0,None
-PAK,Pakistan,23/01/2020,0,0,0,0,None
-PAK,Pakistan,24/01/2020,0,0,0,0,None
-PAK,Pakistan,25/01/2020,0,0,0,0,None
-PAK,Pakistan,26/01/2020,0,0,0,0,None
-PAK,Pakistan,27/01/2020,0,0,0,0,None
-PAK,Pakistan,28/01/2020,0,0,0,0,None
-PAK,Pakistan,29/01/2020,0,0,0,0,None
-PAK,Pakistan,30/01/2020,0,0,0,0,None
-PAK,Pakistan,31/01/2020,0,0,0,0,None
-PAK,Pakistan,01/02/2020,0,0,0,0,None
-PAK,Pakistan,02/02/2020,0,0,0,0,None
-PAK,Pakistan,03/02/2020,0,0,0,0,None
-PAK,Pakistan,04/02/2020,0,0,0,0,None
-PAK,Pakistan,05/02/2020,0,0,0,0,None
-PAK,Pakistan,06/02/2020,0,0,0,0,None
-PAK,Pakistan,07/02/2020,0,0,0,0,None
-PAK,Pakistan,08/02/2020,0,0,0,0,None
-PAK,Pakistan,09/02/2020,0,0,0,0,None
-PAK,Pakistan,10/02/2020,0,0,0,0,None
-PAK,Pakistan,11/02/2020,0,0,0,0,None
-PAK,Pakistan,12/02/2020,0,0,0,0,None
-PAK,Pakistan,13/02/2020,0,0,0,0,None
-PAK,Pakistan,14/02/2020,0,0,0,0,None
-PAK,Pakistan,15/02/2020,0,0,0,0,None
-PAK,Pakistan,16/02/2020,0,0,0,0,None
-PAK,Pakistan,17/02/2020,0,0,0,0,None
-PAK,Pakistan,18/02/2020,0,0,0,0,None
-PAK,Pakistan,19/02/2020,0,0,0,0,None
-PAK,Pakistan,20/02/2020,0,0,0,0,None
-PAK,Pakistan,21/02/2020,0,0,0,0,None
-PAK,Pakistan,22/02/2020,0,0,0,0,None
-PAK,Pakistan,23/02/2020,0,0,0,0,None
-PAK,Pakistan,24/02/2020,0,0,0,0,None
-PAK,Pakistan,25/02/2020,0,0,0,0,None
-PAK,Pakistan,26/02/2020,0,0,0,0,None
-PAK,Pakistan,27/02/2020,0.009,0.009,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,28/02/2020,0.009,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,29/02/2020,0.009,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,01/03/2020,0.018,0.009,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,02/03/2020,0.018,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,03/03/2020,0.018,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,04/03/2020,0.023,0.005,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,05/03/2020,0.023,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,06/03/2020,0.023,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,07/03/2020,0.027,0.005,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,08/03/2020,0.027,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,09/03/2020,0.027,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,10/03/2020,0.072,0.045,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,11/03/2020,0.072,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,12/03/2020,0.091,0.018,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,13/03/2020,0.095,0.005,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,14/03/2020,0.095,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,15/03/2020,0.136,0.041,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,16/03/2020,0.14,0.005,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,17/03/2020,0.847,0.706,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,18/03/2020,0.847,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,19/03/2020,1.367,0.521,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,20/03/2020,2.164,0.797,0.009,0.009,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,21/03/2020,2.241,0.077,0.014,0.005,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,22/03/2020,2.925,0.684,0.014,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,23/03/2020,3.549,0.625,0.023,0.009,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,24/03/2020,4.016,0.466,0.027,0.005,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,25/03/2020,4.486,0.471,0.032,0.005,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,26/03/2020,4.785,0.299,0.036,0.005,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,27/03/2020,5.419,0.634,0.041,0.005,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,28/03/2020,5.419,0,0.041,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,29/03/2020,6.374,0.955,0.05,0.009,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,30/03/2020,6.908,0.534,0.059,0.009,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,31/03/2020,7.357,0.448,0.081,0.023,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,01/04/2020,9.231,1.874,0.118,0.036,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,02/04/2020,10.372,1.141,0.14,0.023,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,03/04/2020,10.372,0,0.14,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,04/04/2020,10.372,0,0.14,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,05/04/2020,11.091,0.72,0.158,0.018,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,06/04/2020,14.835,3.744,0.226,0.068,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,07/04/2020,17.493,2.657,0.244,0.018,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,08/04/2020,18.434,0.942,0.263,0.018,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,09/04/2020,19.566,1.132,0.285,0.023,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,10/04/2020,20.829,1.263,0.299,0.014,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,11/04/2020,21.676,0.847,0.321,0.023,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,12/04/2020,22.807,1.132,0.389,0.068,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,13/04/2020,24.329,1.521,0.421,0.032,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,14/04/2020,25.877,1.548,0.435,0.014,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,15/04/2020,27.108,1.231,0.484,0.05,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,16/04/2020,29.449,2.341,0.561,0.077,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,17/04/2020,31.803,2.354,0.611,0.05,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,18/04/2020,33.867,2.064,0.647,0.036,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,19/04/2020,36.185,2.318,0.72,0.072,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,20/04/2020,38.109,1.924,0.797,0.077,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,21/04/2020,41.722,3.613,0.869,0.072,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,22/04/2020,44.135,2.413,0.946,0.077,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,23/04/2020,44.135,0,0.946,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,24/04/2020,50.5,6.365,1.073,0.127,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,25/04/2020,54.053,3.554,1.145,0.072,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,26/04/2020,57.598,3.545,1.218,0.072,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,27/04/2020,60.337,2.739,1.272,0.054,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,28/04/2020,63.737,3.4,1.363,0.091,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,29/04/2020,67.386,3.649,1.48,0.118,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,30/04/2020,71.342,3.957,1.566,0.086,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,01/05/2020,76.132,4.79,1.743,0.177,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,02/05/2020,82.004,5.872,1.888,0.145,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,03/05/2020,86.481,4.477,1.992,0.104,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,04/05/2020,91.384,4.903,2.092,0.1,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,05/05/2020,97.337,5.953,2.2,0.109,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,06/05/2020,102.086,4.749,2.381,0.181,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,07/05/2020,108.981,6.895,2.553,0.172,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,08/05/2020,116.966,7.986,2.689,0.136,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,09/05/2020,124.377,7.411,2.798,0.109,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,10/05/2020,133.391,9.013,2.893,0.095,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,11/05/2020,140.073,6.682,3.02,0.127,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,12/05/2020,145.234,5.161,3.196,0.177,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,13/05/2020,155.442,10.209,3.336,0.14,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,14/05/2020,162.016,6.573,3.486,0.149,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,15/05/2020,168.489,6.474,3.635,0.149,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,16/05/2020,175.647,7.157,3.776,0.14,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,17/05/2020,181.767,6.121,3.952,0.177,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,18/05/2020,190.704,8.936,4.088,0.136,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,19/05/2020,199.038,8.334,4.251,0.163,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,20/05/2020,207.784,8.746,4.459,0.208,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,21/05/2020,217.712,9.928,4.604,0.145,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,22/05/2020,229.496,11.784,4.83,0.226,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,23/05/2020,237.387,7.891,4.984,0.154,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,24/05/2020,247.184,9.797,5.129,0.145,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,25/05/2020,255.097,7.913,5.283,0.154,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,26/05/2020,261.236,6.139,5.419,0.136,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,27/05/2020,267.782,6.546,5.546,0.127,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,28/05/2020,277.18,9.398,5.704,0.158,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,29/05/2020,289.861,12.68,5.962,0.258,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,30/05/2020,300.857,10.996,6.315,0.353,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,31/05/2020,314.615,13.758,6.714,0.398,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,01/06/2020,328.033,13.418,6.985,0.272,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,02/06/2020,345.861,17.828,7.338,0.353,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,03/06/2020,364.263,18.403,7.642,0.303,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,04/06/2020,385.998,21.735,8.013,0.371,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,05/06/2020,404.038,18.04,8.321,0.308,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,06/06/2020,425.47,21.431,8.76,0.439,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,07/06/2020,447.924,22.454,9.063,0.303,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,08/06/2020,469.328,21.404,9.358,0.294,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,09/06/2020,490.361,21.033,9.833,0.475,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,10/06/2020,514.739,24.378,10.209,0.376,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,11/06/2020,541.151,26.411,10.666,0.457,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,12/06/2020,570.11,28.96,11.15,0.484,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,13/06/2020,599.41,29.299,11.549,0.398,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,14/06/2020,630.307,30.897,11.915,0.367,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,15/06/2020,654.065,23.758,12.354,0.439,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,16/06/2020,674.179,20.114,12.852,0.498,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,17/06/2020,700.613,26.434,13.468,0.616,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,18/06/2020,724.869,24.256,14.002,0.534,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,19/06/2020,747.251,22.382,14.618,0.616,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,20/06/2020,777.148,29.897,15.311,0.693,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,21/06/2020,799.561,22.414,15.849,0.539,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,22/06/2020,819.802,20.241,16.252,0.403,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,23/06/2020,837.666,17.864,16.728,0.475,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,24/06/2020,855.285,17.619,16.999,0.272,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,25/06/2020,873.593,18.308,17.669,0.67,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,26/06/2020,886.156,12.563,17.936,0.267,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,27/06/2020,900.362,14.206,18.267,0.33,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,28/06/2020,918.796,18.434,18.643,0.376,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,29/06/2020,934.899,16.103,18.864,0.222,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,30/06/2020,947.688,12.789,19.485,0.62,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,01/07/2020,966.398,18.71,19.897,0.412,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,02/07/2020,986.041,19.643,20.25,0.353,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,03/07/2020,1004.544,18.502,20.603,0.353,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,04/07/2020,1019.877,15.333,20.911,0.308,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,05/07/2020,1034.323,14.446,21.332,0.421,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,06/07/2020,1049.462,15.139,21.558,0.226,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,07/07/2020,1061.644,12.182,21.907,0.349,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,08/07/2020,1075.135,13.491,22.282,0.376,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,09/07/2020,1090.341,15.207,22.559,0.276,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,10/07/2020,1102.795,12.454,22.898,0.34,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,11/07/2020,1115.254,12.459,23.192,0.294,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,12/07/2020,1126.667,11.413,23.527,0.335,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,13/07/2020,1139.13,12.463,23.84,0.312,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,14/07/2020,1148.089,8.959,24.084,0.244,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,15/07/2020,1157.89,9.801,24.383,0.299,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,16/07/2020,1167.601,9.711,24.564,0.181,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,17/07/2020,1177.04,9.439,24.786,0.222,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,18/07/2020,1185.722,8.683,24.999,0.213,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,19/07/2020,1192.871,7.148,25.207,0.208,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,20/07/2020,1200.055,7.184,25.347,0.14,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,21/07/2020,1204.641,4.586,25.528,0.181,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,22/07/2020,1210.671,6.03,25.7,0.172,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,23/07/2020,1218.653,7.981,25.845,0.145,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,24/07/2020,1224.126,5.473,26.09,0.244,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,25/07/2020,1230.858,6.732,26.198,0.109,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,26/07/2020,1236.408,5.55,26.357,0.158,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,27/07/2020,1241.732,5.324,26.447,0.091,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,28/07/2020,1245.969,4.237,26.551,0.104,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,29/07/2020,1250.781,4.812,26.674,0.122,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,30/07/2020,1255.824,5.043,26.818,0.145,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,31/07/2020,1259.912,4.088,26.941,0.122,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,01/08/2020,1259.912,0,26.941,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,02/08/2020,1259.912,0,26.941,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,03/08/2020,1267.717,7.805,27.09,0.149,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,04/08/2020,1269.673,1.956,27.158,0.068,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,05/08/2020,1272.729,3.056,27.226,0.068,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,06/08/2020,1276.02,3.291,27.321,0.095,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,07/08/2020,1279.56,3.54,27.398,0.077,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,08/08/2020,1283.372,3.812,27.47,0.072,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,09/08/2020,1286.242,2.87,27.534,0.063,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,10/08/2020,1288.682,2.44,27.602,0.068,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,11/08/2020,1291.086,2.404,27.67,0.068,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,12/08/2020,1294.391,3.305,27.747,0.077,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,13/08/2020,1297.8,3.409,27.792,0.045,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,14/08/2020,1300.634,2.834,27.855,0.063,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,15/08/2020,1304.015,3.382,27.896,0.041,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,16/08/2020,1307.049,3.033,27.923,0.027,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,17/08/2020,1309.303,2.254,27.955,0.032,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,18/08/2020,1312.096,2.793,28.023,0.068,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
-PAK,Pakistan,19/08/2020,1312.096,0,28.023,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,31-Dec-19,0,0,0,0,None
+PAK,Pakistan,1-Jan-20,0,0,0,0,None
+PAK,Pakistan,2-Jan-20,0,0,0,0,None
+PAK,Pakistan,3-Jan-20,0,0,0,0,None
+PAK,Pakistan,4-Jan-20,0,0,0,0,None
+PAK,Pakistan,5-Jan-20,0,0,0,0,None
+PAK,Pakistan,6-Jan-20,0,0,0,0,None
+PAK,Pakistan,7-Jan-20,0,0,0,0,None
+PAK,Pakistan,8-Jan-20,0,0,0,0,None
+PAK,Pakistan,9-Jan-20,0,0,0,0,None
+PAK,Pakistan,10-Jan-20,0,0,0,0,None
+PAK,Pakistan,11-Jan-20,0,0,0,0,None
+PAK,Pakistan,12-Jan-20,0,0,0,0,None
+PAK,Pakistan,13-Jan-20,0,0,0,0,None
+PAK,Pakistan,14-Jan-20,0,0,0,0,None
+PAK,Pakistan,15-Jan-20,0,0,0,0,None
+PAK,Pakistan,16-Jan-20,0,0,0,0,None
+PAK,Pakistan,17-Jan-20,0,0,0,0,None
+PAK,Pakistan,18-Jan-20,0,0,0,0,None
+PAK,Pakistan,19-Jan-20,0,0,0,0,None
+PAK,Pakistan,20-Jan-20,0,0,0,0,None
+PAK,Pakistan,21-Jan-20,0,0,0,0,None
+PAK,Pakistan,22-Jan-20,0,0,0,0,None
+PAK,Pakistan,23-Jan-20,0,0,0,0,None
+PAK,Pakistan,24-Jan-20,0,0,0,0,None
+PAK,Pakistan,25-Jan-20,0,0,0,0,None
+PAK,Pakistan,26-Jan-20,0,0,0,0,None
+PAK,Pakistan,27-Jan-20,0,0,0,0,None
+PAK,Pakistan,28-Jan-20,0,0,0,0,None
+PAK,Pakistan,29-Jan-20,0,0,0,0,None
+PAK,Pakistan,30-Jan-20,0,0,0,0,None
+PAK,Pakistan,31-Jan-20,0,0,0,0,None
+PAK,Pakistan,1-Feb-20,0,0,0,0,None
+PAK,Pakistan,2-Feb-20,0,0,0,0,None
+PAK,Pakistan,3-Feb-20,0,0,0,0,None
+PAK,Pakistan,4-Feb-20,0,0,0,0,None
+PAK,Pakistan,5-Feb-20,0,0,0,0,None
+PAK,Pakistan,6-Feb-20,0,0,0,0,None
+PAK,Pakistan,7-Feb-20,0,0,0,0,None
+PAK,Pakistan,8-Feb-20,0,0,0,0,None
+PAK,Pakistan,9-Feb-20,0,0,0,0,None
+PAK,Pakistan,10-Feb-20,0,0,0,0,None
+PAK,Pakistan,11-Feb-20,0,0,0,0,None
+PAK,Pakistan,12-Feb-20,0,0,0,0,None
+PAK,Pakistan,13-Feb-20,0,0,0,0,None
+PAK,Pakistan,14-Feb-20,0,0,0,0,None
+PAK,Pakistan,15-Feb-20,0,0,0,0,None
+PAK,Pakistan,16-Feb-20,0,0,0,0,None
+PAK,Pakistan,17-Feb-20,0,0,0,0,None
+PAK,Pakistan,18-Feb-20,0,0,0,0,None
+PAK,Pakistan,19-Feb-20,0,0,0,0,None
+PAK,Pakistan,20-Feb-20,0,0,0,0,None
+PAK,Pakistan,21-Feb-20,0,0,0,0,None
+PAK,Pakistan,22-Feb-20,0,0,0,0,None
+PAK,Pakistan,23-Feb-20,0,0,0,0,None
+PAK,Pakistan,24-Feb-20,0,0,0,0,None
+PAK,Pakistan,25-Feb-20,0,0,0,0,None
+PAK,Pakistan,26-Feb-20,0,0,0,0,None
+PAK,Pakistan,27-Feb-20,0.009,0.009,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,28-Feb-20,0.009,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,29-Feb-20,0.009,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,1-Mar-20,0.018,0.009,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,2-Mar-20,0.018,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,3-Mar-20,0.018,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,4-Mar-20,0.023,0.005,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,5-Mar-20,0.023,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,6-Mar-20,0.023,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,7-Mar-20,0.027,0.005,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,8-Mar-20,0.027,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,9-Mar-20,0.027,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,10-Mar-20,0.072,0.045,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,11-Mar-20,0.072,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,12-Mar-20,0.091,0.018,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,13-Mar-20,0.095,0.005,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,14-Mar-20,0.095,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,15-Mar-20,0.136,0.041,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,16-Mar-20,0.14,0.005,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,17-Mar-20,0.847,0.706,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,18-Mar-20,0.847,0,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,19-Mar-20,1.367,0.521,0,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,20-Mar-20,2.164,0.797,0.009,0.009,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,21-Mar-20,2.241,0.077,0.014,0.005,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,22-Mar-20,2.925,0.684,0.014,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,23-Mar-20,3.549,0.625,0.023,0.009,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,24-Mar-20,4.016,0.466,0.027,0.005,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,25-Mar-20,4.486,0.471,0.032,0.005,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,26-Mar-20,4.785,0.299,0.036,0.005,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,27-Mar-20,5.419,0.634,0.041,0.005,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,28-Mar-20,5.419,0,0.041,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,29-Mar-20,6.374,0.955,0.05,0.009,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,30-Mar-20,6.908,0.534,0.059,0.009,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,31-Mar-20,7.357,0.448,0.081,0.023,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,1-Apr-20,9.231,1.874,0.118,0.036,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,2-Apr-20,10.372,1.141,0.14,0.023,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,3-Apr-20,10.372,0,0.14,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,4-Apr-20,10.372,0,0.14,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,5-Apr-20,11.091,0.72,0.158,0.018,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,6-Apr-20,14.835,3.744,0.226,0.068,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,7-Apr-20,17.493,2.657,0.244,0.018,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,8-Apr-20,18.434,0.942,0.263,0.018,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,9-Apr-20,19.566,1.132,0.285,0.023,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,10-Apr-20,20.829,1.263,0.299,0.014,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,11-Apr-20,21.676,0.847,0.321,0.023,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,12-Apr-20,22.807,1.132,0.389,0.068,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,13-Apr-20,24.329,1.521,0.421,0.032,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,14-Apr-20,25.877,1.548,0.435,0.014,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,15-Apr-20,27.108,1.231,0.484,0.05,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,16-Apr-20,29.449,2.341,0.561,0.077,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,17-Apr-20,31.803,2.354,0.611,0.05,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,18-Apr-20,33.867,2.064,0.647,0.036,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,19-Apr-20,36.185,2.318,0.72,0.072,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,20-Apr-20,38.109,1.924,0.797,0.077,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,21-Apr-20,41.722,3.613,0.869,0.072,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,22-Apr-20,44.135,2.413,0.946,0.077,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,23-Apr-20,44.135,0,0.946,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,24-Apr-20,50.5,6.365,1.073,0.127,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,25-Apr-20,54.053,3.554,1.145,0.072,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,26-Apr-20,57.598,3.545,1.218,0.072,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,27-Apr-20,60.337,2.739,1.272,0.054,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,28-Apr-20,63.737,3.4,1.363,0.091,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,29-Apr-20,67.386,3.649,1.48,0.118,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,30-Apr-20,71.342,3.957,1.566,0.086,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,1-May-20,76.132,4.79,1.743,0.177,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,2-May-20,82.004,5.872,1.888,0.145,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,3-May-20,86.481,4.477,1.992,0.104,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,4-May-20,91.384,4.903,2.092,0.1,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,5-May-20,97.337,5.953,2.2,0.109,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,6-May-20,102.086,4.749,2.381,0.181,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,7-May-20,108.981,6.895,2.553,0.172,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,8-May-20,116.966,7.986,2.689,0.136,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,9-May-20,124.377,7.411,2.798,0.109,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,10-May-20,133.391,9.013,2.893,0.095,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,11-May-20,140.073,6.682,3.02,0.127,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,12-May-20,145.234,5.161,3.196,0.177,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,13-May-20,155.442,10.209,3.336,0.14,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,14-May-20,162.016,6.573,3.486,0.149,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,15-May-20,168.489,6.474,3.635,0.149,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,16-May-20,175.647,7.157,3.776,0.14,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,17-May-20,181.767,6.121,3.952,0.177,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,18-May-20,190.704,8.936,4.088,0.136,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,19-May-20,199.038,8.334,4.251,0.163,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,20-May-20,207.784,8.746,4.459,0.208,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,21-May-20,217.712,9.928,4.604,0.145,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,22-May-20,229.496,11.784,4.83,0.226,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,23-May-20,237.387,7.891,4.984,0.154,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,24-May-20,247.184,9.797,5.129,0.145,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,25-May-20,255.097,7.913,5.283,0.154,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,26-May-20,261.236,6.139,5.419,0.136,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,27-May-20,267.782,6.546,5.546,0.127,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,28-May-20,277.18,9.398,5.704,0.158,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,29-May-20,289.861,12.68,5.962,0.258,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,30-May-20,300.857,10.996,6.315,0.353,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,31-May-20,314.615,13.758,6.714,0.398,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,1-Jun-20,328.033,13.418,6.985,0.272,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,2-Jun-20,345.861,17.828,7.338,0.353,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,3-Jun-20,364.263,18.403,7.642,0.303,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,4-Jun-20,385.998,21.735,8.013,0.371,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,5-Jun-20,404.038,18.04,8.321,0.308,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,6-Jun-20,425.47,21.431,8.76,0.439,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,7-Jun-20,447.924,22.454,9.063,0.303,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,8-Jun-20,469.328,21.404,9.358,0.294,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,9-Jun-20,490.361,21.033,9.833,0.475,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,10-Jun-20,514.739,24.378,10.209,0.376,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,11-Jun-20,541.151,26.411,10.666,0.457,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,12-Jun-20,570.11,28.96,11.15,0.484,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,13-Jun-20,599.41,29.299,11.549,0.398,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,14-Jun-20,630.307,30.897,11.915,0.367,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,15-Jun-20,654.065,23.758,12.354,0.439,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,16-Jun-20,674.179,20.114,12.852,0.498,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,17-Jun-20,700.613,26.434,13.468,0.616,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,18-Jun-20,724.869,24.256,14.002,0.534,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,19-Jun-20,747.251,22.382,14.618,0.616,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,20-Jun-20,777.148,29.897,15.311,0.693,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,21-Jun-20,799.561,22.414,15.849,0.539,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,22-Jun-20,819.802,20.241,16.252,0.403,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,23-Jun-20,837.666,17.864,16.728,0.475,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,24-Jun-20,855.285,17.619,16.999,0.272,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,25-Jun-20,873.593,18.308,17.669,0.67,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,26-Jun-20,886.156,12.563,17.936,0.267,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,27-Jun-20,900.362,14.206,18.267,0.33,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,28-Jun-20,918.796,18.434,18.643,0.376,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,29-Jun-20,934.899,16.103,18.864,0.222,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,30-Jun-20,947.688,12.789,19.485,0.62,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,1-Jul-20,966.398,18.71,19.897,0.412,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,2-Jul-20,986.041,19.643,20.25,0.353,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,3-Jul-20,1004.544,18.502,20.603,0.353,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,4-Jul-20,1019.877,15.333,20.911,0.308,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,5-Jul-20,1034.323,14.446,21.332,0.421,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,6-Jul-20,1049.462,15.139,21.558,0.226,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,7-Jul-20,1061.644,12.182,21.907,0.349,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,8-Jul-20,1075.135,13.491,22.282,0.376,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,9-Jul-20,1090.341,15.207,22.559,0.276,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,10-Jul-20,1102.795,12.454,22.898,0.34,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,11-Jul-20,1115.254,12.459,23.192,0.294,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,12-Jul-20,1126.667,11.413,23.527,0.335,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,13-Jul-20,1139.13,12.463,23.84,0.312,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,14-Jul-20,1148.089,8.959,24.084,0.244,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,15-Jul-20,1157.89,9.801,24.383,0.299,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,16-Jul-20,1167.601,9.711,24.564,0.181,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,17-Jul-20,1177.04,9.439,24.786,0.222,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,18-Jul-20,1185.722,8.683,24.999,0.213,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,19-Jul-20,1192.871,7.148,25.207,0.208,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,20-Jul-20,1200.055,7.184,25.347,0.14,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,21-Jul-20,1204.641,4.586,25.528,0.181,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,22-Jul-20,1210.671,6.03,25.7,0.172,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,23-Jul-20,1218.653,7.981,25.845,0.145,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,24-Jul-20,1224.126,5.473,26.09,0.244,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,25-Jul-20,1230.858,6.732,26.198,0.109,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,26-Jul-20,1236.408,5.55,26.357,0.158,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,27-Jul-20,1241.732,5.324,26.447,0.091,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,28-Jul-20,1245.969,4.237,26.551,0.104,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,29-Jul-20,1250.781,4.812,26.674,0.122,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,30-Jul-20,1255.824,5.043,26.818,0.145,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,31-Jul-20,1259.912,4.088,26.941,0.122,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,1-Aug-20,1259.912,0,26.941,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,2-Aug-20,1259.912,0,26.941,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,3-Aug-20,1267.717,7.805,27.09,0.149,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,4-Aug-20,1269.673,1.956,27.158,0.068,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,5-Aug-20,1272.729,3.056,27.226,0.068,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,6-Aug-20,1276.02,3.291,27.321,0.095,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,7-Aug-20,1279.56,3.54,27.398,0.077,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,8-Aug-20,1283.372,3.812,27.47,0.072,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,9-Aug-20,1286.242,2.87,27.534,0.063,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,10-Aug-20,1288.682,2.44,27.602,0.068,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,11-Aug-20,1291.086,2.404,27.67,0.068,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,12-Aug-20,1294.391,3.305,27.747,0.077,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,13-Aug-20,1297.8,3.409,27.792,0.045,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,14-Aug-20,1300.634,2.834,27.855,0.063,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,15-Aug-20,1304.015,3.382,27.896,0.041,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,16-Aug-20,1307.049,3.033,27.923,0.027,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,17-Aug-20,1309.303,2.254,27.955,0.032,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,18-Aug-20,1312.096,2.793,28.023,0.068,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
+PAK,Pakistan,19-Aug-20,1312.096,0,28.023,0,"Fever, Cough, Fatigue, Loss of taste, Loss of smell, Headache, Sore throat, Shortness of breath, Muscle aches, Chills"
