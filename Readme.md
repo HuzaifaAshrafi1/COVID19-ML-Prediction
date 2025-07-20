@@ -88,7 +88,6 @@ covid19-risk-predictor/
 ### 💻 Run the app:
 
 ```bash
-cd scripts/
 python -m streamlit run scripts/PredictionApp.py
 ````
 
@@ -99,18 +98,22 @@ python -m streamlit run scripts/PredictionApp.py
 Make sure Python 3.7+ is installed. Then:
 
 ```bash
-# Clone the repository (if applicable)
-# git clone <[repo-url](https://github.com/HuzaifaAshrafi1/COVID19-ML-Prediction.git)>
+# Clone the repository
+git clone https://github.com/HuzaifaAshrafi1/COVID19-ML-Prediction.git
 
-# Navigate to the project
-cd covid19-risk-predictor
+# Navigate to the project directory
+cd COVID19-ML-Prediction
 
-# Create a virtual environment (optional but recommended)
+# (Optional) Create and activate a virtual environment
 python -m venv venv
-source venv/bin/activate  # on Windows use venv\Scripts\activate
+source venv/bin/activate     # On Windows use: venv\Scripts\activate
 
-# Install dependencies
+# Install all required packages
 pip install -r requirements.txt
+
+# Run the Streamlit app
+python -m streamlit run scripts/PredictionApp.py
+
 ```
 
 ---
