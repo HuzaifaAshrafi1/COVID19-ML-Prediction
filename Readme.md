@@ -215,7 +215,7 @@ Deploy your Streamlit app easily on **Streamlit Community Cloud**:
 
 Feel free to reach out for collaboration or questions!
 
-**Email:** \[huzaifa123ashrafi@gmail.com(mailto:huzaifa123ashrafi@gmail.com)]
-**LinkedIn:** [www.linkedin.com/in/huzaifa-ashrafi](https://www.linkedin.com/in/huzaifa-ashrafi)
+**Email:** huzaifa123ashrafi@gmail.com
+**LinkedIn:** www.linkedin.com/in/huzaifa-ashrafi
 
 ---
