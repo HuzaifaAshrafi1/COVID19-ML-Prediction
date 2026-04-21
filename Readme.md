@@ -184,24 +184,6 @@ All plots, PCA visuals, and confusion matrices are saved in:
 visuals/
 ```
 
----
-
-## Deployment
-
-Deploy your Streamlit app easily on **Streamlit Community Cloud**:
-
-1. Push your complete project to GitHub, including:
-
-   * `scripts/PredictionApp.py`
-   * `models/` folder with model `.pkl` files
-   * `requirements.txt`
-2. Sign up/log in at [https://streamlit.io/cloud](https://streamlit.io/cloud)
-3. Create a new app linked to your GitHub repo
-4. Set the main file path to `scripts/PredictionApp.py`
-5. Deploy and share the public URL!
-
----
-
 ## Future Improvements
 
 * Deploy on platforms like Heroku or Docker for more scalability
