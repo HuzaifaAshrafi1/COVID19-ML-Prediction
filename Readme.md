@@ -198,6 +198,7 @@ visuals/
 Feel free to reach out for collaboration or questions!
 **Email:** ezaz.azhar@gmail.com 
 **Email:** huzaifa123ashrafi@gmail.com
+**Email:** maffan2830@gmail.com
 **LinkedIn:** www.linkedin.com/in/huzaifa-ashrafi
 
 ---
